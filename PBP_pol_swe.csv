@@ -1209,7 +1209,7 @@ match_id,time,numeric_time,half,action,number,team,goalkeeper,opponent_goalkeepe
 7,30:00,1800,2,SZEKELY M Goalkeeper,12,HUN,12,66,,,,0,,,,,,,,,,,,,,TRUE,0,,,HUN,45,,,21 - 11,10
 7,30:00,1800,2,KIM D Goalkeeper,66,KOR,66,12,,,,0,,,,,,,,,,,,,,FALSE,0,,,HUN,45,,,21 - 11,10
 7,30:42,1842,2,ROSTA M Shot centre 6m saved middle right,20,HUN,12,66,,,20,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,0,0,6,HUN,45,30:00,31:58,21 - 11,10
-7,31:58,1918,2,SZITA Z Shot left 6m post,30,HUN,12,66,,,30,0,,post,left 6m,1,,,,,,,,,,TRUE,0,0,6,HUN,45,29:54,31:58,21 - 11,10
+7,31:58,1918,2,SZITA Z Shot left 6m post,30,HUN,12,66,,,30,0,,post,left 6m,1,,,,,,,,,,TRUE,0,0,6,HUN,45,30:00,31:58,21 - 11,10
 7,32:13,1933,2,LEE S Turnover,14,KOR,66,12,,,,0,,,,,,,,,,14,,,,FALSE,0,0,6,KOR,46,31:58,32:13,21 - 11,10
 7,32:35,1955,2,"LEKAI M Goal left 6m bottom right, 83 km/h",66,HUN,12,66,,66,,1,83,bottom right,left 6m,,,bottom,right,,,,,,,TRUE,0,0,6,HUN,47,32:13,32:35,22 - 11,11
 7,32:44,1964,2,"HA T Goal right 9m bottom right, 84 km/h",37,KOR,66,12,,37,,1,84,bottom right,right 9m,,,bottom,right,,,,,,,FALSE,0,0,6,KOR,48,32:35,32:44,22 - 12,10
