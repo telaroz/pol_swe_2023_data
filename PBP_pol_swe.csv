@@ -89,7 +89,7 @@ match_id,time,numeric_time,half,action,number,team,goalkeeper,opponent_goalkeepe
 1,29:53,1793,1,Team timeout,"",FRA,12,94,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,FRA,53,29:37,30:00,14 - 13,1
 1,30:00,1800,2,GERARD V Goalkeeper,12,FRA,12,94,,,,0,,,,,,,,,,,,,,TRUE,0,,,POL,54,,,14 - 13,1
 1,30:00,1800,2,MORAWSKI A Goalkeeper,94,POL,94,12,,,,0,,,,,,,,,,,,,,FALSE,0,,,POL,54,,,14 - 13,1
-1,30:34,1834,2,SICKO S Shot left 9m missed,9,POL,94,12,,,9,0,,missed,left 9m,,,,,,,,,,,FALSE,0,0,6,POL,54,29:53,30:34,14 - 13,1
+1,30:34,1834,2,SICKO S Shot left 9m missed,9,POL,94,12,,,9,0,,missed,left 9m,,,,,,,,,,,FALSE,0,0,6,POL,54,30:00,30:34,14 - 13,1
 1,30:40,1840,2,"TOURNAT N Goal fast break bottom right (10 MEM D), 100 km/h",11,FRA,12,94,10,11,,1,100,bottom right,fast break,,,bottom,right,,,,,,,TRUE,0,0,6,FRA,55,30:34,30:40,15 - 13,2
 1,31:15,1875,2,FABREGAS L 7m caused,23,FRA,12,94,,,,0,,,,,,,,23,,,,,,TRUE,0,0,6,POL,56,30:40,31:28,15 - 13,2
 1,31:15,1875,2,OLEJNICZAK M 7m received,5,POL,94,12,,,,0,,,,,,,,,5,,,,,FALSE,0,0,6,POL,56,30:40,31:28,15 - 13,2
@@ -486,7 +486,7 @@ match_id,time,numeric_time,half,action,number,team,goalkeeper,opponent_goalkeepe
 3,29:59,1799,1,SIMIC N Shot centre 9m saved top centre,16,MNE,16,1,,,16,0,,top centre,centre 9m,,1,top,centre,,,,,,,FALSE,0,0,6,MNE,51,29:49,30:00,15 - 12,3
 3,30:00,1800,2,PEREZ de VARGAS MO Goalkeeper,1,ESP,1,16,,,,0,,,,,,,,,,,,,,TRUE,0,,,ESP,52,,,15 - 12,3
 3,30:00,1800,2,SIMIC N Goalkeeper,16,MNE,16,1,,,,0,,,,,,,,,,,,,,FALSE,0,,,ESP,52,,,15 - 12,3
-3,30:55,1855,2,ODRIOZOLA YEREGUI Shot left 9m saved top centre,62,ESP,1,16,,,62,0,,top centre,left 9m,,1,top,centre,,,,,,,TRUE,0,0,6,ESP,52,29:59,30:55,15 - 12,3
+3,30:55,1855,2,ODRIOZOLA YEREGUI Shot left 9m saved top centre,62,ESP,1,16,,,62,0,,top centre,left 9m,,1,top,centre,,,,,,,TRUE,0,0,6,ESP,52,30:00,30:55,15 - 12,3
 3,31:55,1915,2,"VUJOVIC B Goal right wing bottom left (32 ANDJELIC B), 63 km/h",11,MNE,16,1,32,11,,1,63,bottom left,right wing,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,53,30:55,31:55,15 - 13,2
 3,32:07,1927,2,"DUJSHEBAEV DOVICHE Goal centre 6m bottom right, 87 km/h",10,ESP,1,16,,10,,1,87,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,0,6,ESP,54,31:55,32:07,16 - 13,3
 3,32:43,1963,2,MAQUEDA PENO J Steal,5,ESP,1,16,,,,0,,,,,,,,,,,,5,,TRUE,0,0,6,MNE,55,32:07,32:43,16 - 13,3
@@ -668,7 +668,7 @@ match_id,time,numeric_time,half,action,number,team,goalkeeper,opponent_goalkeepe
 4,29:30,1770,1,"AL-TURAIKI H Goal fast break top left (14 AL-HAMMAD A), 44 km/h",59,KSA,16,90,14,59,,1,44,top left,fast break,,,top,left,,,,,,,TRUE,0,0,6,KSA,48,28:54,30:00,8 - 16,-8
 4,30:00,1800,2,AL-SALEM M Goalkeeper,16,KSA,16,90,,,,0,,,,,,,,,,,,,,TRUE,0,,,SLO,49,,,8 - 16,-8
 4,30:00,1800,2,LESJAK U Goalkeeper,90,SLO,90,16,,,,0,,,,,,,,,,,,,,FALSE,0,,,SLO,49,,,8 - 16,-8
-4,30:00,1800,2,NOVAK D Shot right wing saved middle left,77,SLO,90,16,,,77,0,,middle left,right wing,,1,middle,left,,,,,,,FALSE,0,0,6,SLO,49,29:30,30:00,8 - 16,-8
+4,30:00,1800,2,NOVAK D Shot right wing saved middle left,77,SLO,90,16,,,77,0,,middle left,right wing,,1,middle,left,,,,,,,FALSE,0,0,6,SLO,49,30:00,30:00,8 - 16,-8
 4,30:33,1833,2,"AL-JANABI H Goal centre 6m middle right, 65 km/h",5,KSA,16,90,,5,,1,65,middle right,centre 6m,,,middle,right,,,,,,,TRUE,0,0,6,KSA,50,30:00,30:33,9 - 16,-7
 4,30:45,1845,2,"OVNICEK R Goal breakthrough middle centre, 47 km/h",34,SLO,90,16,,34,,1,47,middle centre,breakthrough,,,middle,centre,,,,,,,FALSE,0,0,6,SLO,51,30:33,30:45,9 - 17,-8
 4,31:20,1880,2,ZABIC S 2-minutes suspension,25,SLO,90,16,,,,0,,,,,,,,,,,,,25,FALSE,0,0,6,SLO,51,30:33,30:45,9 - 17,-8
@@ -1044,7 +1044,7 @@ match_id,time,numeric_time,half,action,number,team,goalkeeper,opponent_goalkeepe
 6,29:59,1799,1,JOHANSSON E Shot centre 6m missed,42,SWE,12,16,,,42,0,,missed,centre 6m,,,,,,,,,,,TRUE,0,0,6,SWE,52,29:56,30:00,11 - 9,2
 6,30:00,1800,2,PALICKA A Goalkeeper,12,SWE,12,16,,,,0,,,,,,,,,,,,,,TRUE,0,,,SWE,53,,,11 - 9,2
 6,30:00,1800,2,da ROSA R Goalkeeper,16,BRA,16,12,,,,0,,,,,,,,,,,,,,FALSE,0,,,SWE,53,,,11 - 9,2
-6,30:33,1833,2,CARLSBOGARD J Shot centre 6m saved middle centre,2,SWE,12,16,,,2,0,,middle centre,centre 6m,,1,middle,centre,,,,,,,TRUE,0,0,6,SWE,53,29:59,30:33,11 - 9,2
+6,30:33,1833,2,CARLSBOGARD J Shot centre 6m saved middle centre,2,SWE,12,16,,,2,0,,middle centre,centre 6m,,1,middle,centre,,,,,,,TRUE,0,0,6,SWE,53,30:00,30:33,11 - 9,2
 6,31:03,1863,2,PONCIANO T Shot centre 6m saved bottom left,35,BRA,16,12,,,35,0,,bottom left,centre 6m,,1,bottom,left,,,,,,,FALSE,0,0,6,BRA,54,30:33,31:50,11 - 9,2
 6,31:50,1910,2,RODRIGUES G Technical Fault,95,BRA,16,12,,,,0,,,,,,,,,,,95,,,FALSE,0,0,6,BRA,54,30:33,31:50,11 - 9,2
 6,32:04,1924,2,GOTTFRIDSSON J Turnover,24,SWE,12,16,,,,0,,,,,,,,,,24,,,,TRUE,0,0,6,SWE,55,31:50,32:04,11 - 9,2
@@ -1208,7 +1208,7 @@ match_id,time,numeric_time,half,action,number,team,goalkeeper,opponent_goalkeepe
 7,29:54,1794,1,"BUJDOSO B Goal centre 6m top left, 81 km/h",29,HUN,16,66,,29,,1,81,top left,centre 6m,,,top,left,,,,,,,TRUE,0,0,6,HUN,44,28:04,30:00,21 - 11,10
 7,30:00,1800,2,SZEKELY M Goalkeeper,12,HUN,12,66,,,,0,,,,,,,,,,,,,,TRUE,0,,,HUN,45,,,21 - 11,10
 7,30:00,1800,2,KIM D Goalkeeper,66,KOR,66,12,,,,0,,,,,,,,,,,,,,FALSE,0,,,HUN,45,,,21 - 11,10
-7,30:42,1842,2,ROSTA M Shot centre 6m saved middle right,20,HUN,12,66,,,20,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,0,0,6,HUN,45,29:54,31:58,21 - 11,10
+7,30:42,1842,2,ROSTA M Shot centre 6m saved middle right,20,HUN,12,66,,,20,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,0,0,6,HUN,45,30:00,31:58,21 - 11,10
 7,31:58,1918,2,SZITA Z Shot left 6m post,30,HUN,12,66,,,30,0,,post,left 6m,1,,,,,,,,,,TRUE,0,0,6,HUN,45,29:54,31:58,21 - 11,10
 7,32:13,1933,2,LEE S Turnover,14,KOR,66,12,,,,0,,,,,,,,,,14,,,,FALSE,0,0,6,KOR,46,31:58,32:13,21 - 11,10
 7,32:35,1955,2,"LEKAI M Goal left 6m bottom right, 83 km/h",66,HUN,12,66,,66,,1,83,bottom right,left 6m,,,bottom,right,,,,,,,TRUE,0,0,6,HUN,47,32:13,32:35,22 - 11,11
