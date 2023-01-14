@@ -1,3 +1,3 @@
 # Tidy data for the IHF 2023 World Men's Championship
 
-Latest update: Matches up to 2023-01-13 included.
+Latest update: Matches up to 2023-01-14 included.
