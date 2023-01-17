@@ -1,22 +1,30 @@
 library(handbaloner)
-library(ggplot2)
 library(ggflags)
+library(ggplot2)
 plot_paces <- function(chosen_match_id, move_explanation_right = 0){
-  raw_data <- data.table::fread("PBP_pol_swe.csv")
+  raw_data <- data.table::fread("C:/Balonmano/pol_swe_2023_data/PBP_pol_swe.csv")
 
-
-  data <- raw_data[!stringr::str_detect(action, "Empty goal|Goalkeeper back|7m|Substitution|yellow|2-")]
-
-  data <- data[start_of_possession != "",
-               .(match_id, score, team, is_home, number_of_possession, possession, start_of_possession, end_of_possession, lead, numeric_time)]
+  data <- raw_data[start_of_possession != "",
+                   .(match_id, score, half, team, teams, is_home, number_of_possession,
+                     possession, start_of_possession, end_of_possession,
+                     lead, numeric_time)]
 
   data <- data[,.SD[.N], .(match_id, number_of_possession)]
+
+  data[, start_of_possession := data.table::fifelse(stringr::str_length(start_of_possession) == 8,
+                                                    stringr::str_sub(start_of_possession, 1, 5),
+                                                    start_of_possession)]
+
+
+  data[, end_of_possession := data.table::fifelse(stringr::str_length(end_of_possession) == 8,
+                                                  stringr::str_sub(end_of_possession, 1, 5),
+                                                  end_of_possession)]
 
   data[, possession_length := as.numeric(lubridate::ms(end_of_possession)) -
          as.numeric(lubridate::ms(start_of_possession))]
 
   data[, sum(possession_length)]
-
+  data[, sum(possession_length), .(match_id, half)]
 
 
   data[, lead_at_beginning_of_possession := data.table::shift(lead), match_id]
@@ -45,25 +53,12 @@ plot_paces <- function(chosen_match_id, move_explanation_right = 0){
 
   purrr::walk(c(1, 5, 10, 15, 20, 25, 30), add_pace)
 
-  ex[, country := ""]
+  ex <- complete_team_names[ex, on = "team==possession"][, possession := team]
 
-  ex[possession == "POL", country := "pl"]
-  ex[possession == "FRA", country := "fr"]
-  ex[possession == "EGY", country := "eg"]
-  ex[possession == "MAR", country := "ma"]
-  ex[possession == "GER", country := "de"]
-  ex[possession == "QAT", country := "qa"]
-  ex[possession == "ARG", country := "ar"]
-  ex[possession == "NOR", country := "no"]
-  ex[possession == "BEL", country := "be"]
-  ex[possession == "BRN", country := "bh"]
-  ex[possession == "DEN", country := "dk"]
-  ex[possession == "NED", country := "nl"]
-
-  for_plot <- ex[, .(numeric_time, possession,
+  for_plot <- ex[, .(numeric_time, possession = team,
                      minutes = interval_5_minutes,
                      pace = pace_by_5_minutes,
-                     lead_by_team, score, country)]
+                     lead_by_team, score, lower_ggflag)]
 
   add_bands(data = for_plot,
             minutes_column =  "minutes",
@@ -71,7 +66,7 @@ plot_paces <- function(chosen_match_id, move_explanation_right = 0){
   #interval_5_minutes,
   # pace_by_1_minutes, pace_by_10_minutes, pace_by_5_minutes, pace_by_15_minutes, pace_by_20_minutes, pace_by_25_minutes, pace_by_30_minutes)]
 
-  pace_plot <- for_plot[,.(minutes, numeric_time, pace, possession, score, minutes_band, country)
+  pace_plot <- for_plot[,.(minutes, numeric_time, pace, possession, score, minutes_band, lower_ggflag)
   ][,.SD[1],  by = .(minutes, pace, possession)
   ][order(numeric_time)]
 
@@ -84,8 +79,8 @@ plot_paces <- function(chosen_match_id, move_explanation_right = 0){
 
   final_score <- for_plot[.N]$score
 
-  ex[complete_team_names, complete_name := i.complete_name, on = "team"]
-  for_title_part1 <- glue::glue("{ex[is_home == TRUE]$complete_name[1]} - {ex[is_home == FALSE]$complete_name[1]}")
+
+  for_title_part1 <- glue::glue("{ex[is_home == TRUE]$country[1]} - {ex[is_home == FALSE]$country[1]}")
   for_title_part2 <- glue::glue("Final score: {ex[is_home == TRUE]$possession[1]} {final_score} {ex[is_home == FALSE]$possession[1]}")
   for_title_part3 <- glue::glue("Match id: {ex$match_id[1]}")
 
@@ -108,7 +103,8 @@ plot_paces <- function(chosen_match_id, move_explanation_right = 0){
 
 
   plot_colours <- c("#B9AF49", "#5049B9")
-  ggplot(pace_plot, mapping = aes(x = minutes, y = pace, colour = possession, country = country)) +
+
+  ggplot(pace_plot, mapping = aes(x = minutes, y = pace, colour = possession, country = lower_ggflag)) +
     theme_classic() +
     geom_area(aes(fill = possession), alpha = 0.10, position = 'identity', show.legend = FALSE) +
     geom_line(size = 0.7) +
@@ -121,7 +117,7 @@ plot_paces <- function(chosen_match_id, move_explanation_right = 0){
               aes(y = max_pace + 3,label = score),
               colour = "black",
               size = 4) +
-#    scale_x_continuous(, limits = c(0,60)) + scale_y_continuous(expand = c(0, maximo_hacia_arriba)) +
+    #    scale_x_continuous(, limits = c(0,60)) + scale_y_continuous(expand = c(0, maximo_hacia_arriba)) +
     scale_x_continuous(breaks = seq(0, 55, by = 5),
                        expand = c(0.015, 0.30),
                        labels = unique(for_plot$minutes_band)) +
@@ -150,9 +146,4 @@ plot_paces <- function(chosen_match_id, move_explanation_right = 0){
              label = for_means, fill = "#A6A5EE")
 }
 
-# plotit(1)
-# plotit(12)
-# plotit(26)
-# plotit(26)
-# plotit(30)
-# plotit(31, move_explanation_right = 5)
+plot_paces(20)
