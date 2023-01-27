@@ -19227,3 +19227,745 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 99,KOR - MKD,59:09,3549,2,KIM J Goal right wing middle right (13 JO T),26,KOR,99,12,13,26,,1,,middle right,right wing,,,middle,right,,,,,,,TRUE,0,0,6,KOR,125,58:25,59:09,33 - 36,-3
 99,KOR - MKD,59:35,3575,2,KOSTESKI N Shot left 6m saved bottom left,19,MKD,12,99,,,19,0,,bottom left,left 6m,,1,bottom,left,,,,,,,FALSE,-1,0,5,MKD,126,59:09,59:35,33 - 36,-3
 99,KOR - MKD,59:45,3585,2,KIM J Shot fast break missed,26,KOR,99,12,,,26,0,,missed,fast break,,,"","",,,,,,,TRUE,0,0,6,KOR,127,59:35,60:00,33 - 36,-3
+105,ESP - DEN,0:00,0,1,PEREZ de VARGAS MO Goalkeeper,1,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,DEN,1,"","",0 - 0,0
+105,ESP - DEN,0:00,0,1,LANDIN JACOBSEN N Goalkeeper,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,DEN,1,"","",0 - 0,0
+105,ESP - DEN,0:48,48,1,"SAUGSTRUP JENSEN M Goal centre 6m top left (43 PYTLICK S), 85 km/h",15,DEN,1,1,43,15,,1,85,top left,centre 6m,,,top,left,,,,,,,FALSE,0,0,6,DEN,1,0:00,0:48,0 - 1,-1
+105,ESP - DEN,1:35,95,1,VALERA ROVIRA P Shot right 9m saved top left,31,ESP,1,1,,,31,0,,top left,right 9m,,1,top,left,,,,,,,TRUE,0,0,6,ESP,2,0:48,1:35,0 - 1,-1
+105,ESP - DEN,1:51,111,1,"SAUGSTRUP JENSEN M Goal centre 6m top right (43 PYTLICK S), 82 km/h",15,DEN,1,1,43,15,,1,82,top right,centre 6m,,,top,right,,,,,,,FALSE,0,0,6,DEN,3,1:35,1:51,0 - 2,-2
+105,ESP - DEN,2:06,126,1,FIGUERAS TREJO Afor 1 PEREZ de VARGAS MO Empty goal,17,ESP,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,DEN,3,1:35,1:51,0 - 2,-2
+105,ESP - DEN,2:10,130,1,PEREZ de VARGAS MOfor 30 GUARDIOLA Goalkeeper back,1,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,DEN,3,1:35,1:51,0 - 2,-2
+105,ESP - DEN,2:47,167,1,FIGUERAS TREJO A Goal right 6m top right (31 VALERA ROVIRA P),17,ESP,1,1,31,17,,1,,top right,right 6m,,,top,right,,,,,,,TRUE,0,0,6,ESP,4,1:51,2:47,1 - 2,-1
+105,ESP - DEN,2:59,179,1,GIDSEL M Turnover,19,DEN,1,1,,,,0,,"","",,,"","",,,19,,,,FALSE,0,0,6,DEN,5,2:47,2:59,1 - 2,-1
+105,ESP - DEN,3:05,185,1,FERNANDEZ PEREZ A Goal fast break top left,6,ESP,1,1,,6,,1,,top left,fast break,,,top,left,,,,,,,TRUE,0,0,6,ESP,6,2:59,3:05,2 - 2,0
+105,ESP - DEN,3:13,193,1,DUJSHEBAEV DOVICHE Steal,59,ESP,1,1,,,,0,,"","",,,"","",,,,,59,,TRUE,0,0,6,DEN,7,3:05,3:36,2 - 2,0
+105,ESP - DEN,3:13,193,1,PYTLICK S Turnover,43,DEN,1,1,,,,0,,"","",,,"","",,,43,,,,FALSE,0,0,6,DEN,7,3:05,3:36,2 - 2,0
+105,ESP - DEN,3:36,216,1,HANSEN M Goal left 6m top right (43 PYTLICK S),24,DEN,1,1,43,24,,1,,top right,left 6m,,,top,right,,,,,,,FALSE,0,0,6,DEN,7,3:05,3:36,2 - 3,-1
+105,ESP - DEN,3:50,230,1,FIGUERAS TREJO Afor 1 PEREZ de VARGAS MO Empty goal,17,ESP,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,DEN,7,3:05,3:36,2 - 3,-1
+105,ESP - DEN,3:55,235,1,PEREZ de VARGAS MOfor 30 GUARDIOLA Goalkeeper back,1,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,DEN,7,3:05,3:36,2 - 3,-1
+105,ESP - DEN,4:31,271,1,"VALERA ROVIRA P Goal centre 9m top right (59 DUJSHEBAEV DOVICHE), 86 km/h",31,ESP,1,1,59,31,,1,86,top right,centre 9m,,,top,right,,,,,,,TRUE,0,0,6,ESP,8,3:36,4:31,3 - 3,0
+105,ESP - DEN,5:14,314,1,MAQUEDA PENO J 7m caused,5,ESP,1,1,,,,0,,"","",,,"","",5,,,,,,TRUE,0,0,6,DEN,9,4:31,5:14,3 - 3,0
+105,ESP - DEN,5:14,314,1,MAQUEDA PENO J 2-minutes suspension,5,ESP,1,1,,,,0,,"","",,,"","",,,,,,5,TRUE,0,0,6,DEN,9,4:31,5:14,3 - 3,0
+105,ESP - DEN,5:14,314,1,SAUGSTRUP JENSEN M 7m received,15,DEN,1,1,,,,0,,"","",,,"","",,15,,,,,FALSE,0,0,6,DEN,9,4:31,5:14,3 - 3,0
+105,ESP - DEN,5:14,314,1,HANSEN M Goal Penalty shot top right (15 SAUGSTRUP JENSEN M),24,DEN,1,1,15,24,,1,,top right,Penalty,,,top,right,,,,,,,FALSE,0,0,6,DEN,9,4:31,5:14,3 - 4,-1
+105,ESP - DEN,6:04,364,1,SOLE SALA F Shot right wing saved bottom left,14,ESP,1,1,,,14,0,,bottom left,right wing,,1,bottom,left,,,,,,,TRUE,-1,0,5,ESP,10,5:14,6:04,3 - 4,-1
+105,ESP - DEN,6:36,396,1,SANCHEZ MIGALLON N 7m caused,51,ESP,1,1,,,,0,,"","",,,"","",51,,,,,,TRUE,-1,0,5,DEN,11,6:04,6:46,3 - 4,-1
+105,ESP - DEN,6:36,396,1,SAUGSTRUP JENSEN M 7m received,15,DEN,1,1,,,,0,,"","",,,"","",,15,,,,,FALSE,0,0,6,DEN,11,6:04,6:46,3 - 4,-1
+105,ESP - DEN,6:46,406,1,HANSEN M Penalty shot saved middle left,24,DEN,1,1,,,24,0,,middle left,Penalty,,1,middle,left,,,,,,,FALSE,0,0,6,DEN,11,6:04,6:46,3 - 4,-1
+105,ESP - DEN,7:22,442,1,"SERDIO GUNTIN A Goal right 6m top left (10 DUJSHEBAEV DOVICHE), 88 km/h",20,ESP,1,1,10,20,,1,88,top left,right 6m,,,top,left,,,,,,,TRUE,0,0,6,ESP,12,6:46,7:22,4 - 4,0
+105,ESP - DEN,8:23,503,1,PYTLICK S Goal left 9m top right (19 GIDSEL M),43,DEN,1,1,19,43,,1,,top right,left 9m,,,top,right,,,,,,,FALSE,0,0,6,DEN,13,7:22,8:23,4 - 5,-1
+105,ESP - DEN,8:33,513,1,VALERA ROVIRA P Shot centre 6m saved middle centre,31,ESP,1,1,,,31,0,,middle centre,centre 6m,,1,middle,centre,,,,,,,TRUE,0,0,6,ESP,14,8:23,8:33,4 - 5,-1
+105,ESP - DEN,9:04,544,1,LANDIN JACOBSEN M Goal left wing top right,4,DEN,1,1,,4,,1,,top right,left wing,,,top,right,,,,,,,FALSE,0,0,6,DEN,15,8:33,9:04,4 - 6,-2
+105,ESP - DEN,9:27,567,1,DUJSHEBAEV DOVICHE Shot centre 9m missed,59,ESP,1,1,,,59,0,,missed,centre 9m,,,"","",,,,,,,TRUE,0,0,6,ESP,16,9:04,9:27,4 - 6,-2
+105,ESP - DEN,10:17,617,1,"PYTLICK S Goal centre 9m top right, 87 km/h",43,DEN,1,1,,43,,1,87,top right,centre 9m,,,top,right,,,,,,,FALSE,0,0,6,DEN,17,9:27,10:17,4 - 7,-3
+105,ESP - DEN,10:26,626,1,CASADO MARCELO A Shot fast break missed,25,ESP,1,1,,,25,0,,missed,fast break,,,"","",,,,,,,TRUE,0,0,6,ESP,18,10:17,10:26,4 - 7,-3
+105,ESP - DEN,10:39,639,1,GIDSEL M Turnover,19,DEN,1,1,,,,0,,"","",,,"","",,,19,,,,FALSE,0,0,6,DEN,19,10:26,10:39,4 - 7,-3
+105,ESP - DEN,10:46,646,1,MAQUEDA PENO J Shot right 6m saved middle centre,5,ESP,1,1,,,5,0,,middle centre,right 6m,,1,middle,centre,,,,,,,TRUE,0,0,6,ESP,20,10:39,10:46,4 - 7,-3
+105,ESP - DEN,11:27,687,1,HANSEN M Turnover,24,DEN,1,1,,,,0,,"","",,,"","",,,24,,,,FALSE,0,0,6,DEN,21,10:46,11:27,4 - 7,-3
+105,ESP - DEN,11:43,703,1,"SOLE SALA F Goal fast break top left (59 DUJSHEBAEV DOVICHE), 88 km/h",14,ESP,1,1,59,14,,1,88,top left,fast break,,,top,left,,,,,,,TRUE,0,0,6,ESP,22,11:27,11:43,5 - 7,-2
+105,ESP - DEN,12:00,720,1,"GIDSEL M Goal centre 9m top left, 91 km/h",19,DEN,1,1,,19,,1,91,top left,centre 9m,,,top,left,,,,,,,FALSE,0,0,6,DEN,23,11:43,12:00,5 - 8,-3
+105,ESP - DEN,12:54,774,1,DUJSHEBAEV DOVICHE Shot centre 6m blocked,59,ESP,1,1,,,59,0,,blocked,centre 6m,,,"","",,,,,,,TRUE,0,0,6,ESP,24,12:00,13:12,5 - 8,-3
+105,ESP - DEN,12:54,774,1,SAUGSTRUP JENSEN M Block,15,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ESP,24,12:00,13:12,5 - 8,-3
+105,ESP - DEN,13:12,792,1,SOLE SALA F Shot centre 9m saved middle centre,14,ESP,1,1,,,14,0,,middle centre,centre 9m,,1,middle,centre,,,,,,,TRUE,0,0,6,ESP,24,12:00,13:12,5 - 8,-3
+105,ESP - DEN,13:21,801,1,KIRKELOKKE N Shot right 6m saved top left,3,DEN,1,1,,,3,0,,top left,right 6m,,1,top,left,,,,,,,FALSE,0,0,6,DEN,25,13:12,13:21,5 - 8,-3
+105,ESP - DEN,13:57,837,1,CASADO MARCELO A Shot centre 9m saved bottom left,25,ESP,1,1,,,25,0,,bottom left,centre 9m,,1,bottom,left,,,,,,,TRUE,0,0,6,ESP,26,13:21,13:57,5 - 8,-3
+105,ESP - DEN,14:08,848,1,PYTLICK S Shot left 6m saved top right,43,DEN,1,1,,,43,0,,top right,left 6m,,1,top,right,,,,,,,FALSE,0,0,6,DEN,27,13:57,14:08,5 - 8,-3
+105,ESP - DEN,14:51,891,1,MAQUEDA PENO J Shot centre 9m saved middle centre,5,ESP,1,1,,,5,0,,middle centre,centre 9m,,1,middle,centre,,,,,,,TRUE,0,0,6,ESP,28,14:08,15:03,5 - 8,-3
+105,ESP - DEN,14:53,893,1,ODRIOZOLA YEREGUI Shot centre 6m saved middle centre,62,ESP,1,1,,,62,0,,middle centre,centre 6m,,1,middle,centre,,,,,,,TRUE,0,0,6,ESP,28,14:08,15:03,5 - 8,-3
+105,ESP - DEN,15:03,903,1,Team timeout,"",ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ESP,28,14:08,15:03,5 - 9,-4
+105,ESP - DEN,15:03,903,1,"SAUGSTRUP JENSEN M Goal fast break bottom centre (19 GIDSEL M), 85 km/h",15,DEN,1,1,19,15,,1,85,bottom centre,fast break,,,bottom,centre,,,,,,,FALSE,0,0,6,DEN,29,15:03,15:03,5 - 9,-4
+105,ESP - DEN,15:35,935,1,SAUGSTRUP JENSEN M 2-minutes suspension,15,DEN,1,1,,,,0,,"","",,,"","",,,,,,15,FALSE,0,0,6,DEN,29,15:03,15:03,5 - 9,-4
+105,ESP - DEN,15:52,952,1,"FERNANDEZ PEREZ A Goal left wing top right (10 DUJSHEBAEV DOVICHE), 87 km/h",6,ESP,1,1,10,6,,1,87,top right,left wing,,,top,right,,,,,,,TRUE,0,0,6,ESP,30,15:03,15:52,6 - 9,-3
+105,ESP - DEN,16:02,962,1,HALD JENSEN Sfor 1 LANDIN JACOBSEN N Empty goal,34,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ESP,30,15:03,15:52,6 - 9,-3
+105,ESP - DEN,16:46,1006,1,HALD JENSEN S Goal left 6m top right (24 HANSEN M),34,DEN,Empty goal,1,24,34,,1,,top right,left 6m,,,top,right,,,,,,,FALSE,-1,1,6,DEN,31,15:52,16:46,6 - 10,-4
+105,ESP - DEN,16:49,1009,1,LANDIN JACOBSEN Nfor 19 GIDSEL M Goalkeeper back,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,DEN,31,15:52,16:46,6 - 10,-4
+105,ESP - DEN,17:41,1061,1,DUJSHEBAEV DOVICHE Shot centre 9m post,59,ESP,1,1,,,59,0,,post,centre 9m,1,,"","",,,,,,,TRUE,0,0,6,ESP,32,16:46,17:41,6 - 10,-4
+105,ESP - DEN,18:39,1119,1,MAQUEDA PENO J Block,5,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,DEN,33,17:41,18:54,6 - 10,-4
+105,ESP - DEN,18:39,1119,1,PYTLICK S Shot centre 9m blocked,43,DEN,1,1,,,43,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,0,6,DEN,33,17:41,18:54,6 - 10,-4
+105,ESP - DEN,18:54,1134,1,MAQUEDA PENO J 2-minutes suspension,5,ESP,1,1,,,,0,,"","",,,"","",,,,,,5,TRUE,0,0,6,DEN,33,17:41,18:54,6 - 10,-4
+105,ESP - DEN,18:54,1134,1,LANDIN JACOBSEN M Shot left wing saved top right,4,DEN,1,1,,,4,0,,top right,left wing,,1,top,right,,,,,,,FALSE,0,0,6,DEN,33,17:41,18:54,6 - 10,-4
+105,ESP - DEN,19:19,1159,1,SERDIO GUNTIN Afor 1 PEREZ de VARGAS MO Empty goal,20,ESP,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,DEN,33,17:41,18:54,6 - 10,-4
+105,ESP - DEN,19:53,1193,1,"DUJSHEBAEV DOVICHE Goal right 9m top right, 94 km/h",59,ESP,Empty goal,1,,59,,1,94,top right,right 9m,,,top,right,,,,,,,TRUE,-1,1,6,ESP,34,18:54,19:53,7 - 10,-3
+105,ESP - DEN,19:54,1194,1,PEREZ de VARGAS MOfor 6 FERNANDEZ PEREZ A Goalkeeper back,1,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ESP,34,18:54,19:53,7 - 10,-3
+105,ESP - DEN,20:30,1230,1,"LANDIN JACOBSEN M Goal left wing top right (24 HANSEN M), 85 km/h",4,DEN,1,1,24,4,,1,85,top right,left wing,,,top,right,,,,,,,FALSE,0,0,6,DEN,35,19:53,20:30,7 - 11,-4
+105,ESP - DEN,20:40,1240,1,FERNANDEZ PEREZ Afor 1 PEREZ de VARGAS MO Empty goal,6,ESP,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,DEN,35,19:53,20:30,7 - 11,-4
+105,ESP - DEN,20:58,1258,1,PEREZ de VARGAS MOfor 5 MAQUEDA PENO J Goalkeeper back,1,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,DEN,35,19:53,20:30,7 - 11,-4
+105,ESP - DEN,21:23,1283,1,FERNANDEZ PEREZ A Goal left 6m middle left (10 DUJSHEBAEV DOVICHE),6,ESP,1,1,10,6,,1,,middle left,left 6m,,,middle,left,,,,,,,TRUE,0,0,6,ESP,36,20:30,21:23,8 - 11,-3
+105,ESP - DEN,22:05,1325,1,HANSEN M Turnover,24,DEN,1,1,,,,0,,"","",,,"","",,,24,,,,FALSE,0,0,6,DEN,37,21:23,22:05,8 - 11,-3
+105,ESP - DEN,22:15,1335,1,DUJSHEBAEV DOVICHE Shot centre 6m saved middle centre,59,ESP,1,1,,,59,0,,middle centre,centre 6m,,1,middle,centre,,,,,,,TRUE,0,0,6,ESP,38,22:05,22:15,8 - 11,-3
+105,ESP - DEN,22:35,1355,1,PYTLICK S Shot centre 6m saved middle right,43,DEN,1,1,,,43,0,,middle right,centre 6m,,1,middle,right,,,,,,,FALSE,0,0,6,DEN,39,22:15,22:35,8 - 11,-3
+105,ESP - DEN,23:44,1424,1,SERDIO GUNTIN A 7m received,20,ESP,1,1,,,,0,,"","",,,"","",,20,,,,,TRUE,0,0,6,ESP,40,22:35,23:47,8 - 11,-3
+105,ESP - DEN,23:44,1424,1,LANDIN JACOBSEN M 7m caused,4,DEN,1,1,,,,0,,"","",,,"","",4,,,,,,FALSE,0,0,6,ESP,40,22:35,23:47,8 - 11,-3
+105,ESP - DEN,23:44,1424,1,LANDIN JACOBSEN M 2-minutes suspension,4,DEN,1,1,,,,0,,"","",,,"","",,,,,,4,FALSE,0,0,6,ESP,40,22:35,23:47,8 - 11,-3
+105,ESP - DEN,23:47,1427,1,"SOLE SALA F Goal Penalty shot middle right (20 SERDIO GUNTIN A), 84 km/h",14,ESP,1,1,20,14,,1,84,middle right,Penalty,,,middle,right,,,,,,,TRUE,0,0,6,ESP,40,22:35,23:47,9 - 11,-2
+105,ESP - DEN,23:56,1436,1,JAKOBSEN Efor 1 LANDIN JACOBSEN N Empty goal,7,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ESP,40,22:35,23:47,9 - 11,-2
+105,ESP - DEN,24:17,1457,1,DUJSHEBAEV DOVICHE Steal,59,ESP,1,Empty goal,,,,0,,"","",,,"","",,,,,59,,TRUE,0,0,6,DEN,41,23:47,24:17,9 - 11,-2
+105,ESP - DEN,24:17,1457,1,GIDSEL M Turnover,19,DEN,Empty goal,1,,,,0,,"","",,,"","",,,19,,,,FALSE,-1,1,6,DEN,41,23:47,24:17,9 - 11,-2
+105,ESP - DEN,24:27,1467,1,DUJSHEBAEV DOVICHE Goal empty goal top left (21 CANELLAS REIXACH J),10,ESP,1,Empty goal,21,10,,1,,top left,empty goal,,,top,left,,,,,,,TRUE,0,0,6,ESP,42,24:17,24:27,10 - 11,-1
+105,ESP - DEN,24:59,1499,1,PYTLICK S Goal left wing top right,43,DEN,Empty goal,1,,43,,1,,top right,left wing,,,top,right,,,,,,,FALSE,-1,1,6,DEN,43,24:27,24:59,10 - 12,-2
+105,ESP - DEN,25:01,1501,1,LANDIN JACOBSEN Nfor 19 GIDSEL M Goalkeeper back,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,DEN,43,24:27,24:59,10 - 12,-2
+105,ESP - DEN,25:08,1508,1,DUJSHEBAEV DOVICHE Shot centre 6m saved middle centre,59,ESP,1,1,,,59,0,,middle centre,centre 6m,,1,middle,centre,,,,,,,TRUE,0,0,6,ESP,44,24:59,25:47,10 - 12,-2
+105,ESP - DEN,25:47,1547,1,DUJSHEBAEV DOVICHE Technical Fault,10,ESP,1,1,,,,0,,"","",,,"","",,,,10,,,TRUE,0,0,6,ESP,44,24:59,25:47,10 - 12,-2
+105,ESP - DEN,26:09,1569,1,Team timeout,"",DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,DEN,45,25:47,26:37,10 - 12,-2
+105,ESP - DEN,26:37,1597,1,"HANSEN M Goal left 9m top right, 109 km/h",24,DEN,1,1,,24,,1,109,top right,left 9m,,,top,right,,,,,,,FALSE,0,0,6,DEN,45,25:47,26:37,10 - 13,-3
+105,ESP - DEN,27:42,1662,1,CANELLAS REIXACH J Turnover,21,ESP,1,1,,,,0,,"","",,,"","",,,21,,,,TRUE,0,0,6,ESP,46,26:37,27:42,10 - 13,-3
+105,ESP - DEN,27:42,1662,1,GIDSEL M Steal,19,DEN,1,1,,,,0,,"","",,,"","",,,,,19,,FALSE,0,0,6,ESP,46,26:37,27:42,10 - 13,-3
+105,ESP - DEN,28:35,1715,1,PYTLICK S Goal breakthrough top right,43,DEN,1,1,,43,,1,,top right,breakthrough,,,top,right,,,,,,,FALSE,0,0,6,DEN,47,27:42,28:35,10 - 14,-4
+105,ESP - DEN,29:31,1771,1,CANELLAS REIXACH J Shot centre 9m blocked,21,ESP,1,1,,,21,0,,blocked,centre 9m,,,"","",,,,,,,TRUE,0,0,6,ESP,48,28:35,29:31,10 - 14,-4
+105,ESP - DEN,29:31,1771,1,SAUGSTRUP JENSEN M Block,15,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ESP,48,28:35,29:31,10 - 14,-4
+105,ESP - DEN,29:49,1789,1,"GIDSEL M Goal fast break top right, 83 km/h",19,DEN,1,1,,19,,1,83,top right,fast break,,,top,right,,,,,,,FALSE,0,0,6,DEN,49,29:31,29:49,10 - 15,-5
+105,ESP - DEN,29:55,1795,1,ODRIOZOLA YEREGUI Shot right wing saved top right,62,ESP,1,1,,,62,0,,top right,right wing,,1,top,right,,,,,,,TRUE,0,0,6,ESP,50,29:49,29:55,10 - 15,-5
+105,ESP - DEN,29:59,1799,1,PYTLICK S Shot fast break saved,43,DEN,1,1,,,43,0,,"",fast break,,1,"","",,,,,,,FALSE,0,0,6,DEN,51,29:55,30:00,10 - 15,-5
+105,ESP - DEN,30:00,1800,2,PEREZ de VARGAS MO Goalkeeper,1,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,ESP,52,"","",10 - 15,-5
+105,ESP - DEN,30:00,1800,2,LANDIN JACOBSEN N Goalkeeper,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,ESP,52,"","",10 - 15,-5
+105,ESP - DEN,30:34,1834,2,CASADO MARCELO A Shot right 6m missed,25,ESP,1,1,,,25,0,,missed,right 6m,,,"","",,,,,,,TRUE,0,0,6,ESP,52,30:00,30:34,10 - 15,-5
+105,ESP - DEN,31:42,1902,2,HANSEN M Shot saved top right,24,DEN,1,1,,,24,0,,top right,"",,1,top,right,,,,,,,FALSE,0,0,6,DEN,53,30:34,31:42,10 - 15,-5
+105,ESP - DEN,32:29,1949,2,"DUJSHEBAEV DOVICHE Goal centre 6m bottom centre (21 CANELLAS REIXACH J), 84 km/h",10,ESP,1,1,21,10,,1,84,bottom centre,centre 6m,,,bottom,centre,,,,,,,TRUE,0,0,6,ESP,54,31:42,32:29,11 - 15,-4
+105,ESP - DEN,33:01,1981,2,"SAUGSTRUP JENSEN M Goal centre 6m top left (19 GIDSEL M), 90 km/h",15,DEN,1,1,19,15,,1,90,top left,centre 6m,,,top,left,,,,,,,FALSE,0,0,6,DEN,55,32:29,33:01,11 - 16,-5
+105,ESP - DEN,33:21,2001,2,DUJSHEBAEV DOVICHE 7m received,10,ESP,1,1,,,,0,,"","",,,"","",,10,,,,,TRUE,0,0,6,ESP,56,33:01,33:33,11 - 16,-5
+105,ESP - DEN,33:21,2001,2,LAUGE SCHMIDT R 7m caused,11,DEN,1,1,,,,0,,"","",,,"","",11,,,,,,FALSE,0,0,6,ESP,56,33:01,33:33,11 - 16,-5
+105,ESP - DEN,33:33,2013,2,SOLE SALA F Goal Penalty shot top right (10 DUJSHEBAEV DOVICHE),14,ESP,1,1,10,14,,1,,top right,Penalty,,,top,right,,,,,,,TRUE,0,0,6,ESP,56,33:01,33:33,12 - 16,-4
+105,ESP - DEN,34:12,2052,2,PYTLICK S Shot centre 9m saved middle centre,43,DEN,1,1,,,43,0,,middle centre,centre 9m,,1,middle,centre,,,,,,,FALSE,0,0,6,DEN,57,33:33,34:21,12 - 16,-4
+105,ESP - DEN,34:21,2061,2,"GIDSEL M Goal breakthrough middle centre, 88 km/h",19,DEN,1,1,,19,,1,88,middle centre,breakthrough,,,middle,centre,,,,,,,FALSE,0,0,6,DEN,57,33:33,34:21,12 - 17,-5
+105,ESP - DEN,34:30,2070,2,FIGUERAS TREJO Afor 1 PEREZ de VARGAS MO Empty goal,17,ESP,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,DEN,57,33:33,34:21,12 - 17,-5
+105,ESP - DEN,34:30,2070,2,KIRKELOKKE N 2-minutes suspension,3,DEN,1,1,,,,0,,"","",,,"","",,,,,,3,FALSE,0,0,6,DEN,57,33:33,34:21,12 - 17,-5
+105,ESP - DEN,34:40,2080,2,PEREZ de VARGAS MOfor 51 SANCHEZ MIGALLON N Goalkeeper back,1,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,DEN,57,33:33,34:21,12 - 17,-5
+105,ESP - DEN,34:43,2083,2,"DUJSHEBAEV DOVICHE Goal centre 9m top right, 99 km/h",10,ESP,1,1,,10,,1,99,top right,centre 9m,,,top,right,,,,,,,TRUE,0,0,6,ESP,58,34:21,34:43,13 - 17,-4
+105,ESP - DEN,34:56,2096,2,HANSEN Mfor 1 LANDIN JACOBSEN N Empty goal,24,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ESP,58,34:21,34:43,13 - 17,-4
+105,ESP - DEN,35:19,2119,2,JAKOBSEN E Goal left wing top right (43 PYTLICK S),7,DEN,Empty goal,1,43,7,,1,,top right,left wing,,,top,right,,,,,,,FALSE,-1,1,6,DEN,59,34:43,35:19,13 - 18,-5
+105,ESP - DEN,35:23,2123,2,LANDIN JACOBSEN Nfor 24 HANSEN M Goalkeeper back,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,DEN,59,34:43,35:19,13 - 18,-5
+105,ESP - DEN,35:35,2135,2,SOLE SALA F Shot right wing saved middle left,14,ESP,1,1,,,14,0,,middle left,right wing,,1,middle,left,,,,,,,TRUE,0,0,6,ESP,60,35:19,35:35,13 - 18,-5
+105,ESP - DEN,36:17,2177,2,GIDSEL M Shot centre 9m missed,19,DEN,1,1,,,19,0,,missed,centre 9m,,,"","",,,,,,,FALSE,-1,0,5,DEN,61,35:35,36:17,13 - 18,-5
+105,ESP - DEN,36:26,2186,2,PEREZ de VARGAS MO Goal empty goal top centre,1,ESP,1,1,,1,,1,,top centre,empty goal,,,top,centre,,,,,,,TRUE,0,0,6,ESP,62,36:17,36:26,14 - 18,-4
+105,ESP - DEN,37:24,2244,2,PYTLICK S Goal left 6m top right (24 HANSEN M),43,DEN,1,1,24,43,,1,,top right,left 6m,,,top,right,,,,,,,FALSE,0,0,6,DEN,63,36:26,37:24,14 - 19,-5
+105,ESP - DEN,37:50,2270,2,"DUJSHEBAEV DOVICHE Goal centre 9m top right, 84 km/h",10,ESP,1,1,,10,,1,84,top right,centre 9m,,,top,right,,,,,,,TRUE,0,0,6,ESP,64,37:24,37:50,15 - 19,-4
+105,ESP - DEN,38:05,2285,2,GIDSEL M Shot right 6m saved middle centre,19,DEN,1,1,,,19,0,,middle centre,right 6m,,1,middle,centre,,,,,,,FALSE,0,0,6,DEN,65,37:50,38:05,15 - 19,-4
+105,ESP - DEN,38:31,2311,2,CASADO MARCELO A Technical Fault,25,ESP,1,1,,,,0,,"","",,,"","",,,,25,,,TRUE,0,0,6,ESP,66,38:05,38:31,15 - 19,-4
+105,ESP - DEN,39:07,2347,2,DUJSHEBAEV DOVICHE 7m caused,10,ESP,1,1,,,,0,,"","",,,"","",10,,,,,,TRUE,0,0,6,DEN,67,38:31,39:29,15 - 19,-4
+105,ESP - DEN,39:07,2347,2,PYTLICK S 7m received,43,DEN,1,1,,,,0,,"","",,,"","",,43,,,,,FALSE,0,0,6,DEN,67,38:31,39:29,15 - 19,-4
+105,ESP - DEN,39:29,2369,2,"HANSEN M Goal Penalty shot middle centre (43 PYTLICK S), 90 km/h",24,DEN,1,1,43,24,,1,90,middle centre,Penalty,,,middle,centre,,,,,,,FALSE,0,0,6,DEN,67,38:31,39:29,15 - 20,-5
+105,ESP - DEN,40:31,2431,2,SOLE SALA F Shot centre 6m saved middle right,14,ESP,1,1,,,14,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,0,0,6,ESP,68,39:29,42:09,15 - 20,-5
+105,ESP - DEN,41:53,2513,2,DUJSHEBAEV DOVICHE Shot centre 9m blocked,59,ESP,1,1,,,59,0,,blocked,centre 9m,,,"","",,,,,,,TRUE,0,0,6,ESP,68,39:29,42:09,15 - 20,-5
+105,ESP - DEN,41:53,2513,2,MOLLGAARD JENSEN H Block,21,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ESP,68,39:29,42:09,15 - 20,-5
+105,ESP - DEN,42:09,2529,2,DUJSHEBAEV DOVICHE Technical Fault,10,ESP,1,1,,,,0,,"","",,,"","",,,,10,,,TRUE,0,0,6,ESP,68,39:29,42:09,15 - 20,-5
+105,ESP - DEN,42:47,2567,2,HANSEN M Shot centre 9m saved middle centre,24,DEN,1,1,,,24,0,,middle centre,centre 9m,,1,middle,centre,,,,,,,FALSE,0,0,6,DEN,69,42:09,42:47,15 - 20,-5
+105,ESP - DEN,42:57,2577,2,CANELLAS REIXACH Jfor 1 PEREZ de VARGAS MO Empty goal,21,ESP,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,DEN,69,42:09,42:47,15 - 20,-5
+105,ESP - DEN,43:07,2587,2,PEREZ de VARGAS MOfor 5 MAQUEDA PENO J Goalkeeper back,1,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,DEN,69,42:09,42:47,15 - 20,-5
+105,ESP - DEN,43:22,2602,2,"SERDIO GUNTIN A Goal left 6m top right (21 CANELLAS REIXACH J), 88 km/h",20,ESP,1,1,21,20,,1,88,top right,left 6m,,,top,right,,,,,,,TRUE,0,0,6,ESP,70,42:47,43:22,16 - 20,-4
+105,ESP - DEN,43:37,2617,2,Team timeout,"",DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,DEN,71,43:22,43:53,16 - 20,-4
+105,ESP - DEN,43:53,2633,2,PYTLICK S Shot right 6m saved middle right,43,DEN,1,1,,,43,0,,middle right,right 6m,,1,middle,right,,,,,,,FALSE,0,0,6,DEN,71,43:22,43:53,16 - 20,-4
+105,ESP - DEN,44:00,2640,2,"SANCHEZ MIGALLON N Goal left 6m top right (10 DUJSHEBAEV DOVICHE), 83 km/h",51,ESP,1,1,10,51,,1,83,top right,left 6m,,,top,right,,,,,,,TRUE,0,0,6,ESP,72,43:53,44:00,17 - 20,-3
+105,ESP - DEN,45:16,2716,2,GIDSEL M Shot left 9m missed,19,DEN,1,1,,,19,0,,missed,left 9m,,,"","",,,,,,,FALSE,0,0,6,DEN,73,44:00,45:16,17 - 20,-3
+105,ESP - DEN,45:54,2754,2,ODRIOZOLA YEREGUI 7m received,62,ESP,1,1,,,,0,,"","",,,"","",,62,,,,,TRUE,0,0,6,ESP,74,45:16,45:59,17 - 20,-3
+105,ESP - DEN,45:54,2754,2,PYTLICK S 7m caused,43,DEN,1,1,,,,0,,"","",,,"","",43,,,,,,FALSE,0,0,6,ESP,74,45:16,45:59,17 - 20,-3
+105,ESP - DEN,45:59,2759,2,JAKOBSEN Efor 1 LANDIN JACOBSEN N Empty goal,7,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,ESP,74,45:16,45:59,17 - 20,-3
+105,ESP - DEN,45:59,2759,2,MOLLER Kfor 24 HANSEN M Goalkeeper back,20,DEN,20,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ESP,74,45:16,45:59,17 - 20,-3
+105,ESP - DEN,45:59,2759,2,"SOLE SALA F Goal Penalty shot top right (62 ODRIOZOLA YEREGUI), 80 km/h",14,ESP,1,20,62,14,,1,80,top right,Penalty,,,top,right,,,,,,,TRUE,0,0,6,ESP,74,45:16,45:59,18 - 20,-2
+105,ESP - DEN,46:20,2780,2,JORGENSEN Lfor 20 MOLLER K Empty goal,25,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,ESP,74,45:16,45:59,18 - 20,-2
+105,ESP - DEN,46:35,2795,2,JAKOBSEN E Shot left 6m missed,7,DEN,Empty goal,1,,,7,0,,missed,left 6m,,,"","",,,,,,,FALSE,0,1,7,DEN,75,45:59,46:35,18 - 20,-2
+105,ESP - DEN,47:02,2822,2,LANDIN JACOBSEN Nfor 24 HANSEN M Goalkeeper back,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,DEN,75,45:59,46:35,18 - 20,-2
+105,ESP - DEN,47:08,2828,2,"CANELLAS REIXACH J Goal left 9m top right (10 DUJSHEBAEV DOVICHE), 93 km/h",21,ESP,1,1,10,21,,1,93,top right,left 9m,,,top,right,,,,,,,TRUE,0,0,6,ESP,76,46:35,47:08,19 - 20,-1
+105,ESP - DEN,47:27,2847,2,JORGENSEN Lfor 1 LANDIN JACOBSEN N Empty goal,25,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,ESP,76,46:35,47:08,19 - 20,-1
+105,ESP - DEN,47:55,2875,2,HANSEN M Shot left 9m saved middle right,24,DEN,Empty goal,1,,,24,0,,middle right,left 9m,,1,middle,right,,,,,,,FALSE,0,1,7,DEN,77,47:08,48:27,19 - 20,-1
+105,ESP - DEN,48:27,2907,2,"JAKOBSEN E Goal left wing top right (43 PYTLICK S), 100 km/h",7,DEN,Empty goal,1,43,7,,1,100,top right,left wing,,,top,right,,,,,,,FALSE,0,1,7,DEN,77,47:08,48:27,19 - 21,-2
+105,ESP - DEN,48:35,2915,2,LANDIN JACOBSEN Nfor 24 HANSEN M Goalkeeper back,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,DEN,77,47:08,48:27,19 - 21,-2
+105,ESP - DEN,49:00,2940,2,SERDIO GUNTIN A Goal centre 6m middle centre (10 DUJSHEBAEV DOVICHE),20,ESP,1,1,10,20,,1,,middle centre,centre 6m,,,middle,centre,,,,,,,TRUE,0,0,6,ESP,78,48:27,49:00,20 - 21,-1
+105,ESP - DEN,49:22,2962,2,JORGENSEN Lfor 1 LANDIN JACOBSEN N Empty goal,25,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,ESP,78,48:27,49:00,20 - 21,-1
+105,ESP - DEN,49:38,2978,2,ODRIOZOLA YEREGUI 2-minutes suspension,62,ESP,1,Empty goal,,,,0,,"","",,,"","",,,,,,62,TRUE,0,0,6,ESP,78,48:27,49:00,20 - 21,-1
+105,ESP - DEN,49:38,2978,2,LANDIN JACOBSEN Nfor 25 JORGENSEN L Goalkeeper back,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ESP,78,48:27,49:00,20 - 21,-1
+105,ESP - DEN,49:59,2999,2,RIBERA ROMANS J Warning (yellow card) bench punishment,A,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ESP,78,48:27,49:00,20 - 21,-1
+105,ESP - DEN,50:14,3014,2,JAKOBSEN E Shot left 6m saved middle right,7,DEN,1,1,,,7,0,,middle right,left 6m,,1,middle,right,,,,,,,FALSE,0,0,6,DEN,79,49:00,50:14,20 - 21,-1
+105,ESP - DEN,50:26,3026,2,SOLE SALA Ffor 1 PEREZ de VARGAS MO Empty goal,14,ESP,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,DEN,79,49:00,50:14,20 - 21,-1
+105,ESP - DEN,50:58,3058,2,DUJSHEBAEV DOVICHE Turnover,10,ESP,Empty goal,1,,,,0,,"","",,,"","",,,10,,,,TRUE,-1,1,6,ESP,80,50:14,50:58,20 - 21,-1
+105,ESP - DEN,50:58,3058,2,PEREZ de VARGAS MOfor 14 SOLE SALA F Goalkeeper back,1,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ESP,80,50:14,50:58,20 - 21,-1
+105,ESP - DEN,50:58,3058,2,MOLLGAARD JENSEN H Steal,21,DEN,1,Empty goal,,,,0,,"","",,,"","",,,,,21,,FALSE,0,0,6,ESP,80,50:14,50:58,20 - 21,-1
+105,ESP - DEN,51:20,3080,2,"KIRKELOKKE N Goal right 6m top right (19 GIDSEL M), 82 km/h",3,DEN,1,1,19,3,,1,82,top right,right 6m,,,top,right,,,,,,,FALSE,0,0,6,DEN,81,50:58,51:20,20 - 22,-2
+105,ESP - DEN,51:34,3094,2,SOLE SALA Ffor 1 PEREZ de VARGAS MO Empty goal,14,ESP,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,DEN,81,50:58,51:20,20 - 22,-2
+105,ESP - DEN,51:54,3114,2,PEREZ de VARGAS MOfor 51 SANCHEZ MIGALLON N Goalkeeper back,1,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,DEN,81,50:58,51:20,20 - 22,-2
+105,ESP - DEN,52:12,3132,2,FERNANDEZ PEREZ A Technical Fault,6,ESP,1,1,,,,0,,"","",,,"","",,,,6,,,TRUE,0,0,6,ESP,82,51:20,52:12,20 - 22,-2
+105,ESP - DEN,52:40,3160,2,JORGENSEN Lfor 1 LANDIN JACOBSEN N Empty goal,25,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,ESP,82,51:20,52:12,20 - 22,-2
+105,ESP - DEN,52:45,3165,2,PYTLICK S Goal breakthrough top right,43,DEN,Empty goal,1,,43,,1,,top right,breakthrough,,,top,right,,,,,,,FALSE,0,1,7,DEN,83,52:12,52:45,20 - 23,-3
+105,ESP - DEN,52:48,3168,2,Team timeout,"",ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ESP,84,52:45,54:20,20 - 23,-3
+105,ESP - DEN,52:48,3168,2,LANDIN JACOBSEN Nfor 7 JAKOBSEN E Goalkeeper back,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ESP,84,52:45,54:20,20 - 23,-3
+105,ESP - DEN,53:50,3230,2,GUARDIOLAfor 1 PEREZ de VARGAS MO Empty goal,30,ESP,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ESP,84,52:45,54:20,20 - 23,-3
+105,ESP - DEN,54:20,3260,2,DUJSHEBAEV DOVICHE Shot centre 9m saved bottom left,10,ESP,Empty goal,1,,,10,0,,bottom left,centre 9m,,1,bottom,left,,,,,,,TRUE,0,1,7,ESP,84,52:45,54:20,20 - 23,-3
+105,ESP - DEN,54:22,3262,2,PEREZ de VARGAS MOfor 62 ODRIOZOLA YEREGUI Goalkeeper back,1,ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ESP,84,52:45,54:20,20 - 23,-3
+105,ESP - DEN,54:35,3275,2,JORGENSEN Lfor 1 LANDIN JACOBSEN N Empty goal,25,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,ESP,84,52:45,54:20,20 - 23,-3
+105,ESP - DEN,54:54,3294,2,JAKOBSEN E Shot left wing post,7,DEN,Empty goal,1,,,7,0,,post,left wing,1,,"","",,,,,,,FALSE,0,1,7,DEN,85,54:20,54:54,20 - 23,-3
+105,ESP - DEN,55:03,3303,2,FERNANDEZ PEREZ A Turnover,6,ESP,1,Empty goal,,,,0,,"","",,,"","",,,6,,,,TRUE,0,0,6,ESP,86,54:54,55:03,20 - 23,-3
+105,ESP - DEN,55:03,3303,2,GIDSEL M Steal,19,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,19,,FALSE,0,1,7,ESP,86,54:54,55:03,20 - 23,-3
+105,ESP - DEN,55:32,3332,2,"SAUGSTRUP JENSEN M Goal centre 6m middle centre (19 GIDSEL M), 95 km/h",15,DEN,Empty goal,1,19,15,,1,95,middle centre,centre 6m,,,middle,centre,,,,,,,FALSE,0,1,7,DEN,87,55:03,55:32,20 - 24,-4
+105,ESP - DEN,55:33,3333,2,LANDIN JACOBSEN Nfor 25 JORGENSEN L Goalkeeper back,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,DEN,87,55:03,55:32,20 - 24,-4
+105,ESP - DEN,55:53,3353,2,MOLLGAARD JENSEN Hfor 1 LANDIN JACOBSEN N Empty goal,21,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,DEN,87,55:03,55:32,20 - 24,-4
+105,ESP - DEN,56:03,3363,2,SANCHEZ MIGALLON N Shot fast break blocked,51,ESP,1,Empty goal,,,51,0,,blocked,fast break,,,"","",,,,,,,TRUE,0,0,6,ESP,88,55:32,56:03,20 - 24,-4
+105,ESP - DEN,56:03,3363,2,LANDIN JACOBSEN N Block,1,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,ESP,88,55:32,56:03,20 - 24,-4
+105,ESP - DEN,56:26,3386,2,"JORGENSEN L Goal centre 6m middle centre, 102 km/h",25,DEN,Empty goal,1,,25,,1,102,middle centre,centre 6m,,,middle,centre,,,,,,,FALSE,0,1,7,DEN,89,56:03,56:26,20 - 25,-5
+105,ESP - DEN,56:30,3390,2,LANDIN JACOBSEN Nfor 43 PYTLICK S Goalkeeper back,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,DEN,89,56:03,56:26,20 - 25,-5
+105,ESP - DEN,57:01,3421,2,"CANELLAS REIXACH J Goal left 6m top right, 90 km/h",21,ESP,1,1,,21,,1,90,top right,left 6m,,,top,right,,,,,,,TRUE,0,0,6,ESP,90,56:26,57:01,21 - 25,-4
+105,ESP - DEN,57:09,3429,2,JORGENSEN Lfor 1 LANDIN JACOBSEN N Empty goal,25,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,ESP,90,56:26,57:01,21 - 25,-4
+105,ESP - DEN,57:20,3440,2,HANSEN M Technical Fault,24,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,24,,,FALSE,0,1,7,DEN,91,57:01,57:20,21 - 25,-4
+105,ESP - DEN,57:25,3445,2,LANDIN JACOBSEN Nfor 24 HANSEN M Goalkeeper back,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,DEN,91,57:01,57:20,21 - 25,-4
+105,ESP - DEN,57:41,3461,2,DUJSHEBAEV DOVICHE Goal breakthrough top left,10,ESP,1,1,,10,,1,,top left,breakthrough,,,top,left,,,,,,,TRUE,0,0,6,ESP,92,57:20,57:41,22 - 25,-3
+105,ESP - DEN,57:52,3472,2,MOLLGAARD JENSEN Hfor 1 LANDIN JACOBSEN N Empty goal,21,DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,ESP,92,57:20,57:41,22 - 25,-3
+105,ESP - DEN,58:17,3497,2,DUJSHEBAEV DOVICHE Steal,10,ESP,1,Empty goal,,,,0,,"","",,,"","",,,,,10,,TRUE,0,0,6,DEN,93,57:41,58:17,22 - 25,-3
+105,ESP - DEN,58:17,3497,2,HANSEN M Turnover,24,DEN,Empty goal,1,,,,0,,"","",,,"","",,,24,,,,FALSE,0,1,7,DEN,93,57:41,58:17,22 - 25,-3
+105,ESP - DEN,58:28,3508,2,"ODRIOZOLA YEREGUI Goal empty goal middle centre (10 DUJSHEBAEV DOVICHE), 95 km/h",62,ESP,1,Empty goal,10,62,,1,95,middle centre,empty goal,,,middle,centre,,,,,,,TRUE,0,0,6,ESP,94,58:17,58:28,23 - 25,-2
+105,ESP - DEN,58:38,3518,2,Team timeout,"",DEN,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,DEN,95,58:28,58:52,23 - 25,-2
+105,ESP - DEN,58:52,3532,2,MAQUEDA PENO J 7m caused,5,ESP,1,Empty goal,,,,0,,"","",,,"","",5,,,,,,TRUE,0,0,6,DEN,95,58:28,58:52,23 - 25,-2
+105,ESP - DEN,58:52,3532,2,GIDSEL M 7m received,19,DEN,Empty goal,1,,,,0,,"","",,,"","",,19,,,,,FALSE,0,1,7,DEN,95,58:28,58:52,23 - 25,-2
+105,ESP - DEN,58:52,3532,2,LANDIN JACOBSEN Nfor 7 JAKOBSEN E Goalkeeper back,1,DEN,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,DEN,95,58:28,58:52,23 - 25,-2
+105,ESP - DEN,58:52,3532,2,HANSEN M Penalty shot saved top centre,24,DEN,1,1,,,24,0,,top centre,Penalty,,1,top,centre,,,,,,,FALSE,0,0,6,DEN,95,58:28,58:52,23 - 25,-2
+105,ESP - DEN,58:59,3539,2,Team timeout,"",ESP,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ESP,96,58:52,59:20,23 - 25,-2
+105,ESP - DEN,59:12,3552,2,DUJSHEBAEV DOVICHE 7m received,59,ESP,1,1,,,,0,,"","",,,"","",,59,,,,,TRUE,0,0,6,ESP,96,58:52,59:20,23 - 25,-2
+105,ESP - DEN,59:12,3552,2,SAUGSTRUP JENSEN M 7m caused,15,DEN,1,1,,,,0,,"","",,,"","",15,,,,,,FALSE,0,0,6,ESP,96,58:52,59:20,23 - 25,-2
+105,ESP - DEN,59:20,3560,2,SOLE SALA F Penalty shot saved middle centre,14,ESP,1,1,,,14,0,,middle centre,Penalty,,1,middle,centre,,,,,,,TRUE,0,0,6,ESP,96,58:52,59:20,23 - 25,-2
+105,ESP - DEN,59:48,3588,2,"JAKOBSEN E Goal left wing top right (19 GIDSEL M), 86 km/h",7,DEN,1,1,19,7,,1,86,top right,left wing,,,top,right,,,,,,,FALSE,0,0,6,DEN,97,59:20,60:00,23 - 26,-3
+106,GER - EGY,0:00,0,1,WOLFF A Goalkeeper,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,GER,1,"","",0 - 0,0
+106,GER - EGY,0:00,0,1,HENDAWY K Goalkeeper,88,EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,GER,1,"","",0 - 0,0
+106,GER - EGY,0:48,48,1,"KOSTER J Goal breakthrough middle left, 80 km/h",18,GER,33,88,,18,,1,80,middle left,breakthrough,,,middle,left,,,,,,,TRUE,0,0,6,GER,1,0:00,0:48,1 - 0,1
+106,GER - EGY,1:26,86,1,KADDAH H Shot centre 9m saved top right,42,EGY,88,33,,,42,0,,top right,centre 9m,,1,top,right,,,,,,,FALSE,0,0,6,EGY,2,0:48,1:26,1 - 0,1
+106,GER - EGY,2:14,134,1,KOSTER J Turnover,18,GER,33,88,,,,0,,"","",,,"","",,,18,,,,TRUE,0,0,6,GER,3,1:26,2:14,1 - 0,1
+106,GER - EGY,2:14,134,1,ELMASRY I Steal,24,EGY,88,33,,,,0,,"","",,,"","",,,,,24,,FALSE,0,0,6,GER,3,1:26,2:14,1 - 0,1
+106,GER - EGY,3:01,181,1,MAHMOUD M Shot right 9m missed,55,EGY,88,33,,,55,0,,missed,right 9m,,,"","",,,,,,,FALSE,0,0,6,EGY,4,2:14,3:01,1 - 0,1
+106,GER - EGY,3:28,208,1,"GOLLA J Goal centre 6m bottom centre (15 KNORR J), 100 km/h",4,GER,33,88,15,4,,1,100,bottom centre,centre 6m,,,bottom,centre,,,,,,,TRUE,0,0,6,GER,5,3:01,3:28,2 - 0,2
+106,GER - EGY,3:42,222,1,ELMASRY I Shot centre 6m saved middle left,24,EGY,88,33,,,24,0,,middle left,centre 6m,,1,middle,left,,,,,,,FALSE,0,0,6,EGY,6,3:28,3:42,2 - 0,2
+106,GER - EGY,3:48,228,1,GOLLA J Goal centre 6m bottom centre (15 KNORR J),4,GER,33,88,15,4,,1,,bottom centre,centre 6m,,,bottom,centre,,,,,,,TRUE,0,0,6,GER,7,3:42,3:48,3 - 0,3
+106,GER - EGY,4:24,264,1,"SHEBIB M Goal breakthrough bottom left, 75 km/h",89,EGY,88,33,,89,,1,75,bottom left,breakthrough,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,8,3:48,4:24,3 - 1,2
+106,GER - EGY,4:34,274,1,KOSTER J Technical Fault,18,GER,33,88,,,,0,,"","",,,"","",,,,18,,,TRUE,0,0,6,GER,9,4:24,4:34,3 - 1,2
+106,GER - EGY,4:43,283,1,STEINERT C Warning (yellow card),44,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,GER,9,4:24,4:34,3 - 1,2
+106,GER - EGY,5:15,315,1,SANAD M Shot right wing saved bottom left,91,EGY,88,33,,,91,0,,bottom left,right wing,,1,bottom,left,,,,,,,FALSE,0,0,6,EGY,10,4:34,5:15,3 - 1,2
+106,GER - EGY,5:30,330,1,"GOLLA J Goal centre 6m top centre (15 KNORR J), 89 km/h",4,GER,33,88,15,4,,1,89,top centre,centre 6m,,,top,centre,,,,,,,TRUE,0,0,6,GER,11,5:15,5:30,4 - 1,3
+106,GER - EGY,5:41,341,1,KADDAH H Turnover,42,EGY,88,33,,,,0,,"","",,,"","",,,42,,,,FALSE,0,0,6,EGY,12,5:30,5:41,4 - 1,3
+106,GER - EGY,5:52,352,1,WOLFF A Turnover (FB),33,GER,33,88,,,,0,,"","",,,"","",,,33,,,,TRUE,0,0,6,GER,13,5:41,5:52,4 - 1,3
+106,GER - EGY,5:52,352,1,HENDAWY K Steal,88,EGY,88,33,,,,0,,"","",,,"","",,,,,88,,FALSE,0,0,6,GER,13,5:41,5:52,4 - 1,3
+106,GER - EGY,6:02,362,1,"SANAD M Goal right wing top left, 83 km/h",91,EGY,88,33,,91,,1,83,top left,right wing,,,top,left,,,,,,,FALSE,0,0,6,EGY,14,5:52,6:02,4 - 2,2
+106,GER - EGY,6:24,384,1,KOSTER J Turnover,18,GER,33,88,,,,0,,"","",,,"","",,,18,,,,TRUE,0,0,6,GER,15,6:02,6:24,4 - 2,2
+106,GER - EGY,6:24,384,1,SANAD M Steal,91,EGY,88,33,,,,0,,"","",,,"","",,,,,91,,FALSE,0,0,6,GER,15,6:02,6:24,4 - 2,2
+106,GER - EGY,6:34,394,1,"SANAD M Goal fast break bottom left (55 MAHMOUD M), 105 km/h",91,EGY,88,33,55,91,,1,105,bottom left,fast break,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,16,6:24,6:34,4 - 3,1
+106,GER - EGY,6:42,402,1,KNORR J Goal centre 9m bottom right,15,GER,33,88,,15,,1,,bottom right,centre 9m,,,bottom,right,,,,,,,TRUE,0,0,6,GER,17,6:34,6:42,5 - 3,2
+106,GER - EGY,7:38,458,1,MAHMOUD M Shot left 6m saved bottom right,55,EGY,88,33,,,55,0,,bottom right,left 6m,,1,bottom,right,,,,,,,FALSE,0,0,6,EGY,18,6:42,7:38,5 - 3,2
+106,GER - EGY,8:21,501,1,"MERTENS L Goal fast break bottom left (15 KNORR J), 70 km/h",36,GER,33,88,15,36,,1,70,bottom left,fast break,,,bottom,left,,,,,,,TRUE,0,0,6,GER,19,7:38,8:21,6 - 3,3
+106,GER - EGY,9:16,556,1,HAFNER K Block,25,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,EGY,20,8:21,9:33,6 - 3,3
+106,GER - EGY,9:16,556,1,SHEBIB M Shot centre 9m blocked,89,EGY,88,33,,,89,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,0,6,EGY,20,8:21,9:33,6 - 3,3
+106,GER - EGY,9:33,573,1,SHEBIB M Shot centre 6m saved middle left,89,EGY,88,33,,,89,0,,middle left,centre 6m,,1,middle,left,,,,,,,FALSE,0,0,6,EGY,20,8:21,9:33,6 - 3,3
+106,GER - EGY,9:54,594,1,"HAFNER K Goal breakthrough middle left, 105 km/h",25,GER,33,88,,25,,1,105,middle left,breakthrough,,,middle,left,,,,,,,TRUE,0,0,6,GER,21,9:33,9:54,7 - 3,4
+106,GER - EGY,10:34,634,1,"ABDELHAK M Goal breakthrough top left, 96 km/h",48,EGY,88,33,,48,,1,96,top left,breakthrough,,,top,left,,,,,,,FALSE,0,0,6,EGY,22,9:54,10:34,7 - 4,3
+106,GER - EGY,10:44,644,1,ZERBE L Goal right wing bottom right,17,GER,33,88,,17,,1,,bottom right,right wing,,,bottom,right,,,,,,,TRUE,0,0,6,GER,23,10:34,10:44,8 - 4,4
+106,GER - EGY,11:27,687,1,"ABDELHAK M Goal centre 9m bottom left, 104 km/h",48,EGY,88,33,,48,,1,104,bottom left,centre 9m,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,24,10:44,11:27,8 - 5,3
+106,GER - EGY,12:05,725,1,"STUTZKE L Goal centre 6m middle right, 99 km/h",39,GER,33,88,,39,,1,99,middle right,centre 6m,,,middle,right,,,,,,,TRUE,0,0,6,GER,25,11:27,12:05,9 - 5,4
+106,GER - EGY,12:50,770,1,"ELWAKIL O Goal breakthrough middle left (15 MOHAMED A), 80 km/h",31,EGY,88,33,15,31,,1,80,middle left,breakthrough,,,middle,left,,,,,,,FALSE,0,0,6,EGY,26,12:05,12:50,9 - 6,3
+106,GER - EGY,13:06,786,1,GOLLA J Goal centre 6m bottom right (99 WITZKE L),4,GER,33,88,99,4,,1,,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,0,6,GER,27,12:50,13:06,10 - 6,4
+106,GER - EGY,13:18,798,1,SANAD M Shot breakthrough saved bottom centre,91,EGY,88,33,,,91,0,,bottom centre,breakthrough,,1,bottom,centre,,,,,,,FALSE,0,0,6,EGY,28,13:06,13:18,10 - 6,4
+106,GER - EGY,13:29,809,1,STUTZKE L Technical Fault,39,GER,33,88,,,,0,,"","",,,"","",,,,39,,,TRUE,0,0,6,GER,29,13:18,13:29,10 - 6,4
+106,GER - EGY,14:04,844,1,SHEBIB M Shot centre 6m saved middle right,89,EGY,88,33,,,89,0,,middle right,centre 6m,,1,middle,right,,,,,,,FALSE,0,0,6,EGY,30,13:29,14:04,10 - 6,4
+106,GER - EGY,14:48,888,1,HAFNER K Turnover,25,GER,33,88,,,,0,,"","",,,"","",,,25,,,,TRUE,0,0,6,GER,31,14:04,14:48,10 - 6,4
+106,GER - EGY,14:48,888,1,SHEBIB M Steal,89,EGY,88,33,,,,0,,"","",,,"","",,,,,89,,FALSE,0,0,6,GER,31,14:04,14:48,10 - 6,4
+106,GER - EGY,14:56,896,1,STUTZKE L 2-minutes suspension,39,GER,33,88,,,,0,,"","",,,"","",,,,,,39,TRUE,0,0,6,GER,31,14:04,14:48,10 - 6,4
+106,GER - EGY,15:18,918,1,SAAD A Shot right wing saved top centre,53,EGY,88,33,,,53,0,,top centre,right wing,,1,top,centre,,,,,,,FALSE,0,0,6,EGY,32,14:48,15:18,10 - 6,4
+106,GER - EGY,15:25,925,1,HAFNER Kfor 33 WOLFF A Empty goal,25,GER,Empty goal,88,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,EGY,32,14:48,15:18,10 - 6,4
+106,GER - EGY,15:44,944,1,"HAFNER K Goal left 9m bottom right, 96 km/h",25,GER,Empty goal,88,,25,,1,96,bottom right,left 9m,,,bottom,right,,,,,,,TRUE,-1,1,6,GER,33,15:18,15:44,11 - 6,5
+106,GER - EGY,15:47,947,1,WOLFF Afor 99 WITZKE L Goalkeeper back,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,GER,33,15:18,15:44,11 - 6,5
+106,GER - EGY,15:49,949,1,HOMAYED Afor 88 HENDAWY K Goalkeeper Substitution,1,EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,GER,33,15:18,15:44,11 - 6,5
+106,GER - EGY,16:05,965,1,Team timeout,"",EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,EGY,34,15:44,16:24,11 - 6,5
+106,GER - EGY,16:24,984,1,"SHEBIB M Goal centre 6m bottom left (15 MOHAMED A), 84 km/h",89,EGY,88,33,15,89,,1,84,bottom left,centre 6m,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,34,15:44,16:24,11 - 7,4
+106,GER - EGY,16:52,1012,1,WITZKE Lfor 33 WOLFF A Empty goal,99,GER,Empty goal,88,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,EGY,34,15:44,16:24,11 - 7,4
+106,GER - EGY,17:22,1042,1,HAFNER K Shot centre 9m saved middle right,25,GER,Empty goal,88,,,25,0,,middle right,centre 9m,,1,middle,right,,,,,,,TRUE,0,1,7,GER,35,16:24,17:22,11 - 7,4
+106,GER - EGY,17:38,1058,1,WOLFF Afor 39 STUTZKE L Goalkeeper back,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,GER,35,16:24,17:22,11 - 7,4
+106,GER - EGY,17:50,1070,1,MOHAMED A Shot centre 9m saved top right,15,EGY,88,33,,,15,0,,top right,centre 9m,,1,top,right,,,,,,,FALSE,0,0,6,EGY,36,17:22,17:50,11 - 7,4
+106,GER - EGY,18:44,1124,1,"KOSTER J Goal left 9m bottom right, 88 km/h",18,GER,33,88,,18,,1,88,bottom right,left 9m,,,bottom,right,,,,,,,TRUE,0,0,6,GER,37,17:50,18:44,12 - 7,5
+106,GER - EGY,19:20,1160,1,SHEBIB M Shot centre 6m saved top left,89,EGY,88,33,,,89,0,,top left,centre 6m,,1,top,left,,,,,,,FALSE,0,0,6,EGY,38,18:44,19:20,12 - 7,5
+106,GER - EGY,19:58,1198,1,"HAFNER K Goal centre 9m middle right, 94 km/h",25,GER,33,88,,25,,1,94,middle right,centre 9m,,,middle,right,,,,,,,TRUE,0,0,6,GER,39,19:20,19:58,13 - 7,6
+106,GER - EGY,20:42,1242,1,KOSTER J Block,18,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,EGY,40,19:58,20:42,13 - 7,6
+106,GER - EGY,20:42,1242,1,ABDELHAK M Shot centre 9m blocked,48,EGY,88,33,,,48,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,0,6,EGY,40,19:58,20:42,13 - 7,6
+106,GER - EGY,20:51,1251,1,WITZKE L Turnover (FB),99,GER,33,88,,,,0,,"","",,,"","",,,99,,,,TRUE,0,0,6,GER,41,20:42,20:51,13 - 7,6
+106,GER - EGY,20:51,1251,1,SHEBIB M Steal,89,EGY,88,33,,,,0,,"","",,,"","",,,,,89,,FALSE,0,0,6,GER,41,20:42,20:51,13 - 7,6
+106,GER - EGY,20:59,1259,1,MOHAMED A Shot left 6m saved top right,90,EGY,88,33,,,90,0,,top right,left 6m,,1,top,right,,,,,,,FALSE,0,0,6,EGY,42,20:51,21:47,13 - 7,6
+106,GER - EGY,21:16,1276,1,STUTZKE L 2-minutes suspension,39,GER,33,88,,,,0,,"","",,,"","",,,,,,39,TRUE,0,0,6,EGY,42,20:51,21:47,13 - 7,6
+106,GER - EGY,21:47,1307,1,ABDELHAK M Shot right 9m saved top left,48,EGY,88,33,,,48,0,,top left,right 9m,,1,top,left,,,,,,,FALSE,0,0,6,EGY,42,20:51,21:47,13 - 7,6
+106,GER - EGY,22:03,1323,1,HAFNER Kfor 33 WOLFF A Empty goal,25,GER,Empty goal,88,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,EGY,42,20:51,21:47,13 - 7,6
+106,GER - EGY,22:50,1370,1,KOHLBACHER J Shot centre 6m saved top left,80,GER,Empty goal,88,,,80,0,,top left,centre 6m,,1,top,left,,,,,,,TRUE,-1,1,6,GER,43,21:47,22:50,13 - 7,6
+106,GER - EGY,22:53,1373,1,WOLFF Afor 17 ZERBE L Goalkeeper back,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,GER,43,21:47,22:50,13 - 7,6
+106,GER - EGY,23:18,1398,1,"ELDERAA Y Goal centre 9m top left, 92 km/h",39,EGY,88,33,,39,,1,92,top left,centre 9m,,,top,left,,,,,,,FALSE,0,0,6,EGY,44,22:50,23:18,13 - 8,5
+106,GER - EGY,24:01,1441,1,"KOHLBACHER J Goal centre 6m bottom right, 91 km/h",80,GER,33,88,,80,,1,91,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,0,6,GER,45,23:18,24:01,14 - 8,6
+106,GER - EGY,24:40,1480,1,ELDERAA S Shot centre 6m missed,45,EGY,88,33,,,45,0,,missed,centre 6m,,,"","",,,,,,,FALSE,0,0,6,EGY,46,24:01,24:40,14 - 8,6
+106,GER - EGY,24:51,1491,1,"HAFNER K Goal breakthrough middle left, 86 km/h",25,GER,33,88,,25,,1,86,middle left,breakthrough,,,middle,left,,,,,,,TRUE,0,0,6,GER,47,24:40,24:51,15 - 8,7
+106,GER - EGY,24:57,1497,1,Team timeout,"",EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,EGY,48,24:51,25:20,15 - 8,7
+106,GER - EGY,25:20,1520,1,"ELDERAA Y Goal breakthrough bottom left, 86 km/h",39,EGY,88,33,,39,,1,86,bottom left,breakthrough,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,48,24:51,25:20,15 - 9,6
+106,GER - EGY,25:31,1531,1,"KOHLBACHER J Goal centre 6m bottom left (15 KNORR J), 79 km/h",80,GER,33,88,15,80,,1,79,bottom left,centre 6m,,,bottom,left,,,,,,,TRUE,0,0,6,GER,49,25:20,25:31,16 - 9,7
+106,GER - EGY,25:46,1546,1,"ELMASRY I Goal centre 6m bottom right (39 ELDERAA Y), 73 km/h",24,EGY,88,33,39,24,,1,73,bottom right,centre 6m,,,bottom,right,,,,,,,FALSE,0,0,6,EGY,50,25:31,25:46,16 - 10,6
+106,GER - EGY,26:18,1578,1,MERTENS L Shot left wing saved bottom centre,36,GER,33,88,,,36,0,,bottom centre,left wing,,1,bottom,centre,,,,,,,TRUE,0,0,6,GER,51,25:46,26:18,16 - 10,6
+106,GER - EGY,26:33,1593,1,ERNST S 2-minutes suspension,40,GER,33,88,,,,0,,"","",,,"","",,,,,,40,TRUE,0,0,6,GER,51,25:46,26:18,16 - 11,5
+106,GER - EGY,26:33,1593,1,"SAAD A Goal right wing bottom left (39 ELDERAA Y), 76 km/h",53,EGY,88,33,39,53,,1,76,bottom left,right wing,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,52,26:18,26:33,16 - 11,5
+106,GER - EGY,26:35,1595,1,HAFNER Kfor 33 WOLFF A Empty goal,25,GER,Empty goal,88,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,EGY,52,26:18,26:33,16 - 11,5
+106,GER - EGY,27:05,1625,1,Team timeout,"",GER,Empty goal,88,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,GER,53,26:33,27:23,16 - 11,5
+106,GER - EGY,27:23,1643,1,"KNORR J Goal centre 9m bottom left, 92 km/h",15,GER,Empty goal,88,,15,,1,92,bottom left,centre 9m,,,bottom,left,,,,,,,TRUE,-1,1,6,GER,53,26:33,27:23,17 - 11,6
+106,GER - EGY,27:51,1671,1,"ELWAKIL O Goal left wing bottom left (39 ELDERAA Y), 83 km/h",31,EGY,88,Empty goal,39,31,,1,83,bottom left,left wing,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,54,27:23,27:51,17 - 12,5
+106,GER - EGY,28:24,1704,1,KNORR J Shot centre 9m saved middle left,15,GER,Empty goal,88,,,15,0,,middle left,centre 9m,,1,middle,left,,,,,,,TRUE,-1,1,6,GER,55,27:51,28:24,17 - 12,5
+106,GER - EGY,28:32,1712,1,WOLFF Afor 17 ZERBE L Goalkeeper back,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,GER,55,27:51,28:24,17 - 12,5
+106,GER - EGY,28:39,1719,1,"MOHAMED A Goal breakthrough bottom right, 101 km/h",90,EGY,88,33,,90,,1,101,bottom right,breakthrough,,,bottom,right,,,,,,,FALSE,0,0,6,EGY,56,28:24,28:39,17 - 13,4
+106,GER - EGY,29:24,1764,1,HAFNER K Turnover,25,GER,33,88,,,,0,,"","",,,"","",,,25,,,,TRUE,0,0,6,GER,57,28:39,29:24,17 - 13,4
+106,GER - EGY,29:24,1764,1,MOHAMED A Steal,90,EGY,88,33,,,,0,,"","",,,"","",,,,,90,,FALSE,0,0,6,GER,57,28:39,29:24,17 - 13,4
+106,GER - EGY,29:55,1795,1,"ELDERAA Y Goal centre 9m top left, 106 km/h",39,EGY,88,33,,39,,1,106,top left,centre 9m,,,top,left,,,,,,,FALSE,0,0,6,EGY,58,29:24,29:55,17 - 14,3
+106,GER - EGY,30:00,1800,1,KOHLBACHER J Technical Fault,80,GER,33,88,,,,0,,"","",,,"","",,,,80,,,TRUE,0,0,6,EGY,59,29:55,30:00,17 - 14,3
+106,GER - EGY,30:00,1800,2,WOLFF A Goalkeeper,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,EGY,60,"","",17 - 14,3
+106,GER - EGY,30:55,1855,2,SHEBIB M Shot centre 6m saved bottom left,89,EGY,88,33,,,89,0,,bottom left,centre 6m,,1,bottom,left,,,,,,,FALSE,0,0,6,EGY,60,30:00,30:55,17 - 14,3
+106,GER - EGY,30:58,1858,2,HOMAYED Afor 80 MESILHY A Goalkeeper back,1,EGY,1,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,EGY,60,30:00,30:55,17 - 14,3
+106,GER - EGY,31:03,1863,2,"GOLLA J Goal empty goal middle centre, 76 km/h",4,GER,33,1,,4,,1,76,middle centre,empty goal,,,middle,centre,,,,,,,TRUE,0,0,6,GER,61,30:55,31:03,18 - 14,4
+106,GER - EGY,31:35,1895,2,ELWAKIL O Shot centre 6m saved bottom centre,31,EGY,1,33,,,31,0,,bottom centre,centre 6m,,1,bottom,centre,,,,,,,FALSE,0,0,6,EGY,62,31:03,31:35,18 - 14,4
+106,GER - EGY,32:10,1930,2,KNORR J Turnover,15,GER,33,1,,,,0,,"","",,,"","",,,15,,,,TRUE,0,0,6,GER,63,31:35,32:10,18 - 14,4
+106,GER - EGY,32:10,1930,2,SAAD A Steal,53,EGY,1,33,,,,0,,"","",,,"","",,,,,53,,FALSE,0,0,6,GER,63,31:35,32:10,18 - 14,4
+106,GER - EGY,32:18,1938,2,"ELWAKIL O Goal left 6m bottom left (90 MOHAMED A), 75 km/h",31,EGY,1,33,90,31,,1,75,bottom left,left 6m,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,64,32:10,32:18,18 - 15,3
+106,GER - EGY,32:29,1949,2,"KNORR J Goal centre 9m bottom right, 99 km/h",15,GER,33,1,,15,,1,99,bottom right,centre 9m,,,bottom,right,,,,,,,TRUE,0,0,6,GER,65,32:18,32:29,19 - 15,4
+106,GER - EGY,33:05,1985,2,MOHAMED A Goal breakthrough top right,90,EGY,1,33,,90,,1,,top right,breakthrough,,,top,right,,,,,,,FALSE,0,0,6,EGY,66,32:29,33:05,19 - 16,3
+106,GER - EGY,33:21,2001,2,STEINERT C Goal right wing middle left (25 HAFNER K),44,GER,33,1,25,44,,1,,middle left,right wing,,,middle,left,,,,,,,TRUE,0,0,6,GER,67,33:05,33:21,20 - 16,4
+106,GER - EGY,34:19,2059,2,ABDELHAK M Goal breakthrough bottom left (90 MOHAMED A),48,EGY,1,33,90,48,,1,,bottom left,breakthrough,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,68,33:21,34:19,20 - 17,3
+106,GER - EGY,34:51,2091,2,"HAFNER K Goal breakthrough bottom left, 91 km/h",25,GER,33,1,,25,,1,91,bottom left,breakthrough,,,bottom,left,,,,,,,TRUE,0,0,6,GER,69,34:19,34:51,21 - 17,4
+106,GER - EGY,35:39,2139,2,MESILHY A Shot centre 6m saved bottom centre,80,EGY,1,33,,,80,0,,bottom centre,centre 6m,,1,bottom,centre,,,,,,,FALSE,0,0,6,EGY,70,34:51,35:39,21 - 17,4
+106,GER - EGY,35:46,2146,2,"KOSTER J Goal centre 9m top left, 92 km/h",18,GER,33,1,,18,,1,92,top left,centre 9m,,,top,left,,,,,,,TRUE,0,0,6,GER,71,35:39,35:46,22 - 17,5
+106,GER - EGY,36:20,2180,2,"ABDELHAK M Goal breakthrough bottom right, 92 km/h",48,EGY,1,33,,48,,1,92,bottom right,breakthrough,,,bottom,right,,,,,,,FALSE,0,0,6,EGY,72,35:46,36:20,22 - 18,4
+106,GER - EGY,37:05,2225,2,MERTENS L 7m received,36,GER,33,1,,,,0,,"","",,,"","",,36,,,,,TRUE,0,0,6,GER,73,36:20,37:05,22 - 18,4
+106,GER - EGY,37:05,2225,2,ABDELHAK M 7m caused,48,EGY,1,33,,,,0,,"","",,,"","",48,,,,,,FALSE,0,0,6,GER,73,36:20,37:05,22 - 18,4
+106,GER - EGY,37:05,2225,2,ABDELHAK M 2-minutes suspension,48,EGY,1,33,,,,0,,"","",,,"","",,,,,,48,FALSE,0,0,6,GER,73,36:20,37:05,22 - 18,4
+106,GER - EGY,37:05,2225,2,"KNORR J Goal Penalty shot bottom right (36 MERTENS L), 105 km/h",15,GER,33,1,36,15,,1,105,bottom right,Penalty,,,bottom,right,,,,,,,TRUE,0,0,6,GER,73,36:20,37:05,23 - 18,5
+106,GER - EGY,37:28,2248,2,ELDERAA Sfor 1 HOMAYED A Empty goal,45,EGY,Empty goal,33,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,GER,73,36:20,37:05,23 - 18,5
+106,GER - EGY,37:48,2268,2,"ELDERAA Y Goal breakthrough middle left, 71 km/h",39,EGY,Empty goal,33,,39,,1,71,middle left,breakthrough,,,middle,left,,,,,,,FALSE,-1,1,6,EGY,74,37:05,37:48,23 - 19,4
+106,GER - EGY,38:01,2281,2,"KNORR J Goal centre 9m middle left, 100 km/h",15,GER,33,Empty goal,,15,,1,100,middle left,centre 9m,,,middle,left,,,,,,,TRUE,0,0,6,GER,75,37:48,38:01,24 - 19,5
+106,GER - EGY,38:02,2282,2,HENDAWY Kfor 80 MESILHY A Goalkeeper back,88,EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,GER,75,37:48,38:01,24 - 19,5
+106,GER - EGY,38:28,2308,2,ELDERAA Sfor 88 HENDAWY K Empty goal,45,EGY,Empty goal,33,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,GER,75,37:48,38:01,24 - 19,5
+106,GER - EGY,38:45,2325,2,ELDERAA S Shot breakthrough saved middle centre,45,EGY,Empty goal,33,,,45,0,,middle centre,breakthrough,,1,middle,centre,,,,,,,FALSE,-1,1,6,EGY,76,38:01,38:45,24 - 19,5
+106,GER - EGY,39:01,2341,2,"GOLLA J Goal centre 6m bottom right (15 KNORR J), 95 km/h",4,GER,33,Empty goal,15,4,,1,95,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,0,6,GER,77,38:45,39:45,25 - 19,6
+106,GER - EGY,39:33,2373,2,HENDAWY Kfor 45 ELDERAA S Goalkeeper back,88,EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,GER,77,38:45,39:45,25 - 19,6
+106,GER - EGY,39:35,2375,2,KOHLBACHER J Turnover,80,GER,33,88,,,,0,,"","",,,"","",,,80,,,,TRUE,0,0,6,GER,77,38:45,39:45,25 - 19,6
+106,GER - EGY,39:45,2385,2,MERTENS L Goal centre 6m bottom left (18 KOSTER J),36,GER,33,88,18,36,,1,,bottom left,centre 6m,,,bottom,left,,,,,,,TRUE,0,0,6,GER,77,38:45,39:45,26 - 19,7
+106,GER - EGY,39:56,2396,2,Team timeout,"",EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,EGY,78,39:45,40:51,26 - 19,7
+106,GER - EGY,40:51,2451,2,KOSTER J Steal,18,GER,33,88,,,,0,,"","",,,"","",,,,,18,,TRUE,0,0,6,EGY,78,39:45,40:51,26 - 19,7
+106,GER - EGY,40:51,2451,2,ELDERAA Y Turnover,39,EGY,88,33,,,,0,,"","",,,"","",,,39,,,,FALSE,0,0,6,EGY,78,39:45,40:51,26 - 19,7
+106,GER - EGY,40:59,2459,2,MERTENS L 7m received,36,GER,33,88,,,,0,,"","",,,"","",,36,,,,,TRUE,0,0,6,GER,79,40:51,40:59,26 - 19,7
+106,GER - EGY,40:59,2459,2,ABDELHAK M 7m caused,48,EGY,88,33,,,,0,,"","",,,"","",48,,,,,,FALSE,0,0,6,GER,79,40:51,40:59,26 - 19,7
+106,GER - EGY,40:59,2459,2,ABDELHAK M Disqualification (red card-direct),48,EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,GER,79,40:51,40:59,26 - 19,7
+106,GER - EGY,40:59,2459,2,KNORR J Goal Penalty shot bottom centre (36 MERTENS L),15,GER,33,88,36,15,,1,,bottom centre,Penalty,,,bottom,centre,,,,,,,TRUE,0,0,6,GER,79,40:51,40:59,27 - 19,8
+106,GER - EGY,41:23,2483,2,MAHMOUD Mfor 88 HENDAWY K Empty goal,55,EGY,Empty goal,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,GER,79,40:51,40:59,27 - 19,8
+106,GER - EGY,41:39,2499,2,"MOHAMED A Goal breakthrough top centre, 82 km/h",90,EGY,Empty goal,33,,90,,1,82,top centre,breakthrough,,,top,centre,,,,,,,FALSE,0,1,7,EGY,80,40:59,41:39,27 - 20,7
+106,GER - EGY,41:44,2504,2,HENDAWY Kfor 55 MAHMOUD M Goalkeeper back,88,EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,EGY,80,40:59,41:39,27 - 20,7
+106,GER - EGY,41:50,2510,2,KNORR J Turnover,15,GER,33,88,,,,0,,"","",,,"","",,,15,,,,TRUE,0,0,6,GER,81,41:39,41:50,27 - 20,7
+106,GER - EGY,42:02,2522,2,"SHEBIB M Goal fast break middle right (90 MOHAMED A), 95 km/h",89,EGY,88,33,90,89,,1,95,middle right,fast break,,,middle,right,,,,,,,FALSE,0,0,6,EGY,82,41:50,42:02,27 - 21,6
+106,GER - EGY,42:17,2537,2,"KNORR J Goal centre 9m bottom right, 96 km/h",15,GER,33,88,,15,,1,96,bottom right,centre 9m,,,bottom,right,,,,,,,TRUE,0,0,6,GER,83,42:02,42:17,28 - 21,7
+106,GER - EGY,42:36,2556,2,SHEBIB Mfor 88 HENDAWY K Empty goal,89,EGY,Empty goal,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,GER,83,42:02,42:17,28 - 21,7
+106,GER - EGY,43:15,2595,2,GOLLA J 7m caused,4,GER,33,Empty goal,,,,0,,"","",,,"","",4,,,,,,TRUE,0,0,6,EGY,84,42:17,43:26,28 - 21,7
+106,GER - EGY,43:15,2595,2,MAHMOUD M 7m received,55,EGY,Empty goal,33,,,,0,,"","",,,"","",,55,,,,,FALSE,0,1,7,EGY,84,42:17,43:26,28 - 21,7
+106,GER - EGY,43:26,2606,2,MOHAMED A Goal Penalty shot top right (55 MAHMOUD M),90,EGY,Empty goal,33,55,90,,1,,top right,Penalty,,,top,right,,,,,,,FALSE,0,1,7,EGY,84,42:17,43:26,28 - 22,6
+106,GER - EGY,43:35,2615,2,HENDAWY Kfor 48 ABDELHAK M Goalkeeper back,88,EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,EGY,84,42:17,43:26,28 - 22,6
+106,GER - EGY,44:06,2646,2,WEBER P Turnover,20,GER,33,88,,,,0,,"","",,,"","",,,20,,,,TRUE,0,0,6,GER,85,43:26,44:06,28 - 22,6
+106,GER - EGY,44:13,2653,2,ELWAKIL O Goal fast break top centre (90 MOHAMED A),31,EGY,88,33,90,31,,1,,top centre,fast break,,,top,centre,,,,,,,FALSE,0,0,6,EGY,86,44:06,44:13,28 - 23,5
+106,GER - EGY,44:54,2694,2,WITZKE L Shot centre 9m blocked,99,GER,33,88,,,99,0,,blocked,centre 9m,,,"","",,,,,,,TRUE,0,0,6,GER,87,44:13,44:54,28 - 23,5
+106,GER - EGY,44:54,2694,2,MOHAMED A Block,90,EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,GER,87,44:13,44:54,28 - 23,5
+106,GER - EGY,45:31,2731,2,STEINERT C 7m caused,44,GER,33,88,,,,0,,"","",,,"","",44,,,,,,TRUE,0,0,6,EGY,88,44:54,45:45,28 - 23,5
+106,GER - EGY,45:31,2731,2,ELDERAA Y 7m received,39,EGY,88,33,,,,0,,"","",,,"","",,39,,,,,FALSE,0,0,6,EGY,88,44:54,45:45,28 - 23,5
+106,GER - EGY,45:45,2745,2,"MOHAMED A Goal Penalty shot middle left (39 ELDERAA Y), 95 km/h",90,EGY,88,33,39,90,,1,95,middle left,Penalty,,,middle,left,,,,,,,FALSE,0,0,6,EGY,88,44:54,45:45,28 - 24,4
+106,GER - EGY,46:55,2815,2,WEBER P Technical Fault,20,GER,33,88,,,,0,,"","",,,"","",,,,20,,,TRUE,0,0,6,GER,89,45:45,46:55,28 - 24,4
+106,GER - EGY,47:22,2842,2,MOHAMED A Goal centre 9m bottom left,15,EGY,88,33,,15,,1,,bottom left,centre 9m,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,90,46:55,47:22,28 - 25,3
+106,GER - EGY,47:41,2861,2,Team timeout,"",GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,GER,91,47:22,47:54,28 - 25,3
+106,GER - EGY,47:54,2874,2,HAFNER K Turnover,25,GER,33,88,,,,0,,"","",,,"","",,,25,,,,TRUE,0,0,6,GER,91,47:22,47:54,28 - 25,3
+106,GER - EGY,47:54,2874,2,SAAD A Steal,53,EGY,88,33,,,,0,,"","",,,"","",,,,,53,,FALSE,0,0,6,GER,91,47:22,47:54,28 - 25,3
+106,GER - EGY,48:02,2882,2,MOHAMED A Goal breakthrough top right,15,EGY,88,33,,15,,1,,top right,breakthrough,,,top,right,,,,,,,FALSE,0,0,6,EGY,92,47:54,48:02,28 - 26,2
+106,GER - EGY,48:46,2926,2,KNORR J Shot centre 9m saved bottom right,15,GER,33,88,,,15,0,,bottom right,centre 9m,,1,bottom,right,,,,,,,TRUE,0,0,6,GER,93,48:02,48:46,28 - 26,2
+106,GER - EGY,49:48,2988,2,MOHAMED A Shot breakthrough saved bottom centre,15,EGY,88,33,,,15,0,,bottom centre,breakthrough,,1,bottom,centre,,,,,,,FALSE,0,0,6,EGY,94,48:46,49:48,28 - 26,2
+106,GER - EGY,50:14,3014,2,KNORR J Turnover,15,GER,33,88,,,,0,,"","",,,"","",,,15,,,,TRUE,0,0,6,GER,95,49:48,50:14,28 - 26,2
+106,GER - EGY,50:14,3014,2,SHEBIB M Steal,89,EGY,88,33,,,,0,,"","",,,"","",,,,,89,,FALSE,0,0,6,GER,95,49:48,50:14,28 - 26,2
+106,GER - EGY,51:17,3077,2,STUTZKE L Disqualification (red card-three times 2-minute suspensions),39,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,GER,95,49:48,50:14,28 - 26,2
+106,GER - EGY,51:28,3088,2,SAAD A Shot right wing saved middle centre,53,EGY,88,33,,,53,0,,middle centre,right wing,,1,middle,centre,,,,,,,FALSE,0,0,6,EGY,96,50:14,51:28,28 - 26,2
+106,GER - EGY,51:46,3106,2,KNORR Jfor 33 WOLFF A Empty goal,15,GER,Empty goal,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,EGY,96,50:14,51:28,28 - 26,2
+106,GER - EGY,52:21,3141,2,"MERTENS L Goal centre 6m bottom right (25 HAFNER K), 83 km/h",36,GER,Empty goal,88,25,36,,1,83,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,1,7,GER,97,51:28,52:21,29 - 26,3
+106,GER - EGY,52:23,3143,2,WOLFF Afor 20 WEBER P Goalkeeper back,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,GER,97,51:28,52:21,29 - 26,3
+106,GER - EGY,52:49,3169,2,ELDERAA Y Shot breakthrough saved middle left,39,EGY,88,33,,,39,0,,middle left,breakthrough,,1,middle,left,,,,,,,FALSE,0,0,6,EGY,98,52:21,52:49,29 - 26,3
+106,GER - EGY,53:06,3186,2,WEBER Pfor 33 WOLFF A Empty goal,20,GER,Empty goal,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,EGY,98,52:21,52:49,29 - 26,3
+106,GER - EGY,53:41,3221,2,WOLFF Afor 39 STUTZKE L Goalkeeper back,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,EGY,98,52:21,52:49,29 - 26,3
+106,GER - EGY,53:47,3227,2,HAFNER K Shot centre 9m saved top right,25,GER,33,88,,,25,0,,top right,centre 9m,,1,top,right,,,,,,,TRUE,0,0,6,GER,99,52:49,53:59,29 - 26,3
+106,GER - EGY,53:59,3239,2,KNORR J 7m received,15,GER,33,88,,,,0,,"","",,,"","",,15,,,,,TRUE,0,0,6,GER,99,52:49,53:59,29 - 26,3
+106,GER - EGY,54:05,3245,2,BIRLEHM Jfor 33 WOLFF A Goalkeeper Substitution,41,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,GER,99,52:49,53:59,29 - 26,3
+106,GER - EGY,54:05,3245,2,STEINERT C 7m caused,44,GER,33,88,,,,0,,"","",,,"","",44,,,,,,TRUE,0,0,6,EGY,100,53:59,54:05,29 - 26,3
+106,GER - EGY,54:05,3245,2,MOHAMED A 7m received,15,EGY,88,33,,,,0,,"","",,,"","",,15,,,,,FALSE,0,0,6,EGY,100,53:59,54:05,29 - 26,3
+106,GER - EGY,54:05,3245,2,"MOHAMED A Goal Penalty shot bottom centre (15 MOHAMED A), 87 km/h",90,EGY,88,33,15,90,,1,87,bottom centre,Penalty,,,bottom,centre,,,,,,,FALSE,0,0,6,EGY,100,53:59,54:05,29 - 27,2
+106,GER - EGY,54:18,3258,2,WOLFF Afor 41 BIRLEHM J Goalkeeper Substitution,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,EGY,100,53:59,54:05,29 - 27,2
+106,GER - EGY,54:44,3284,2,KNORR J Shot left 9m saved middle centre,15,GER,33,88,,,15,0,,middle centre,left 9m,,1,middle,centre,,,,,,,TRUE,0,0,6,GER,101,54:05,54:44,29 - 27,2
+106,GER - EGY,55:11,3311,2,"ELDERAA Y Goal breakthrough bottom left, 93 km/h",39,EGY,88,33,,39,,1,93,bottom left,breakthrough,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,102,54:44,55:11,29 - 28,1
+106,GER - EGY,55:20,3320,2,"KOSTER J Goal fast break bottom right, 90 km/h",18,GER,33,88,,18,,1,90,bottom right,fast break,,,bottom,right,,,,,,,TRUE,0,0,6,GER,103,55:11,55:20,30 - 28,2
+106,GER - EGY,55:39,3339,2,"ELDERAA Y Goal breakthrough top right, 74 km/h",39,EGY,88,33,,39,,1,74,top right,breakthrough,,,top,right,,,,,,,FALSE,0,0,6,EGY,104,55:20,55:39,30 - 29,1
+106,GER - EGY,56:30,3390,2,GROETZKI P Shot right wing saved top centre,24,GER,33,88,,,24,0,,top centre,right wing,,1,top,centre,,,,,,,TRUE,0,0,6,GER,105,55:39,56:30,30 - 29,1
+106,GER - EGY,56:38,3398,2,"ELWAKIL O Goal fast break bottom centre (15 MOHAMED A), 79 km/h",31,EGY,88,33,15,31,,1,79,bottom centre,fast break,,,bottom,centre,,,,,,,FALSE,0,0,6,EGY,106,56:30,56:38,30 - 30,0
+106,GER - EGY,57:12,3432,2,WEBER P Turnover,20,GER,33,88,,,,0,,"","",,,"","",,,20,,,,TRUE,0,0,6,GER,107,56:38,57:12,30 - 30,0
+106,GER - EGY,58:16,3496,2,MOHAMED A Technical Fault,15,EGY,88,33,,,,0,,"","",,,"","",,,,15,,,FALSE,0,0,6,EGY,108,57:12,58:16,30 - 30,0
+106,GER - EGY,58:39,3519,2,Team timeout,"",GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,GER,109,58:16,59:16,30 - 30,0
+106,GER - EGY,58:57,3537,2,KOHLBACHER Jfor 33 WOLFF A Empty goal,80,GER,Empty goal,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,GER,109,58:16,59:16,30 - 30,0
+106,GER - EGY,59:16,3556,2,STEINERT C Technical Fault,44,GER,Empty goal,88,,,,0,,"","",,,"","",,,,44,,,TRUE,0,1,7,GER,109,58:16,59:16,30 - 30,0
+106,GER - EGY,59:16,3556,2,WOLFF Afor 80 KOHLBACHER J Goalkeeper back,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,GER,109,58:16,59:16,30 - 30,0
+106,GER - EGY,59:59,3599,2,MOHAMED A Shot centre 9m post,90,EGY,88,33,,,90,0,,post,centre 9m,1,,"","",,,,,,,FALSE,0,0,6,EGY,110,59:16,60:00,30 - 30,0
+106,GER - EGY,60:00,3600,3,WOLFF A Goalkeeper,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,GER,111,"","",30 - 30,0
+106,GER - EGY,60:00,3600,3,HENDAWY K Goalkeeper,88,EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,GER,111,"","",30 - 30,0
+106,GER - EGY,60:28,3628,3,MERTENS L Goal left wing middle left (18 KOSTER J),36,GER,33,88,18,36,,1,,middle left,left wing,,,middle,left,,,,,,,TRUE,0,0,6,GER,111,60:00,60:28,31 - 30,1
+106,GER - EGY,61:00,3660,3,SHEBIB M Goal centre 6m bottom left (15 MOHAMED A),89,EGY,88,33,15,89,,1,,bottom left,centre 6m,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,112,60:28,61:00,31 - 31,0
+106,GER - EGY,61:46,3706,3,"KOSTER J Goal breakthrough middle right, 75 km/h",18,GER,33,88,,18,,1,75,middle right,breakthrough,,,middle,right,,,,,,,TRUE,0,0,6,GER,113,61:00,61:46,32 - 31,1
+106,GER - EGY,62:48,3768,3,GOLLA J 7m caused,4,GER,33,88,,,,0,,"","",,,"","",4,,,,,,TRUE,0,0,6,EGY,114,61:46,62:50,32 - 31,1
+106,GER - EGY,62:48,3768,3,ELDERAA Y 7m received,39,EGY,88,33,,,,0,,"","",,,"","",,39,,,,,FALSE,0,0,6,EGY,114,61:46,62:50,32 - 31,1
+106,GER - EGY,62:50,3770,3,"MOHAMED A Goal Penalty shot top left (39 ELDERAA Y), 76 km/h",90,EGY,88,33,39,90,,1,76,top left,Penalty,,,top,left,,,,,,,FALSE,0,0,6,EGY,114,61:46,62:50,32 - 32,0
+106,GER - EGY,63:24,3804,3,HAFNER K Technical Fault,25,GER,33,88,,,,0,,"","",,,"","",,,,25,,,TRUE,0,0,6,GER,115,62:50,63:24,32 - 32,0
+106,GER - EGY,64:21,3861,3,"MOHAMED A Goal centre 9m middle right, 104 km/h",15,EGY,88,33,,15,,1,104,middle right,centre 9m,,,middle,right,,,,,,,FALSE,0,0,6,EGY,116,63:24,64:21,32 - 33,-1
+106,GER - EGY,64:52,3892,3,KOHLBACHER Jfor 33 WOLFF A Empty goal,80,GER,Empty goal,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,EGY,116,63:24,64:21,32 - 33,-1
+106,GER - EGY,65:00,3900,3,WOLFF Afor 24 GROETZKI P Goalkeeper back,33,GER,33,88,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,EGY,116,63:24,64:21,32 - 33,-1
+106,GER - EGY,65:00,3900,3,KOHLBACHER J Goal centre 6m bottom centre (15 KNORR J),80,GER,33,88,15,80,,1,,bottom centre,centre 6m,,,bottom,centre,,,,,,,TRUE,0,0,6,GER,117,64:21,65:00,33 - 33,0
+106,GER - EGY,65:00,3900,3,MESILHY Afor 88 HENDAWY K Empty goal,80,EGY,Empty goal,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,GER,117,64:21,65:00,33 - 33,0
+106,GER - EGY,65:26,3926,3,HENDAWY Kfor 80 MESILHY A Goalkeeper back,88,EGY,88,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,GER,117,64:21,65:00,33 - 33,0
+106,GER - EGY,65:29,3929,3,MOHAMED A Shot centre 9m post,15,EGY,88,33,,,15,0,,post,centre 9m,1,,"","",,,,,,,FALSE,0,0,6,EGY,118,65:00,65:29,33 - 33,0
+106,GER - EGY,66:31,3991,3,"STEINERT C Goal centre 9m middle right, 89 km/h",44,GER,33,88,,44,,1,89,middle right,centre 9m,,,middle,right,,,,,,,TRUE,0,0,6,GER,119,65:29,66:31,34 - 33,1
+106,GER - EGY,67:33,4053,3,"ELDERAA Y Goal centre 9m bottom left, 101 km/h",39,EGY,88,33,,39,,1,101,bottom left,centre 9m,,,bottom,left,,,,,,,FALSE,0,0,6,EGY,120,66:31,67:33,34 - 34,0
+106,GER - EGY,68:15,4095,3,"KOSTER J Goal breakthrough top left (15 KNORR J), 91 km/h",18,GER,33,88,15,18,,1,91,top left,breakthrough,,,top,left,,,,,,,TRUE,0,0,6,GER,121,67:33,68:15,35 - 34,1
+106,GER - EGY,68:54,4134,3,MOHAMED A Shot left 6m saved middle left,90,EGY,88,33,,,90,0,,middle left,left 6m,,1,middle,left,,,,,,,FALSE,0,0,6,EGY,122,68:15,69:23,35 - 34,1
+106,GER - EGY,69:23,4163,3,GOLLA J Steal,4,GER,33,88,,,,0,,"","",,,"","",,,,,4,,TRUE,0,0,6,EGY,122,68:15,69:23,35 - 34,1
+106,GER - EGY,69:23,4163,3,ELDERAA Y Turnover,39,EGY,88,33,,,,0,,"","",,,"","",,,39,,,,FALSE,0,0,6,EGY,122,68:15,69:23,35 - 34,1
+106,GER - EGY,69:56,4196,3,STEINERT C Turnover,44,GER,33,88,,,,0,,"","",,,"","",,,44,,,,TRUE,0,0,6,GER,123,69:23,70:00,35 - 34,1
+107,NOR - HUN,0:00,0,1,BERGERUD T Goalkeeper,30,NOR,30,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,HUN,1,"","",0 - 0,0
+107,NOR - HUN,0:00,0,1,MIKLER R Goalkeeper,16,HUN,16,30,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,HUN,1,"","",0 - 0,0
+107,NOR - HUN,0:48,48,1,ABELVIK ROD M 7m caused,77,NOR,30,16,,,,0,,"","",,,"","",77,,,,,,TRUE,0,0,6,HUN,1,0:00,0:48,0 - 0,0
+107,NOR - HUN,0:48,48,1,ABELVIK ROD M 2-minutes suspension,77,NOR,30,16,,,,0,,"","",,,"","",,,,,,77,TRUE,0,0,6,HUN,1,0:00,0:48,0 - 0,0
+107,NOR - HUN,0:48,48,1,HANUSZ E 7m received,77,HUN,16,30,,,,0,,"","",,,"","",,77,,,,,FALSE,0,0,6,HUN,1,0:00,0:48,0 - 0,0
+107,NOR - HUN,0:48,48,1,ROSTA M Penalty shot fault,20,HUN,16,30,,,20,0,,"",Penalty,,,"","",,,,,,,FALSE,0,0,6,HUN,1,0:00,0:48,0 - 0,0
+107,NOR - HUN,0:52,52,1,ROSTA M Disqualification (red card-direct),20,HUN,16,30,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,HUN,1,0:00,0:48,0 - 0,0
+107,NOR - HUN,1:03,63,1,REINKIND Hfor 30 BERGERUD T Empty goal,27,NOR,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,HUN,1,0:00,0:48,0 - 0,0
+107,NOR - HUN,1:09,69,1,"SAGOSEN S Goal left 9m bottom left, 96 km/h",5,NOR,Empty goal,16,,5,,1,96,bottom left,left 9m,,,bottom,left,,,,,,,TRUE,-1,1,6,NOR,2,0:48,1:09,1 - 0,1
+107,NOR - HUN,1:48,108,1,BANHIDI B Goal centre 6m bottom centre,27,HUN,16,Empty goal,,27,,1,,bottom centre,centre 6m,,,bottom,centre,,,,,,,FALSE,0,0,6,HUN,3,1:09,1:48,1 - 1,0
+107,NOR - HUN,2:14,134,1,BARTHOLD S Goal left wing bottom centre (5 SAGOSEN S),6,NOR,Empty goal,16,5,6,,1,,bottom centre,left wing,,,bottom,centre,,,,,,,TRUE,-1,1,6,NOR,4,1:48,2:14,2 - 1,1
+107,NOR - HUN,2:17,137,1,SAEVERAS Kfor 27 REINKIND H Goalkeeper back,12,NOR,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,NOR,4,1:48,2:14,2 - 1,1
+107,NOR - HUN,2:23,143,1,HANUSZ Efor 16 MIKLER R Empty goal,77,HUN,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,NOR,4,1:48,2:14,2 - 1,1
+107,NOR - HUN,2:44,164,1,HANUSZ E Turnover,77,HUN,Empty goal,12,,,,0,,"","",,,"","",,,77,,,,FALSE,0,1,7,HUN,5,2:14,2:44,2 - 1,1
+107,NOR - HUN,2:51,171,1,BJORNSEN K Goal empty goal middle centre,19,NOR,12,Empty goal,,19,,1,,middle centre,empty goal,,,middle,centre,,,,,,,TRUE,0,0,6,NOR,6,2:44,2:51,3 - 1,2
+107,NOR - HUN,2:51,171,1,MIKLER Rfor 7 BOKA B Goalkeeper back,16,HUN,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,NOR,6,2:44,2:51,3 - 1,2
+107,NOR - HUN,3:40,220,1,SAGOSEN S 7m caused,5,NOR,12,16,,,,0,,"","",,,"","",5,,,,,,TRUE,0,0,6,HUN,7,2:51,4:01,3 - 1,2
+107,NOR - HUN,3:40,220,1,BOKA B 7m received,7,HUN,16,12,,,,0,,"","",,,"","",,7,,,,,FALSE,0,0,6,HUN,7,2:51,4:01,3 - 1,2
+107,NOR - HUN,4:01,241,1,"LEKAI M Goal Penalty shot bottom centre (7 BOKA B), 79 km/h",66,HUN,16,12,7,66,,1,79,bottom centre,Penalty,,,bottom,centre,,,,,,,FALSE,0,0,6,HUN,7,2:51,4:01,3 - 2,1
+107,NOR - HUN,5:06,306,1,SAGOSEN S Shot centre 9m saved middle left,5,NOR,12,16,,,5,0,,middle left,centre 9m,,1,middle,left,,,,,,,TRUE,0,0,6,NOR,8,4:01,5:06,3 - 2,1
+107,NOR - HUN,5:16,316,1,HANUSZ E Shot centre 9m saved middle left,77,HUN,16,12,,,77,0,,middle left,centre 9m,,1,middle,left,,,,,,,FALSE,0,0,6,HUN,9,5:06,5:16,3 - 2,1
+107,NOR - HUN,5:22,322,1,"BARTHOLD S Goal fast break middle left (7 OVERJORDET S), 90 km/h",6,NOR,12,16,7,6,,1,90,middle left,fast break,,,middle,left,,,,,,,TRUE,0,0,6,NOR,10,5:16,5:22,4 - 2,2
+107,NOR - HUN,5:58,358,1,ILIC Z Shot right 9m saved middle right,21,HUN,16,12,,,21,0,,middle right,right 9m,,1,middle,right,,,,,,,FALSE,0,0,6,HUN,11,5:22,6:05,4 - 2,2
+107,NOR - HUN,6:05,365,1,BANHIDI B Technical Fault,27,HUN,16,12,,,,0,,"","",,,"","",,,,27,,,FALSE,0,0,6,HUN,11,5:22,6:05,4 - 2,2
+107,NOR - HUN,6:24,384,1,OVERJORDET Sfor 12 SAEVERAS K Empty goal,7,NOR,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,HUN,11,5:22,6:05,4 - 2,2
+107,NOR - HUN,6:28,388,1,SAEVERAS Kfor 24 O`SULLIVAN C Goalkeeper back,12,NOR,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,HUN,11,5:22,6:05,4 - 2,2
+107,NOR - HUN,6:36,396,1,RODRIGUEZ VAQUERO Warning (yellow card) bench punishment,B,HUN,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,HUN,11,5:22,6:05,4 - 2,2
+107,NOR - HUN,6:52,412,1,"BARTHOLD S Goal left wing bottom right (7 OVERJORDET S), 82 km/h",6,NOR,12,16,7,6,,1,82,bottom right,left wing,,,bottom,right,,,,,,,TRUE,0,0,6,NOR,12,6:05,6:52,5 - 2,3
+107,NOR - HUN,7:26,446,1,BODO R Shot centre 9m saved top right,39,HUN,16,12,,,39,0,,top right,centre 9m,,1,top,right,,,,,,,FALSE,0,0,6,HUN,13,6:52,7:26,5 - 2,3
+107,NOR - HUN,7:33,453,1,ABELVIK ROD M Shot right 9m saved top left,77,NOR,12,16,,,77,0,,top left,right 9m,,1,top,left,,,,,,,TRUE,0,0,6,NOR,14,7:26,7:33,5 - 2,3
+107,NOR - HUN,8:09,489,1,"RODRIGUEZ ALVAREZ Goal right wing middle right (21 ILIC Z), 89 km/h",25,HUN,16,12,21,25,,1,89,middle right,right wing,,,middle,right,,,,,,,FALSE,0,0,6,HUN,15,7:33,8:09,5 - 3,2
+107,NOR - HUN,9:09,549,1,BARTHOLD S Turnover,6,NOR,12,16,,,,0,,"","",,,"","",,,6,,,,TRUE,0,0,6,NOR,16,8:09,9:09,5 - 3,2
+107,NOR - HUN,9:39,579,1,"ILIC Z Goal right 6m middle right, 105 km/h",21,HUN,16,12,,21,,1,105,middle right,right 6m,,,middle,right,,,,,,,FALSE,0,0,6,HUN,17,9:09,9:39,5 - 4,1
+107,NOR - HUN,10:11,611,1,"ABELVIK ROD M Goal breakthrough bottom right, 82 km/h",77,NOR,12,16,,77,,1,82,bottom right,breakthrough,,,bottom,right,,,,,,,TRUE,0,0,6,NOR,18,9:39,10:11,6 - 4,2
+107,NOR - HUN,10:24,624,1,"SIPOS A Goal centre 6m top right (77 HANUSZ E), 76 km/h",2,HUN,16,12,77,2,,1,76,top right,centre 6m,,,top,right,,,,,,,FALSE,0,0,6,HUN,19,10:11,10:24,6 - 5,1
+107,NOR - HUN,11:03,663,1,BJORNSEN K Shot right wing saved top right,19,NOR,12,16,,,19,0,,top right,right wing,,1,top,right,,,,,,,TRUE,0,0,6,NOR,20,10:24,11:03,6 - 5,1
+107,NOR - HUN,11:13,673,1,"BODO R Goal centre 9m middle left, 91 km/h",39,HUN,16,12,,39,,1,91,middle left,centre 9m,,,middle,left,,,,,,,FALSE,0,0,6,HUN,21,11:03,11:13,6 - 6,0
+107,NOR - HUN,12:23,743,1,"OVERJORDET S Goal centre 9m middle left, 104 km/h",7,NOR,12,16,,7,,1,104,middle left,centre 9m,,,middle,left,,,,,,,TRUE,0,0,6,NOR,22,11:13,12:23,7 - 6,1
+107,NOR - HUN,12:55,775,1,BANHIDI B Technical Fault,27,HUN,16,12,,,,0,,"","",,,"","",,,,27,,,FALSE,0,0,6,HUN,23,12:23,12:55,7 - 6,1
+107,NOR - HUN,13:40,820,1,"OVERBY P Goal centre 6m top left (7 OVERJORDET S), 76 km/h",11,NOR,12,16,7,11,,1,76,top left,centre 6m,,,top,left,,,,,,,TRUE,0,0,6,NOR,24,12:55,13:40,8 - 6,2
+107,NOR - HUN,14:30,870,1,OVERBY P 7m caused,11,NOR,12,16,,,,0,,"","",,,"","",11,,,,,,TRUE,0,0,6,HUN,25,13:40,14:40,8 - 6,2
+107,NOR - HUN,14:30,870,1,BANHIDI B 7m received,27,HUN,16,12,,,,0,,"","",,,"","",,27,,,,,FALSE,0,0,6,HUN,25,13:40,14:40,8 - 6,2
+107,NOR - HUN,14:40,880,1,"LEKAI M Goal Penalty shot bottom right (27 BANHIDI B), 86 km/h",66,HUN,16,12,27,66,,1,86,bottom right,Penalty,,,bottom,right,,,,,,,FALSE,0,0,6,HUN,25,13:40,14:40,8 - 7,1
+107,NOR - HUN,15:37,937,1,"JOHANNESSEN G Goal centre 9m middle right, 103 km/h",23,NOR,12,16,,23,,1,103,middle right,centre 9m,,,middle,right,,,,,,,TRUE,0,0,6,NOR,26,14:40,15:37,9 - 7,2
+107,NOR - HUN,16:28,988,1,RODRIGUEZ ALVAREZ Shot right wing post,25,HUN,16,12,,,25,0,,post,right wing,1,,"","",,,,,,,FALSE,0,0,6,HUN,27,15:37,16:28,9 - 7,2
+107,NOR - HUN,17:20,1040,1,OVERJORDET S Shot centre 9m saved middle left,7,NOR,12,16,,,7,0,,middle left,centre 9m,,1,middle,left,,,,,,,TRUE,0,0,6,NOR,28,16:28,17:20,9 - 7,2
+107,NOR - HUN,17:26,1046,1,SIPOS A Turnover,2,HUN,16,12,,,,0,,"","",,,"","",,,2,,,,FALSE,0,0,6,HUN,29,17:20,17:26,9 - 7,2
+107,NOR - HUN,18:23,1103,1,"JOHANNESSEN G Goal centre 9m bottom left, 97 km/h",23,NOR,12,16,,23,,1,97,bottom left,centre 9m,,,bottom,left,,,,,,,TRUE,0,0,6,NOR,30,17:26,18:23,10 - 7,3
+107,NOR - HUN,19:03,1143,1,RODRIGUEZ ALVAREZ Goal right wing top left (21 ILIC Z),25,HUN,16,12,21,25,,1,,top left,right wing,,,top,left,,,,,,,FALSE,0,0,6,HUN,31,18:23,19:03,10 - 8,2
+107,NOR - HUN,19:29,1169,1,GRONDAHL Tfor 12 SAEVERAS K Empty goal,28,NOR,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,HUN,31,18:23,19:03,10 - 8,2
+107,NOR - HUN,19:32,1172,1,SAEVERAS Kfor 24 O`SULLIVAN C Goalkeeper back,12,NOR,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,HUN,31,18:23,19:03,10 - 8,2
+107,NOR - HUN,20:29,1229,1,JOHANNESSEN G Shot left 9m missed,23,NOR,12,16,,,23,0,,missed,left 9m,,,"","",,,,,,,TRUE,0,0,6,NOR,32,19:03,20:29,10 - 8,2
+107,NOR - HUN,20:38,1238,1,HANUSZ E Shot centre 6m saved bottom left,77,HUN,16,12,,,77,0,,bottom left,centre 6m,,1,bottom,left,,,,,,,FALSE,0,0,6,HUN,33,20:29,20:38,10 - 8,2
+107,NOR - HUN,20:47,1247,1,"BJORNSEN K Goal fast break middle right (24 O`SULLIVAN C), 83 km/h",19,NOR,12,16,24,19,,1,83,middle right,fast break,,,middle,right,,,,,,,TRUE,0,0,6,NOR,34,20:38,20:47,11 - 8,3
+107,NOR - HUN,21:20,1280,1,"LIGETVARI P Goal left 9m middle left, 101 km/h",11,HUN,16,12,,11,,1,101,middle left,left 9m,,,middle,left,,,,,,,FALSE,0,0,6,HUN,35,20:47,21:20,11 - 9,2
+107,NOR - HUN,22:02,1322,1,"JOHANNESSEN G Goal left 9m top centre, 88 km/h",23,NOR,12,16,,23,,1,88,top centre,left 9m,,,top,centre,,,,,,,TRUE,0,0,6,NOR,36,21:20,22:02,12 - 9,3
+107,NOR - HUN,22:56,1376,1,"LIGETVARI P Goal left 9m middle left, 103 km/h",11,HUN,16,12,,11,,1,103,middle left,left 9m,,,middle,left,,,,,,,FALSE,0,0,6,HUN,37,22:02,22:56,12 - 10,2
+107,NOR - HUN,23:52,1432,1,GRONDAHL T Shot left 9m saved middle left,28,NOR,12,16,,,28,0,,middle left,left 9m,,1,middle,left,,,,,,,TRUE,0,0,6,NOR,38,22:56,23:52,12 - 10,2
+107,NOR - HUN,24:29,1469,1,"LIGETVARI P Goal left 9m bottom left, 92 km/h",11,HUN,16,12,,11,,1,92,bottom left,left 9m,,,bottom,left,,,,,,,FALSE,0,0,6,HUN,39,23:52,24:29,12 - 11,1
+107,NOR - HUN,24:39,1479,1,BERGERUD Tfor 12 SAEVERAS K Goalkeeper Substitution,30,NOR,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,HUN,39,23:52,24:29,12 - 11,1
+107,NOR - HUN,24:39,1479,1,LIGETVARI P 2-minutes suspension,11,HUN,16,12,,,,0,,"","",,,"","",,,,,,11,FALSE,0,0,6,HUN,39,23:52,24:29,12 - 11,1
+107,NOR - HUN,25:01,1501,1,OVERBY P Goal centre 6m bottom left (5 SAGOSEN S),11,NOR,12,16,5,11,,1,,bottom left,centre 6m,,,bottom,left,,,,,,,TRUE,0,0,6,NOR,40,24:29,25:01,13 - 11,2
+107,NOR - HUN,25:31,1531,1,BOKA Bfor 16 MIKLER R Empty goal,7,HUN,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,NOR,40,24:29,25:01,13 - 11,2
+107,NOR - HUN,25:42,1542,1,"ANCSIN G Goal centre 9m middle left, 91 km/h",33,HUN,Empty goal,12,,33,,1,91,middle left,centre 9m,,,middle,left,,,,,,,FALSE,-1,1,6,HUN,41,25:01,25:42,13 - 12,1
+107,NOR - HUN,25:46,1546,1,MIKLER Rfor 7 BOKA B Goalkeeper back,16,HUN,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,HUN,41,25:01,25:42,13 - 12,1
+107,NOR - HUN,25:53,1553,1,O`SULLIVAN C Goal left 6m bottom left,24,NOR,12,16,,24,,1,,bottom left,left 6m,,,bottom,left,,,,,,,TRUE,0,0,6,NOR,42,25:42,25:53,14 - 12,2
+107,NOR - HUN,26:06,1566,1,BOKA Bfor 16 MIKLER R Empty goal,7,HUN,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,NOR,42,25:42,25:53,14 - 12,2
+107,NOR - HUN,26:36,1596,1,BARTHOLD S Steal,6,NOR,12,Empty goal,,,,0,,"","",,,"","",,,,,6,,TRUE,0,0,6,HUN,43,25:53,26:36,14 - 12,2
+107,NOR - HUN,26:36,1596,1,ANCSIN G Turnover,33,HUN,Empty goal,12,,,,0,,"","",,,"","",,,33,,,,FALSE,-1,1,6,HUN,43,25:53,26:36,14 - 12,2
+107,NOR - HUN,26:45,1605,1,MIKLER Rfor 77 HANUSZ E Goalkeeper back,16,HUN,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,HUN,43,25:53,26:36,14 - 12,2
+107,NOR - HUN,26:46,1606,1,BJORNSEN K Goal fast break middle centre,19,NOR,12,16,,19,,1,,middle centre,fast break,,,middle,centre,,,,,,,TRUE,0,0,6,NOR,44,26:36,26:46,15 - 12,3
+107,NOR - HUN,27:18,1638,1,SZOLLOSI S Shot left wing saved top left,28,HUN,16,12,,,28,0,,top left,left wing,,1,top,left,,,,,,,FALSE,0,0,6,HUN,45,26:46,27:18,15 - 12,3
+107,NOR - HUN,27:57,1677,1,"REINKIND H Goal right 9m bottom left, 80 km/h",27,NOR,12,16,,27,,1,80,bottom left,right 9m,,,bottom,left,,,,,,,TRUE,0,0,6,NOR,46,27:18,27:57,16 - 12,4
+107,NOR - HUN,28:53,1733,1,"LIGETVARI P Goal left 9m middle right, 104 km/h",11,HUN,16,12,,11,,1,104,middle right,left 9m,,,middle,right,,,,,,,FALSE,0,0,6,HUN,47,27:57,28:53,16 - 13,3
+107,NOR - HUN,29:10,1750,1,Team timeout,"",NOR,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,NOR,48,28:53,29:39,16 - 13,3
+107,NOR - HUN,29:39,1779,1,REINKIND H Turnover,27,NOR,12,16,,,,0,,"","",,,"","",,,27,,,,TRUE,0,0,6,NOR,48,28:53,29:39,16 - 13,3
+107,NOR - HUN,29:46,1786,1,GRONDAHL T Steal,28,NOR,12,16,,,,0,,"","",,,"","",,,,,28,,TRUE,0,0,6,HUN,49,29:39,29:46,16 - 13,3
+107,NOR - HUN,29:46,1786,1,MIKLER R Turnover (FB),16,HUN,16,12,,,,0,,"","",,,"","",,,16,,,,FALSE,0,0,6,HUN,49,29:39,29:46,16 - 13,3
+107,NOR - HUN,29:57,1797,1,REINKIND H Shot centre 9m missed,27,NOR,12,16,,,27,0,,missed,centre 9m,,,"","",,,,,,,TRUE,0,0,6,NOR,50,29:46,30:00,16 - 13,3
+107,NOR - HUN,30:00,1800,2,BERGERUD T Goalkeeper,30,NOR,30,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,NOR,51,"","",16 - 13,3
+107,NOR - HUN,30:00,1800,2,MIKLER R Goalkeeper,16,HUN,16,30,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,NOR,51,"","",16 - 13,3
+107,NOR - HUN,30:49,1849,2,OVERJORDET S Shot centre 9m post,7,NOR,30,16,,,7,0,,post,centre 9m,1,,"","",,,,,,,TRUE,0,0,6,NOR,51,30:00,30:49,16 - 13,3
+107,NOR - HUN,31:18,1878,2,ILIC Z Shot centre 9m saved middle centre,21,HUN,16,30,,,21,0,,middle centre,centre 9m,,1,middle,centre,,,,,,,FALSE,0,0,6,HUN,52,30:49,31:18,16 - 13,3
+107,NOR - HUN,31:27,1887,2,ABELVIK ROD M Shot breakthrough saved bottom right,77,NOR,30,16,,,77,0,,bottom right,breakthrough,,1,bottom,right,,,,,,,TRUE,0,0,6,NOR,53,31:18,31:27,16 - 13,3
+107,NOR - HUN,32:14,1934,2,HANUSZ E Shot right 9m saved bottom right,77,HUN,16,30,,,77,0,,bottom right,right 9m,,1,bottom,right,,,,,,,FALSE,0,0,6,HUN,54,31:27,32:14,16 - 13,3
+107,NOR - HUN,32:23,1943,2,"SAGOSEN S Goal centre 9m middle right, 102 km/h",5,NOR,30,16,,5,,1,102,middle right,centre 9m,,,middle,right,,,,,,,TRUE,0,0,6,NOR,55,32:14,32:23,17 - 13,4
+107,NOR - HUN,32:50,1970,2,SAGOSEN S 7m caused,5,NOR,30,16,,,,0,,"","",,,"","",5,,,,,,TRUE,0,0,6,HUN,56,32:23,32:50,17 - 13,4
+107,NOR - HUN,32:50,1970,2,SAGOSEN S 2-minutes suspension,5,NOR,30,16,,,,0,,"","",,,"","",,,,,,5,TRUE,0,0,6,HUN,56,32:23,32:50,17 - 13,4
+107,NOR - HUN,32:50,1970,2,BANHIDI B 7m received,27,HUN,16,30,,,,0,,"","",,,"","",,27,,,,,FALSE,0,0,6,HUN,56,32:23,32:50,17 - 13,4
+107,NOR - HUN,32:50,1970,2,LEKAI M Goal Penalty shot bottom right (27 BANHIDI B),66,HUN,16,30,27,66,,1,,bottom right,Penalty,,,bottom,right,,,,,,,FALSE,0,0,6,HUN,56,32:23,32:50,17 - 14,3
+107,NOR - HUN,33:41,2021,2,GULLERUD M 7m received,21,NOR,30,16,,,,0,,"","",,,"","",,21,,,,,TRUE,-1,0,5,NOR,57,32:50,33:41,17 - 14,3
+107,NOR - HUN,33:41,2021,2,BARTHOLD S Penalty shot saved bottom left,6,NOR,30,16,,,6,0,,bottom left,Penalty,,1,bottom,left,,,,,,,TRUE,-1,0,5,NOR,57,32:50,33:41,17 - 14,3
+107,NOR - HUN,33:41,2021,2,ILIC Z 7m caused,21,HUN,16,30,,,,0,,"","",,,"","",21,,,,,,FALSE,0,0,6,NOR,57,32:50,33:41,17 - 14,3
+107,NOR - HUN,34:29,2069,2,"RODRIGUEZ ALVAREZ Goal right wing middle right (21 ILIC Z), 82 km/h",25,HUN,16,30,21,25,,1,82,middle right,right wing,,,middle,right,,,,,,,FALSE,0,0,6,HUN,58,33:41,34:29,17 - 15,2
+107,NOR - HUN,34:44,2084,2,OVERJORDET Sfor 30 BERGERUD T Empty goal,7,NOR,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,HUN,58,33:41,34:29,17 - 15,2
+107,NOR - HUN,34:57,2097,2,BERGERUD Tfor 5 SAGOSEN S Goalkeeper back,30,NOR,30,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,HUN,58,33:41,34:29,17 - 15,2
+107,NOR - HUN,35:18,2118,2,OVERJORDET S Goal centre 9m bottom left,7,NOR,30,16,,7,,1,,bottom left,centre 9m,,,bottom,left,,,,,,,TRUE,0,0,6,NOR,59,34:29,35:18,18 - 15,3
+107,NOR - HUN,35:50,2150,2,"BODO R Goal centre 9m middle left, 107 km/h",39,HUN,16,30,,39,,1,107,middle left,centre 9m,,,middle,left,,,,,,,FALSE,0,0,6,HUN,60,35:18,35:50,18 - 16,2
+107,NOR - HUN,36:02,2162,2,ABELVIK ROD M Turnover,77,NOR,30,16,,,,0,,"","",,,"","",,,77,,,,TRUE,0,0,6,NOR,61,35:50,36:02,18 - 16,2
+107,NOR - HUN,36:02,2162,2,BANHIDI B Steal,27,HUN,16,30,,,,0,,"","",,,"","",,,,,27,,FALSE,0,0,6,NOR,61,35:50,36:02,18 - 16,2
+107,NOR - HUN,36:10,2170,2,"BOKA B Goal fast break middle left (27 BANHIDI B), 78 km/h",7,HUN,16,30,27,7,,1,78,middle left,fast break,,,middle,left,,,,,,,FALSE,0,0,6,HUN,62,36:02,36:10,18 - 17,1
+107,NOR - HUN,36:53,2213,2,BARTHOLD S Turnover,6,NOR,30,16,,,,0,,"","",,,"","",,,6,,,,TRUE,0,0,6,NOR,63,36:10,36:53,18 - 17,1
+107,NOR - HUN,36:58,2218,2,OVERJORDET S Steal,7,NOR,30,16,,,,0,,"","",,,"","",,,,,7,,TRUE,0,0,6,HUN,64,36:53,36:58,18 - 17,1
+107,NOR - HUN,36:58,2218,2,HANUSZ E Turnover (FB),77,HUN,16,30,,,,0,,"","",,,"","",,,77,,,,FALSE,0,0,6,HUN,64,36:53,36:58,18 - 17,1
+107,NOR - HUN,37:07,2227,2,"GULLIKSEN K Goal fast break top right (5 SAGOSEN S), 75 km/h",44,NOR,30,16,5,44,,1,75,top right,fast break,,,top,right,,,,,,,TRUE,0,0,6,NOR,65,36:58,37:07,19 - 17,2
+107,NOR - HUN,37:37,2257,2,"BODO R Goal breakthrough bottom right, 89 km/h",39,HUN,16,30,,39,,1,89,bottom right,breakthrough,,,bottom,right,,,,,,,FALSE,0,0,6,HUN,66,37:07,37:37,19 - 18,1
+107,NOR - HUN,38:06,2286,2,GULLERUD M Goal centre 6m bottom left (5 SAGOSEN S),21,NOR,30,16,5,21,,1,,bottom left,centre 6m,,,bottom,left,,,,,,,TRUE,0,0,6,NOR,67,37:37,38:06,20 - 18,2
+107,NOR - HUN,38:35,2315,2,BANHIDI B Shot centre 6m saved middle right,27,HUN,16,30,,,27,0,,middle right,centre 6m,,1,middle,right,,,,,,,FALSE,0,0,6,HUN,68,38:06,38:57,20 - 18,2
+107,NOR - HUN,38:57,2337,2,ABELVIK ROD M Steal,77,NOR,30,16,,,,0,,"","",,,"","",,,,,77,,TRUE,0,0,6,HUN,68,38:06,38:57,20 - 18,2
+107,NOR - HUN,38:57,2337,2,ILIC Z Turnover,21,HUN,16,30,,,,0,,"","",,,"","",,,21,,,,FALSE,0,0,6,HUN,68,38:06,38:57,20 - 18,2
+107,NOR - HUN,39:06,2346,2,"BARTHOLD S Goal left wing bottom right (5 SAGOSEN S), 77 km/h",6,NOR,30,16,5,6,,1,77,bottom right,left wing,,,bottom,right,,,,,,,TRUE,0,0,6,NOR,69,38:57,39:06,21 - 18,3
+107,NOR - HUN,39:49,2389,2,ILIC Z Shot right 6m missed,21,HUN,16,30,,,21,0,,missed,right 6m,,,"","",,,,,,,FALSE,0,0,6,HUN,70,39:06,39:49,21 - 18,3
+107,NOR - HUN,39:56,2396,2,"SAGOSEN S Goal left 6m bottom left, 97 km/h",5,NOR,30,16,,5,,1,97,bottom left,left 6m,,,bottom,left,,,,,,,TRUE,0,0,6,NOR,71,39:49,39:56,22 - 18,4
+107,NOR - HUN,40:22,2422,2,GULLIKSEN K 7m caused,44,NOR,30,16,,,,0,,"","",,,"","",44,,,,,,TRUE,0,0,6,HUN,72,39:56,40:36,22 - 18,4
+107,NOR - HUN,40:22,2422,2,HANUSZ E 7m received,77,HUN,16,30,,,,0,,"","",,,"","",,77,,,,,FALSE,0,0,6,HUN,72,39:56,40:36,22 - 18,4
+107,NOR - HUN,40:36,2436,2,"LEKAI M Goal Penalty shot bottom right (77 HANUSZ E), 81 km/h",66,HUN,16,30,77,66,,1,81,bottom right,Penalty,,,bottom,right,,,,,,,FALSE,0,0,6,HUN,72,39:56,40:36,22 - 19,3
+107,NOR - HUN,41:34,2494,2,"SAGOSEN S Goal centre 9m bottom left, 94 km/h",5,NOR,30,16,,5,,1,94,bottom left,centre 9m,,,bottom,left,,,,,,,TRUE,0,0,6,NOR,73,40:36,41:34,23 - 19,4
+107,NOR - HUN,42:15,2535,2,HANUSZ E Shot centre 9m missed,77,HUN,16,30,,,77,0,,missed,centre 9m,,,"","",,,,,,,FALSE,0,0,6,HUN,74,41:34,42:15,23 - 19,4
+107,NOR - HUN,43:29,2609,2,ABELVIK ROD M Shot centre 9m missed,77,NOR,30,16,,,77,0,,missed,centre 9m,,,"","",,,,,,,TRUE,0,0,6,NOR,75,42:15,43:29,23 - 19,4
+107,NOR - HUN,44:28,2668,2,SAGOSEN S Steal,5,NOR,30,16,,,,0,,"","",,,"","",,,,,5,,TRUE,0,0,6,HUN,76,43:29,44:28,23 - 19,4
+107,NOR - HUN,44:28,2668,2,HANUSZ E Turnover,77,HUN,16,30,,,,0,,"","",,,"","",,,77,,,,FALSE,0,0,6,HUN,76,43:29,44:28,23 - 19,4
+107,NOR - HUN,44:34,2674,2,"OVERBY P Goal fast break middle right (5 SAGOSEN S), 96 km/h",11,NOR,30,16,5,11,,1,96,middle right,fast break,,,middle,right,,,,,,,TRUE,0,0,6,NOR,77,44:28,44:34,24 - 19,5
+107,NOR - HUN,44:39,2679,2,Team timeout,"",HUN,16,30,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,HUN,78,44:34,44:51,24 - 19,5
+107,NOR - HUN,44:51,2691,2,ANCSIN G Shot right 9m saved bottom right,33,HUN,16,30,,,33,0,,bottom right,right 9m,,1,bottom,right,,,,,,,FALSE,0,0,6,HUN,78,44:34,44:51,24 - 19,5
+107,NOR - HUN,45:00,2700,2,O`SULLIVAN C Turnover,24,NOR,30,16,,,,0,,"","",,,"","",,,24,,,,TRUE,0,0,6,NOR,79,44:51,45:00,24 - 19,5
+107,NOR - HUN,45:00,2700,2,ANCSIN G Steal,33,HUN,16,30,,,,0,,"","",,,"","",,,,,33,,FALSE,0,0,6,NOR,79,44:51,45:00,24 - 19,5
+107,NOR - HUN,45:53,2753,2,"BODO R Goal left 9m middle right, 101 km/h",39,HUN,16,30,,39,,1,101,middle right,left 9m,,,middle,right,,,,,,,FALSE,0,0,6,HUN,80,45:00,45:53,24 - 20,4
+107,NOR - HUN,46:27,2787,2,"OVERBY P Goal centre 6m bottom left (5 SAGOSEN S), 72 km/h",11,NOR,30,16,5,11,,1,72,bottom left,centre 6m,,,bottom,left,,,,,,,TRUE,0,0,6,NOR,81,45:53,46:27,25 - 20,5
+107,NOR - HUN,46:30,2790,2,SIPOS A 2-minutes suspension,2,HUN,16,30,,,,0,,"","",,,"","",,,,,,2,FALSE,0,0,6,NOR,81,45:53,46:27,25 - 20,5
+107,NOR - HUN,46:30,2790,2,SIPOS Afor 16 MIKLER R Empty goal,2,HUN,Empty goal,30,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,NOR,81,45:53,46:27,25 - 20,5
+107,NOR - HUN,46:56,2816,2,HANUSZ E Shot right 6m saved top left,77,HUN,Empty goal,30,,,77,0,,top left,right 6m,,1,top,left,,,,,,,FALSE,-1,1,6,HUN,82,46:27,46:56,25 - 20,5
+107,NOR - HUN,47:00,2820,2,MIKLER Rfor 25 RODRIGUEZ ALVAREZ Goalkeeper back,16,HUN,16,30,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,HUN,82,46:27,46:56,25 - 20,5
+107,NOR - HUN,47:24,2844,2,GULLIKSEN K Shot right wing saved middle left,44,NOR,30,16,,,44,0,,middle left,right wing,,1,middle,left,,,,,,,TRUE,0,0,6,NOR,83,46:56,47:24,25 - 20,5
+107,NOR - HUN,47:39,2859,2,RODRIGUEZ ALVAREZfor 16 MIKLER R Empty goal,25,HUN,Empty goal,30,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,NOR,83,46:56,47:24,25 - 20,5
+107,NOR - HUN,47:54,2874,2,"BODO R Goal left 9m middle left, 100 km/h",39,HUN,Empty goal,30,,39,,1,100,middle left,left 9m,,,middle,left,,,,,,,FALSE,-1,1,6,HUN,84,47:24,47:54,25 - 21,4
+107,NOR - HUN,47:58,2878,2,MIKLER Rfor 77 HANUSZ E Goalkeeper back,16,HUN,16,30,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,HUN,84,47:24,47:54,25 - 21,4
+107,NOR - HUN,48:04,2884,2,JOHANNESSEN G 7m received,23,NOR,30,16,,,,0,,"","",,,"","",,23,,,,,TRUE,0,0,6,NOR,85,47:54,48:06,25 - 21,4
+107,NOR - HUN,48:04,2884,2,ANCSIN G 7m caused,33,HUN,16,30,,,,0,,"","",,,"","",33,,,,,,FALSE,-1,0,5,NOR,85,47:54,48:06,25 - 21,4
+107,NOR - HUN,48:06,2886,2,"SAGOSEN S Goal Penalty shot middle right (23 JOHANNESSEN G), 97 km/h",5,NOR,30,16,23,5,,1,97,middle right,Penalty,,,middle,right,,,,,,,TRUE,0,0,6,NOR,85,47:54,48:06,26 - 21,5
+107,NOR - HUN,48:26,2906,2,RODRIGUEZ ALVAREZfor 16 MIKLER R Empty goal,25,HUN,Empty goal,30,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,NOR,85,47:54,48:06,26 - 21,5
+107,NOR - HUN,48:36,2916,2,MIKLER Rfor 2 SIPOS A Goalkeeper back,16,HUN,16,30,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,NOR,85,47:54,48:06,26 - 21,5
+107,NOR - HUN,49:10,2950,2,BANHIDI B Shot centre 6m saved middle right,27,HUN,16,30,,,27,0,,middle right,centre 6m,,1,middle,right,,,,,,,FALSE,0,0,6,HUN,86,48:06,49:10,26 - 21,5
+107,NOR - HUN,49:18,2958,2,GULLIKSEN K Goal fast break bottom right (24 O`SULLIVAN C),44,NOR,30,16,24,44,,1,,bottom right,fast break,,,bottom,right,,,,,,,TRUE,0,0,6,NOR,87,49:10,49:18,27 - 21,6
+107,NOR - HUN,49:51,2991,2,GULLERUD M 7m caused,21,NOR,30,16,,,,0,,"","",,,"","",21,,,,,,TRUE,0,0,6,HUN,88,49:18,50:04,27 - 21,6
+107,NOR - HUN,49:51,2991,2,HANUSZ E 7m received,77,HUN,16,30,,,,0,,"","",,,"","",,77,,,,,FALSE,0,0,6,HUN,88,49:18,50:04,27 - 21,6
+107,NOR - HUN,50:04,3004,2,"LEKAI M Goal Penalty shot middle left (77 HANUSZ E), 81 km/h",66,HUN,16,30,77,66,,1,81,middle left,Penalty,,,middle,left,,,,,,,FALSE,0,0,6,HUN,88,49:18,50:04,27 - 22,5
+107,NOR - HUN,50:50,3050,2,JOHANNESSEN G Turnover,23,NOR,30,16,,,,0,,"","",,,"","",,,23,,,,TRUE,0,0,6,NOR,89,50:04,50:50,27 - 22,5
+107,NOR - HUN,51:18,3078,2,ANCSIN G Technical Fault,33,HUN,16,30,,,,0,,"","",,,"","",,,,33,,,FALSE,0,0,6,HUN,90,50:50,51:18,27 - 22,5
+107,NOR - HUN,51:29,3089,2,"O`SULLIVAN C Goal centre 9m bottom left, 96 km/h",24,NOR,30,16,,24,,1,96,bottom left,centre 9m,,,bottom,left,,,,,,,TRUE,0,0,6,NOR,91,51:18,51:29,28 - 22,6
+107,NOR - HUN,52:02,3122,2,BOKA B Shot left wing missed,7,HUN,16,30,,,7,0,,missed,left wing,,,"","",,,,,,,FALSE,0,0,6,HUN,92,51:29,52:02,28 - 22,6
+107,NOR - HUN,52:34,3154,2,"SAGOSEN S Goal centre 9m middle right, 103 km/h",5,NOR,30,16,,5,,1,103,middle right,centre 9m,,,middle,right,,,,,,,TRUE,0,0,6,NOR,93,52:02,52:34,29 - 22,7
+107,NOR - HUN,53:33,3213,2,ANCSIN G Shot centre 9m saved bottom right,33,HUN,16,30,,,33,0,,bottom right,centre 9m,,1,bottom,right,,,,,,,FALSE,0,0,6,HUN,94,52:34,53:33,29 - 22,7
+107,NOR - HUN,53:51,3231,2,SAGOSEN Sfor 30 BERGERUD T Empty goal,5,NOR,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,HUN,94,52:34,53:33,29 - 22,7
+107,NOR - HUN,53:59,3239,2,BERGERUD Tfor 24 O`SULLIVAN C Goalkeeper back,30,NOR,30,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,HUN,94,52:34,53:33,29 - 22,7
+107,NOR - HUN,54:13,3253,2,JOHANNESSEN G Shot left 9m missed,23,NOR,30,16,,,23,0,,missed,left 9m,,,"","",,,,,,,TRUE,0,0,6,NOR,95,53:33,54:13,29 - 22,7
+107,NOR - HUN,54:20,3260,2,SAGOSEN S Steal,5,NOR,30,16,,,,0,,"","",,,"","",,,,,5,,TRUE,0,0,6,HUN,96,54:13,54:20,29 - 22,7
+107,NOR - HUN,54:20,3260,2,LIGETVARI P Turnover,11,HUN,16,30,,,,0,,"","",,,"","",,,11,,,,FALSE,0,0,6,HUN,96,54:13,54:20,29 - 22,7
+107,NOR - HUN,54:28,3268,2,"SAGOSEN S Goal fast break middle left, 93 km/h",5,NOR,30,16,,5,,1,93,middle left,fast break,,,middle,left,,,,,,,TRUE,0,0,6,NOR,97,54:20,54:28,30 - 22,8
+107,NOR - HUN,54:34,3274,2,Team timeout,"",HUN,16,30,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,HUN,98,54:28,55:07,30 - 22,8
+107,NOR - HUN,55:07,3307,2,"SZOLLOSI S Goal centre 6m top right (77 HANUSZ E), 75 km/h",28,HUN,16,30,77,28,,1,75,top right,centre 6m,,,top,right,,,,,,,FALSE,0,0,6,HUN,98,54:28,55:07,30 - 23,7
+107,NOR - HUN,55:43,3343,2,JOHANNESSEN G Turnover,23,NOR,30,16,,,,0,,"","",,,"","",,,23,,,,TRUE,0,0,6,NOR,99,55:07,55:43,30 - 23,7
+107,NOR - HUN,55:52,3352,2,"HANUSZ E Goal breakthrough bottom left, 82 km/h",77,HUN,16,30,,77,,1,82,bottom left,breakthrough,,,bottom,left,,,,,,,FALSE,0,0,6,HUN,100,55:43,55:52,30 - 24,6
+107,NOR - HUN,56:27,3387,2,"OVERJORDET S Goal breakthrough top left, 92 km/h",7,NOR,30,16,,7,,1,92,top left,breakthrough,,,top,left,,,,,,,TRUE,0,0,6,NOR,101,55:52,56:27,31 - 24,7
+107,NOR - HUN,56:56,3416,2,LIGETVARI P Shot left 9m saved middle left,11,HUN,16,30,,,11,0,,middle left,left 9m,,1,middle,left,,,,,,,FALSE,0,0,6,HUN,102,56:27,56:56,31 - 24,7
+107,NOR - HUN,58:02,3482,2,"OVERJORDET S Goal left 9m bottom left, 75 km/h",7,NOR,30,16,,7,,1,75,bottom left,left 9m,,,bottom,left,,,,,,,TRUE,0,0,6,NOR,103,56:56,58:02,32 - 24,8
+107,NOR - HUN,58:16,3496,2,GULLIKSEN K 7m caused,44,NOR,30,16,,,,0,,"","",,,"","",44,,,,,,TRUE,0,0,6,HUN,104,58:02,58:23,32 - 24,8
+107,NOR - HUN,58:16,3496,2,HANUSZ E 7m received,77,HUN,16,30,,,,0,,"","",,,"","",,77,,,,,FALSE,0,0,6,HUN,104,58:02,58:23,32 - 24,8
+107,NOR - HUN,58:22,3502,2,SAEVERAS Kfor 30 BERGERUD T Goalkeeper Substitution,12,NOR,30,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,HUN,104,58:02,58:23,32 - 24,8
+107,NOR - HUN,58:23,3503,2,"LEKAI M Goal Penalty shot bottom right (77 HANUSZ E), 86 km/h",66,HUN,16,30,77,66,,1,86,bottom right,Penalty,,,bottom,right,,,,,,,FALSE,0,0,6,HUN,104,58:02,58:23,32 - 25,7
+107,NOR - HUN,58:40,3520,2,BERGERUD Tfor 12 SAEVERAS K Goalkeeper Substitution,30,NOR,30,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,HUN,104,58:02,58:23,32 - 25,7
+107,NOR - HUN,58:59,3539,2,"REINKIND H Goal centre 9m middle right, 98 km/h",27,NOR,30,16,,27,,1,98,middle right,centre 9m,,,middle,right,,,,,,,TRUE,0,0,6,NOR,105,58:23,58:59,33 - 25,8
+107,NOR - HUN,59:48,3588,2,LIGETVARI P Shot left 9m post,11,HUN,16,30,,,11,0,,post,left 9m,1,,"","",,,,,,,FALSE,0,0,6,HUN,106,58:59,59:48,33 - 25,8
+107,NOR - HUN,59:57,3597,2,OVERBY P Shot centre 6m saved top centre,11,NOR,30,16,,,11,0,,top centre,centre 6m,,1,top,centre,,,,,,,TRUE,0,0,6,NOR,107,59:48,60:00,33 - 25,8
+108,FRA - SWE,0:00,0,1,GERARD V Goalkeeper,12,FRA,12,12,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,FRA,1,"","",0 - 0,0
+108,FRA - SWE,0:00,0,1,PALICKA A Goalkeeper,12,SWE,12,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,FRA,1,"","",0 - 0,0
+108,FRA - SWE,0:47,47,1,MEM D Shot centre 9m saved bottom centre,10,FRA,12,12,,,10,0,,bottom centre,centre 9m,,1,bottom,centre,,,,,,,TRUE,0,0,6,FRA,1,0:00,0:47,0 - 0,0
+108,FRA - SWE,1:28,88,1,DARJ M Shot centre 6m saved middle left,5,SWE,12,12,,,5,0,,middle left,centre 6m,,1,middle,left,,,,,,,FALSE,0,0,6,SWE,2,0:47,1:28,0 - 0,0
+108,FRA - SWE,1:39,99,1,MEM D Shot breakthrough saved bottom right,10,FRA,12,12,,,10,0,,bottom right,breakthrough,,1,bottom,right,,,,,,,TRUE,0,0,6,FRA,3,1:28,1:39,0 - 0,0
+108,FRA - SWE,2:16,136,1,NAHI D Steal,31,FRA,12,12,,,,0,,"","",,,"","",,,,,31,,TRUE,0,0,6,SWE,4,1:39,2:16,0 - 0,0
+108,FRA - SWE,2:16,136,1,CLAAR F Turnover,19,SWE,12,12,,,,0,,"","",,,"","",,,19,,,,FALSE,0,0,6,SWE,4,1:39,2:16,0 - 0,0
+108,FRA - SWE,2:23,143,1,REMILI N Goal fast break top right,5,FRA,12,12,,5,,1,,top right,fast break,,,top,right,,,,,,,TRUE,0,0,6,FRA,5,2:16,2:23,1 - 0,1
+108,FRA - SWE,2:39,159,1,"LAGERGREN A Goal breakthrough bottom centre, 71 km/h",23,SWE,12,12,,23,,1,71,bottom centre,breakthrough,,,bottom,centre,,,,,,,FALSE,0,0,6,SWE,6,2:23,2:39,1 - 1,0
+108,FRA - SWE,4:10,250,1,REMILI N 7m received,5,FRA,12,12,,,,0,,"","",,,"","",,5,,,,,TRUE,0,0,6,FRA,7,2:39,4:24,1 - 1,0
+108,FRA - SWE,4:10,250,1,DARJ M 7m caused,5,SWE,12,12,,,,0,,"","",,,"","",5,,,,,,FALSE,0,0,6,FRA,7,2:39,4:24,1 - 1,0
+108,FRA - SWE,4:24,264,1,"MAHE K Goal Penalty shot middle left (5 REMILI N), 91 km/h",14,FRA,12,12,5,14,,1,91,middle left,Penalty,,,middle,left,,,,,,,TRUE,0,0,6,FRA,7,2:39,4:24,2 - 1,1
+108,FRA - SWE,5:10,310,1,"CLAAR F Goal breakthrough bottom left, 87 km/h",19,SWE,12,12,,19,,1,87,bottom left,breakthrough,,,bottom,left,,,,,,,FALSE,0,0,6,SWE,8,4:24,5:10,2 - 2,0
+108,FRA - SWE,5:24,324,1,NAHI D Shot left wing saved middle right,31,FRA,12,12,,,31,0,,middle right,left wing,,1,middle,right,,,,,,,TRUE,0,0,6,FRA,9,5:10,5:24,2 - 2,0
+108,FRA - SWE,6:02,362,1,CARLSBOGARD J Shot centre 9m saved top right,2,SWE,12,12,,,2,0,,top right,centre 9m,,1,top,right,,,,,,,FALSE,0,0,6,SWE,10,5:24,6:02,2 - 2,0
+108,FRA - SWE,6:14,374,1,NAHI D Technical Fault,31,FRA,12,12,,,,0,,"","",,,"","",,,,31,,,TRUE,0,0,6,FRA,11,6:02,6:14,2 - 2,0
+108,FRA - SWE,6:55,415,1,"CARLSBOGARD J Goal centre 9m middle left, 110 km/h",2,SWE,12,12,,2,,1,110,middle left,centre 9m,,,middle,left,,,,,,,FALSE,0,0,6,SWE,12,6:14,6:55,2 - 3,-1
+108,FRA - SWE,7:15,435,1,FABREGAS L 7m received,23,FRA,12,12,,,,0,,"","",,,"","",,23,,,,,TRUE,0,0,6,FRA,13,6:55,7:30,2 - 3,-1
+108,FRA - SWE,7:15,435,1,CARLSBOGARD J 7m caused,2,SWE,12,12,,,,0,,"","",,,"","",2,,,,,,FALSE,0,0,6,FRA,13,6:55,7:30,2 - 3,-1
+108,FRA - SWE,7:30,450,1,"MAHE K Goal Penalty shot top right (23 FABREGAS L), 93 km/h",14,FRA,12,12,23,14,,1,93,top right,Penalty,,,top,right,,,,,,,TRUE,0,0,6,FRA,13,6:55,7:30,3 - 3,0
+108,FRA - SWE,8:14,494,1,LAGERGREN A Shot right 6m saved top right,23,SWE,12,12,,,23,0,,top right,right 6m,,1,top,right,,,,,,,FALSE,0,0,6,SWE,14,7:30,8:14,3 - 3,0
+108,FRA - SWE,8:25,505,1,FABREGAS L Goal centre 6m top centre (5 REMILI N),23,FRA,12,12,5,23,,1,,top centre,centre 6m,,,top,centre,,,,,,,TRUE,0,0,6,FRA,15,8:14,8:25,4 - 3,1
+108,FRA - SWE,8:33,513,1,CLAAR F Shot centre 9m saved middle right,19,SWE,12,12,,,19,0,,middle right,centre 9m,,1,middle,right,,,,,,,FALSE,0,0,6,SWE,16,8:25,8:33,4 - 3,1
+108,FRA - SWE,8:40,520,1,REMILI N Shot centre 9m saved middle left,5,FRA,12,12,,,5,0,,middle left,centre 9m,,1,middle,left,,,,,,,TRUE,0,0,6,FRA,17,8:33,8:40,4 - 3,1
+108,FRA - SWE,9:12,552,1,LAGERGREN A Technical Fault,23,SWE,12,12,,,,0,,"","",,,"","",,,,23,,,FALSE,0,0,6,SWE,18,8:40,9:12,4 - 3,1
+108,FRA - SWE,10:17,617,1,FABREGAS L Shot centre 6m saved middle left,23,FRA,12,12,,,23,0,,middle left,centre 6m,,1,middle,left,,,,,,,TRUE,0,0,6,FRA,19,9:12,10:42,4 - 3,1
+108,FRA - SWE,10:42,642,1,"FABREGAS L Goal centre 6m top centre (5 REMILI N), 89 km/h",23,FRA,12,12,5,23,,1,89,top centre,centre 6m,,,top,centre,,,,,,,TRUE,0,0,6,FRA,19,9:12,10:42,5 - 3,2
+108,FRA - SWE,10:55,655,1,CLAAR F Shot breakthrough post,19,SWE,12,12,,,19,0,,post,breakthrough,1,,"","",,,,,,,FALSE,0,0,6,SWE,20,10:42,10:55,5 - 3,2
+108,FRA - SWE,11:04,664,1,"MEM D Goal breakthrough middle right, 103 km/h",10,FRA,12,12,,10,,1,103,middle right,breakthrough,,,middle,right,,,,,,,TRUE,0,0,6,FRA,21,10:55,11:04,6 - 3,3
+108,FRA - SWE,11:35,695,1,"JOHANSSON E Goal left 9m bottom right, 99 km/h",42,SWE,12,12,,42,,1,99,bottom right,left 9m,,,bottom,right,,,,,,,FALSE,0,0,6,SWE,22,11:04,11:35,6 - 4,2
+108,FRA - SWE,12:25,745,1,"PRANDI E Goal left 9m middle centre, 98 km/h",8,FRA,12,12,,8,,1,98,middle centre,left 9m,,,middle,centre,,,,,,,TRUE,0,0,6,FRA,23,11:35,12:25,7 - 4,3
+108,FRA - SWE,13:04,784,1,"LAGERGREN A Goal breakthrough middle left, 75 km/h",23,SWE,12,12,,23,,1,75,middle left,breakthrough,,,middle,left,,,,,,,FALSE,0,0,6,SWE,24,12:25,13:04,7 - 5,2
+108,FRA - SWE,13:53,833,1,"REMILI N Goal left 6m middle right, 84 km/h",5,FRA,12,12,,5,,1,84,middle right,left 6m,,,middle,right,,,,,,,TRUE,0,0,6,FRA,25,13:04,13:53,8 - 5,3
+108,FRA - SWE,13:57,837,1,TOURNAT N 2-minutes suspension,11,FRA,12,12,,,,0,,"","",,,"","",,,,,,11,TRUE,0,0,6,FRA,25,13:04,13:53,8 - 5,3
+108,FRA - SWE,14:14,854,1,JOHANSSON E Goal left 9m top left,42,SWE,12,12,,42,,1,,top left,left 9m,,,top,left,,,,,,,FALSE,0,0,6,SWE,26,13:53,14:14,8 - 6,2
+108,FRA - SWE,14:26,866,1,REMILI Nfor 12 GERARD V Empty goal,5,FRA,Empty goal,12,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,SWE,26,13:53,14:14,8 - 6,2
+108,FRA - SWE,14:49,889,1,"PRANDI E Goal centre 9m middle left, 91 km/h",8,FRA,Empty goal,12,,8,,1,91,middle left,centre 9m,,,middle,left,,,,,,,TRUE,-1,1,6,FRA,27,14:14,14:49,9 - 6,3
+108,FRA - SWE,14:55,895,1,GERARD Vfor 31 NAHI D Goalkeeper back,12,FRA,12,12,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,FRA,27,14:14,14:49,9 - 6,3
+108,FRA - SWE,15:33,933,1,"DARJ M Goal centre 6m top left (42 JOHANSSON E), 80 km/h",5,SWE,12,12,42,5,,1,80,top left,centre 6m,,,top,left,,,,,,,FALSE,0,0,6,SWE,28,14:49,15:33,9 - 7,2
+108,FRA - SWE,15:47,947,1,NAHI Dfor 12 GERARD V Empty goal,31,FRA,Empty goal,12,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,SWE,28,14:49,15:33,9 - 7,2
+108,FRA - SWE,16:10,970,1,GERARD Vfor 11 TOURNAT N Goalkeeper back,12,FRA,12,12,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,SWE,28,14:49,15:33,9 - 7,2
+108,FRA - SWE,16:26,986,1,PRANDI E Shot left 9m missed,8,FRA,12,12,,,8,0,,missed,left 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,29,15:33,16:26,9 - 7,2
+108,FRA - SWE,16:38,998,1,REMILI N 2-minutes suspension,5,FRA,12,12,,,,0,,"","",,,"","",,,,,,5,TRUE,0,0,6,FRA,29,15:33,16:26,9 - 7,2
+108,FRA - SWE,16:52,1012,1,JOHANSSON E Shot left 9m missed,42,SWE,12,12,,,42,0,,missed,left 9m,,,"","",,,,,,,FALSE,0,0,6,SWE,30,16:26,16:52,9 - 7,2
+108,FRA - SWE,17:23,1043,1,MAHE Kfor 12 GERARD V Empty goal,14,FRA,Empty goal,12,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,SWE,30,16:26,16:52,9 - 7,2
+108,FRA - SWE,17:36,1056,1,GERARD Vfor 31 NAHI D Goalkeeper back,12,FRA,12,12,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,SWE,30,16:26,16:52,9 - 7,2
+108,FRA - SWE,18:13,1093,1,LENNE Y Shot right wing saved middle centre,2,FRA,12,12,,,2,0,,middle centre,right wing,,1,middle,centre,,,,,,,TRUE,-1,0,5,FRA,31,16:52,18:13,9 - 7,2
+108,FRA - SWE,18:43,1123,1,"PETTERSSON D Goal right wing bottom centre (42 JOHANSSON E), 113 km/h",11,SWE,12,12,42,11,,1,113,bottom centre,right wing,,,bottom,centre,,,,,,,FALSE,0,0,6,SWE,32,18:13,18:43,9 - 8,1
+108,FRA - SWE,19:37,1177,1,FABREGAS L 7m received,23,FRA,12,12,,,,0,,"","",,,"","",,23,,,,,TRUE,0,0,6,FRA,33,18:43,19:40,9 - 8,1
+108,FRA - SWE,19:37,1177,1,CARLSBOGARD J 7m caused,2,SWE,12,12,,,,0,,"","",,,"","",2,,,,,,FALSE,0,0,6,FRA,33,18:43,19:40,9 - 8,1
+108,FRA - SWE,19:40,1180,1,"MAHE K Goal Penalty shot middle right (23 FABREGAS L), 93 km/h",14,FRA,12,12,23,14,,1,93,middle right,Penalty,,,middle,right,,,,,,,TRUE,0,0,6,FRA,33,18:43,19:40,10 - 8,2
+108,FRA - SWE,19:40,1180,1,THULIN Tfor 12 PALICKA A Goalkeeper Substitution,30,SWE,12,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,33,18:43,19:40,9 - 8,1
+108,FRA - SWE,20:17,1217,1,PALICKA Afor 30 THULIN T Goalkeeper Substitution,12,SWE,12,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,33,18:43,19:40,10 - 8,2
+108,FRA - SWE,20:39,1239,1,"BERGENDAHL O Goal centre 6m middle left (19 CLAAR F), 73 km/h",32,SWE,12,12,19,32,,1,73,middle left,centre 6m,,,middle,left,,,,,,,FALSE,0,0,6,SWE,34,19:40,20:39,10 - 9,1
+108,FRA - SWE,21:15,1275,1,"MEM D Goal centre 9m top right, 95 km/h",10,FRA,12,12,,10,,1,95,top right,centre 9m,,,top,right,,,,,,,TRUE,0,0,6,FRA,35,20:39,21:15,11 - 9,2
+108,FRA - SWE,21:56,1316,1,SANDELL L Shot right 6m saved bottom right,33,SWE,12,12,,,33,0,,bottom right,right 6m,,1,bottom,right,,,,,,,FALSE,0,0,6,SWE,36,21:15,22:14,11 - 9,2
+108,FRA - SWE,22:14,1334,1,CLAAR F Shot centre 9m saved middle left,19,SWE,12,12,,,19,0,,middle left,centre 9m,,1,middle,left,,,,,,,FALSE,0,0,6,SWE,36,21:15,22:14,11 - 9,2
+108,FRA - SWE,23:02,1382,1,"REMILI N Goal centre 9m bottom right, 90 km/h",5,FRA,12,12,,5,,1,90,bottom right,centre 9m,,,bottom,right,,,,,,,TRUE,0,0,6,FRA,37,22:14,23:02,12 - 9,3
+108,FRA - SWE,23:34,1414,1,Team timeout,"",SWE,12,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,SWE,38,23:02,23:34,12 - 9,3
+108,FRA - SWE,23:34,1414,1,"MEM D Goal left 6m bottom right, 94 km/h",10,FRA,12,12,,10,,1,94,bottom right,left 6m,,,bottom,right,,,,,,,TRUE,0,0,6,FRA,39,23:34,23:34,13 - 9,4
+108,FRA - SWE,23:58,1438,1,KARABATIC L Steal,22,FRA,12,12,,,,0,,"","",,,"","",,,,,22,,TRUE,0,0,6,SWE,40,23:34,23:58,13 - 9,4
+108,FRA - SWE,23:58,1438,1,JOHANSSON E Turnover,42,SWE,12,12,,,,0,,"","",,,"","",,,42,,,,FALSE,0,0,6,SWE,40,23:34,23:58,13 - 9,4
+108,FRA - SWE,24:06,1446,1,NAHI D Goal fast break top left,31,FRA,12,12,,31,,1,,top left,fast break,,,top,left,,,,,,,TRUE,0,0,6,FRA,41,23:58,24:06,14 - 9,5
+108,FRA - SWE,24:10,1450,1,LAGERGREN Afor 12 PALICKA A Empty goal,23,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,41,23:58,24:06,14 - 9,5
+108,FRA - SWE,24:18,1458,1,SANDELL L 2-minutes suspension,33,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,33,FALSE,0,1,7,FRA,41,23:58,24:06,14 - 9,5
+108,FRA - SWE,25:10,1510,1,LAGARDE R 7m caused,7,FRA,12,Empty goal,,,,0,,"","",,,"","",7,,,,,,TRUE,0,0,6,SWE,42,24:06,25:10,14 - 9,5
+108,FRA - SWE,25:10,1510,1,BERGENDAHL O 7m received,32,SWE,Empty goal,12,,,,0,,"","",,,"","",,32,,,,,FALSE,-1,1,6,SWE,42,24:06,25:10,14 - 9,5
+108,FRA - SWE,25:12,1512,1,PALICKA Afor 23 LAGERGREN A Goalkeeper back,12,SWE,12,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,SWE,42,24:06,25:10,14 - 9,5
+108,FRA - SWE,25:12,1512,1,PELLAS L Penalty shot post,22,SWE,12,12,,,22,0,,post,Penalty,1,,"","",,,,,,,FALSE,-1,0,5,SWE,42,24:06,25:10,14 - 9,5
+108,FRA - SWE,25:45,1545,1,TOURNAT N Shot right 9m saved middle right,11,FRA,12,12,,,11,0,,middle right,right 9m,,1,middle,right,,,,,,,TRUE,0,0,6,FRA,43,25:10,25:45,14 - 9,5
+108,FRA - SWE,26:05,1565,1,LAGERGREN Afor 12 PALICKA A Empty goal,23,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,43,25:10,25:45,14 - 9,5
+108,FRA - SWE,26:18,1578,1,JOHANSSON E Shot centre 9m saved middle right,42,SWE,Empty goal,12,,,42,0,,middle right,centre 9m,,1,middle,right,,,,,,,FALSE,-1,1,6,SWE,44,25:45,26:18,14 - 9,5
+108,FRA - SWE,26:29,1589,1,LAGARDE R Turnover,7,FRA,12,Empty goal,,,,0,,"","",,,"","",,,7,,,,TRUE,0,0,6,FRA,45,26:18,26:29,14 - 9,5
+108,FRA - SWE,26:29,1589,1,PETTERSSON D Steal,11,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,11,,FALSE,0,1,7,FRA,45,26:18,26:29,14 - 9,5
+108,FRA - SWE,26:40,1600,1,"JOHANSSON E Goal breakthrough bottom centre, 96 km/h",42,SWE,Empty goal,12,,42,,1,96,bottom centre,breakthrough,,,bottom,centre,,,,,,,FALSE,0,1,7,SWE,46,26:29,26:40,14 - 10,4
+108,FRA - SWE,27:15,1635,1,"LAGARDE R Goal centre 6m middle right, 100 km/h",7,FRA,12,Empty goal,,7,,1,100,middle right,centre 6m,,,middle,right,,,,,,,TRUE,0,0,6,FRA,47,26:40,27:15,15 - 10,5
+108,FRA - SWE,27:26,1646,1,"CARLSBOGARD J Goal centre 9m middle right, 85 km/h",2,SWE,Empty goal,12,,2,,1,85,middle right,centre 9m,,,middle,right,,,,,,,FALSE,0,1,7,SWE,48,27:15,27:26,15 - 11,4
+108,FRA - SWE,27:29,1649,1,PALICKA Afor 23 LAGERGREN A Goalkeeper back,12,SWE,12,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,SWE,48,27:15,27:26,15 - 11,4
+108,FRA - SWE,28:11,1691,1,Team timeout,"",FRA,12,12,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,FRA,49,27:26,28:28,15 - 11,4
+108,FRA - SWE,28:28,1708,1,REMILI N Technical Fault,5,FRA,12,12,,,,0,,"","",,,"","",,,,5,,,TRUE,0,0,6,FRA,49,27:26,28:28,15 - 11,4
+108,FRA - SWE,28:36,1716,1,"SANDELL L Goal centre 6m middle left (2 CARLSBOGARD J), 86 km/h",33,SWE,12,12,2,33,,1,86,middle left,centre 6m,,,middle,left,,,,,,,FALSE,0,0,6,SWE,50,28:28,28:36,15 - 12,3
+108,FRA - SWE,29:07,1747,1,FABREGAS L 7m received,23,FRA,12,12,,,,0,,"","",,,"","",,23,,,,,TRUE,0,0,6,FRA,51,28:36,29:08,15 - 12,3
+108,FRA - SWE,29:07,1747,1,SANDELL L 7m caused,33,SWE,12,12,,,,0,,"","",,,"","",33,,,,,,FALSE,0,0,6,FRA,51,28:36,29:08,15 - 12,3
+108,FRA - SWE,29:07,1747,1,SANDELL L 2-minutes suspension,33,SWE,12,12,,,,0,,"","",,,"","",,,,,,33,FALSE,0,0,6,FRA,51,28:36,29:08,15 - 12,3
+108,FRA - SWE,29:08,1748,1,"MAHE K Goal Penalty shot middle left (23 FABREGAS L), 80 km/h",14,FRA,12,12,23,14,,1,80,middle left,Penalty,,,middle,left,,,,,,,TRUE,0,0,6,FRA,51,28:36,29:08,16 - 12,4
+108,FRA - SWE,29:29,1769,1,LAGERGREN Afor 12 PALICKA A Empty goal,23,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,51,28:36,29:08,16 - 12,4
+108,FRA - SWE,29:59,1799,1,REMILI N Block,5,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,SWE,52,29:08,30:00,16 - 12,4
+108,FRA - SWE,29:59,1799,1,JOHANSSON E Shot centre 9m blocked,42,SWE,Empty goal,12,,,42,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,-1,1,6,SWE,52,29:08,30:00,16 - 12,4
+108,FRA - SWE,30:00,1800,2,GERARD V Goalkeeper,12,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,SWE,53,"","",16 - 12,4
+108,FRA - SWE,30:41,1841,2,"CLAAR F Goal breakthrough middle right, 76 km/h",19,SWE,Empty goal,12,,19,,1,76,middle right,breakthrough,,,middle,right,,,,,,,FALSE,-1,1,6,SWE,53,30:00,30:41,16 - 13,3
+108,FRA - SWE,30:44,1844,2,PALICKA A,12,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,SWE,53,30:00,30:41,16 - 13,3
+108,FRA - SWE,31:51,1911,2,"MEM D Goal right 6m bottom centre (5 REMILI N), 78 km/h",10,FRA,12,Empty goal,5,10,,1,78,bottom centre,right 6m,,,bottom,centre,,,,,,,TRUE,0,0,6,FRA,54,30:41,31:51,17 - 13,4
+108,FRA - SWE,32:23,1943,2,REMILI N Steal,5,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,5,,TRUE,0,0,6,SWE,55,31:51,32:23,17 - 13,4
+108,FRA - SWE,32:23,1943,2,CARLSBOGARD J Turnover,2,SWE,Empty goal,12,,,,0,,"","",,,"","",,,2,,,,FALSE,0,1,7,SWE,55,31:51,32:23,17 - 13,4
+108,FRA - SWE,32:30,1950,2,REMILI N Shot fast break missed,5,FRA,12,Empty goal,,,5,0,,missed,fast break,,,"","",,,,,,,TRUE,0,0,6,FRA,56,32:23,32:30,17 - 13,4
+108,FRA - SWE,32:38,1958,2,CLAAR F Shot breakthrough saved top centre,19,SWE,Empty goal,12,,,19,0,,top centre,breakthrough,,1,top,centre,,,,,,,FALSE,0,1,7,SWE,57,32:30,32:38,17 - 13,4
+108,FRA - SWE,32:38,1958,2,CLAAR F 2-minutes suspension,19,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,19,FALSE,0,1,7,SWE,57,32:30,32:38,17 - 13,4
+108,FRA - SWE,33:05,1985,2,"MEM D Goal centre 9m middle right, 107 km/h",10,FRA,12,Empty goal,,10,,1,107,middle right,centre 9m,,,middle,right,,,,,,,TRUE,0,0,6,FRA,58,32:38,33:05,18 - 13,5
+108,FRA - SWE,33:20,2000,2,JOHANSSON E,42,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,58,32:38,33:05,18 - 13,5
+108,FRA - SWE,33:56,2036,2,KARABATIC L 2-minutes suspension,22,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,22,TRUE,0,0,6,FRA,58,32:38,33:05,18 - 13,5
+108,FRA - SWE,34:10,2050,2,PETTERSSON D Goal right wing bottom right (42 JOHANSSON E),11,SWE,Empty goal,12,42,11,,1,,bottom right,right wing,,,bottom,right,,,,,,,FALSE,-1,1,6,SWE,59,33:05,34:10,18 - 14,4
+108,FRA - SWE,34:13,2053,2,PALICKA A,12,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,SWE,59,33:05,34:10,18 - 14,4
+108,FRA - SWE,34:20,2060,2,REMILI Nfor 12 GERARD V Empty goal,5,FRA,Empty goal,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,SWE,59,33:05,34:10,18 - 14,4
+108,FRA - SWE,34:50,2090,2,PRANDI E Shot left 9m post,8,FRA,Empty goal,Empty goal,,,8,0,,post,left 9m,1,,"","",,,,,,,TRUE,-1,1,6,FRA,60,34:10,35:18,18 - 14,4
+108,FRA - SWE,35:18,2118,2,"LENNE Y Goal centre 6m bottom centre (8 PRANDI E), 86 km/h",2,FRA,Empty goal,Empty goal,8,2,,1,86,bottom centre,centre 6m,,,bottom,centre,,,,,,,TRUE,-1,1,6,FRA,60,34:10,35:18,19 - 14,5
+108,FRA - SWE,35:25,2125,2,GERARD Vfor 8 PRANDI E Goalkeeper back,12,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,FRA,60,34:10,35:18,19 - 14,5
+108,FRA - SWE,35:43,2143,2,JOHANSSON E Goal left 9m bottom left,42,SWE,Empty goal,12,,42,,1,,bottom left,left 9m,,,bottom,left,,,,,,,FALSE,0,1,7,SWE,61,35:18,35:43,19 - 15,4
+108,FRA - SWE,36:02,2162,2,PRANDI Efor 12 GERARD V Empty goal,8,FRA,Empty goal,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,SWE,61,35:18,35:43,19 - 15,4
+108,FRA - SWE,36:11,2171,2,GERARD Vfor 22 KARABATIC L Goalkeeper back,12,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,SWE,61,35:18,35:43,19 - 15,4
+108,FRA - SWE,36:20,2180,2,"FABREGAS L Goal centre 6m bottom left (5 REMILI N), 86 km/h",23,FRA,12,Empty goal,5,23,,1,86,bottom left,centre 6m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,62,35:43,36:20,20 - 15,5
+108,FRA - SWE,36:55,2215,2,PRANDI E 7m caused,8,FRA,12,Empty goal,,,,0,,"","",,,"","",8,,,,,,TRUE,0,0,6,SWE,63,36:20,37:08,20 - 15,5
+108,FRA - SWE,36:55,2215,2,LAGERGREN A 7m received,23,SWE,Empty goal,12,,,,0,,"","",,,"","",,23,,,,,FALSE,0,1,7,SWE,63,36:20,37:08,20 - 15,5
+108,FRA - SWE,37:08,2228,2,"EKBERG N Goal Penalty shot bottom left (23 LAGERGREN A), 89 km/h",10,SWE,Empty goal,12,23,10,,1,89,bottom left,Penalty,,,bottom,left,,,,,,,FALSE,0,1,7,SWE,63,36:20,37:08,20 - 16,4
+108,FRA - SWE,38:40,2320,2,MEM D Shot centre 9m saved middle left,10,FRA,12,Empty goal,,,10,0,,middle left,centre 9m,,1,middle,left,,,,,,,TRUE,0,0,6,FRA,64,37:08,38:40,20 - 16,4
+108,FRA - SWE,39:13,2353,2,"CLAAR F Goal breakthrough middle left, 78 km/h",19,SWE,Empty goal,12,,19,,1,78,middle left,breakthrough,,,middle,left,,,,,,,FALSE,0,1,7,SWE,65,38:40,39:13,20 - 17,3
+108,FRA - SWE,39:56,2396,2,"FABREGAS L Goal centre 6m bottom centre (5 REMILI N), 80 km/h",23,FRA,12,Empty goal,5,23,,1,80,bottom centre,centre 6m,,,bottom,centre,,,,,,,TRUE,0,0,6,FRA,66,39:13,39:56,21 - 17,4
+108,FRA - SWE,40:06,2406,2,CARLSBOGARD J Goal centre 6m bottom left,2,SWE,Empty goal,12,,2,,1,,bottom left,centre 6m,,,bottom,left,,,,,,,FALSE,0,1,7,SWE,67,39:56,40:06,21 - 18,3
+108,FRA - SWE,41:09,2469,2,"TOURNAT N Goal centre 6m middle left (5 REMILI N), 77 km/h",11,FRA,12,Empty goal,5,11,,1,77,middle left,centre 6m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,68,40:06,41:09,22 - 18,4
+108,FRA - SWE,41:23,2483,2,PRANDI E Block,8,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,SWE,69,41:09,41:43,22 - 18,4
+108,FRA - SWE,41:23,2483,2,CLAAR F Shot centre 9m blocked,19,SWE,Empty goal,12,,,19,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,1,7,SWE,69,41:09,41:43,22 - 18,4
+108,FRA - SWE,41:43,2503,2,DARJ M Shot centre 6m saved middle left,5,SWE,Empty goal,12,,,5,0,,middle left,centre 6m,,1,middle,left,,,,,,,FALSE,0,1,7,SWE,69,41:09,41:43,22 - 18,4
+108,FRA - SWE,42:14,2534,2,"REMILI N Goal breakthrough middle right, 76 km/h",5,FRA,12,Empty goal,,5,,1,76,middle right,breakthrough,,,middle,right,,,,,,,TRUE,0,0,6,FRA,70,41:43,42:14,23 - 18,5
+108,FRA - SWE,42:31,2551,2,BERGENDAHL O,32,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,70,41:43,42:14,23 - 18,5
+108,FRA - SWE,42:36,2556,2,THULIN T,30,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,70,41:43,42:14,23 - 18,5
+108,FRA - SWE,42:39,2559,2,"WANNE H Goal left wing top right (2 CARLSBOGARD J), 94 km/h",15,SWE,Empty goal,12,2,15,,1,94,top right,left wing,,,top,right,,,,,,,FALSE,0,1,7,SWE,71,42:14,42:39,23 - 19,4
+108,FRA - SWE,43:21,2601,2,MEM D Shot centre 9m blocked,10,FRA,12,Empty goal,,,10,0,,blocked,centre 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,72,42:39,43:42,23 - 19,4
+108,FRA - SWE,43:21,2601,2,CARLSBOGARD J Block,2,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,72,42:39,43:42,23 - 19,4
+108,FRA - SWE,43:42,2622,2,REMILI N Turnover,5,FRA,12,Empty goal,,,,0,,"","",,,"","",,,5,,,,TRUE,0,0,6,FRA,72,42:39,43:42,23 - 19,4
+108,FRA - SWE,43:42,2622,2,JOHANSSON E Steal,42,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,42,,FALSE,0,1,7,FRA,72,42:39,43:42,23 - 19,4
+108,FRA - SWE,43:48,2628,2,"PETTERSSON D Goal fast break middle left (23 LAGERGREN A), 80 km/h",11,SWE,Empty goal,12,23,11,,1,80,middle left,fast break,,,middle,left,,,,,,,FALSE,0,1,7,SWE,73,43:42,43:48,23 - 20,3
+108,FRA - SWE,43:59,2639,2,TOURNAT N Goal left 6m bottom left (5 REMILI N),11,FRA,12,Empty goal,5,11,,1,,bottom left,left 6m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,74,43:48,43:59,24 - 20,4
+108,FRA - SWE,44:26,2666,2,CLAAR Ffor 30 THULIN T Empty goal,19,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,74,43:48,43:59,24 - 20,4
+108,FRA - SWE,44:40,2680,2,THULIN Tfor 42 JOHANSSON E Goalkeeper back,30,SWE,30,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,74,43:48,43:59,24 - 20,4
+108,FRA - SWE,44:46,2686,2,"CARLSBOGARD J Goal centre 9m middle left, 101 km/h",2,SWE,30,12,,2,,1,101,middle left,centre 9m,,,middle,left,,,,,,,FALSE,0,0,6,SWE,75,43:59,44:46,24 - 21,3
+108,FRA - SWE,45:59,2759,2,REMILI N Turnover,5,FRA,12,30,,,,0,,"","",,,"","",,,5,,,,TRUE,0,0,6,FRA,76,44:46,45:59,24 - 21,3
+108,FRA - SWE,45:59,2759,2,CARLSBOGARD J Steal,2,SWE,30,12,,,,0,,"","",,,"","",,,,,2,,FALSE,0,0,6,FRA,76,44:46,45:59,24 - 21,3
+108,FRA - SWE,47:07,2827,2,"BERGENDAHL O Goal centre 6m bottom right (23 LAGERGREN A), 72 km/h",32,SWE,30,12,23,32,,1,72,bottom right,centre 6m,,,bottom,right,,,,,,,FALSE,0,0,6,SWE,77,45:59,47:07,24 - 22,2
+108,FRA - SWE,47:47,2867,2,PETTERSSON D 2-minutes suspension,11,SWE,30,12,,,,0,,"","",,,"","",,,,,,11,FALSE,0,0,6,SWE,77,45:59,47:07,24 - 22,2
+108,FRA - SWE,48:09,2889,2,LENNE Y Goal right wing middle left (14 MAHE K),2,FRA,12,30,14,2,,1,,middle left,right wing,,,middle,left,,,,,,,TRUE,0,0,6,FRA,78,47:07,48:09,25 - 22,3
+108,FRA - SWE,48:28,2908,2,EKBERG Nfor 30 THULIN T Empty goal,10,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,78,47:07,48:09,25 - 22,3
+108,FRA - SWE,48:55,2935,2,THULIN Tfor 10 EKBERG N Goalkeeper back,30,SWE,30,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,FRA,78,47:07,48:09,25 - 22,3
+108,FRA - SWE,49:05,2945,2,"JOHANSSON E Goal breakthrough top left, 100 km/h",42,SWE,30,12,,42,,1,100,top left,breakthrough,,,top,left,,,,,,,FALSE,-1,0,5,SWE,79,48:09,49:05,25 - 23,2
+108,FRA - SWE,49:33,2973,2,"TOURNAT N Goal centre 6m middle left (14 MAHE K), 88 km/h",11,FRA,12,30,14,11,,1,88,middle left,centre 6m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,80,49:05,49:33,26 - 23,3
+108,FRA - SWE,50:01,3001,2,EKBERG Nfor 30 THULIN T Empty goal,10,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,80,49:05,49:33,26 - 23,3
+108,FRA - SWE,50:05,3005,2,THULIN Tfor 19 CLAAR F Goalkeeper back,30,SWE,30,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,80,49:05,49:33,26 - 23,3
+108,FRA - SWE,50:06,3006,2,LAGERGREN A Shot centre 9m saved middle left,23,SWE,30,12,,,23,0,,middle left,centre 9m,,1,middle,left,,,,,,,FALSE,0,0,6,SWE,81,49:33,50:06,26 - 23,3
+108,FRA - SWE,50:47,3047,2,"FABREGAS L Goal centre 6m bottom left (10 MEM D), 89 km/h",23,FRA,12,30,10,23,,1,89,bottom left,centre 6m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,82,50:06,50:47,27 - 23,4
+108,FRA - SWE,50:57,3057,2,CARLSBOGARD J Shot centre 9m saved middle centre,2,SWE,30,12,,,2,0,,middle centre,centre 9m,,1,middle,centre,,,,,,,FALSE,0,0,6,SWE,83,50:47,50:57,27 - 23,4
+108,FRA - SWE,51:33,3093,2,PRANDI E Shot left 9m missed,8,FRA,12,30,,,8,0,,missed,left 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,84,50:57,51:33,27 - 23,4
+108,FRA - SWE,51:44,3104,2,JOHANSSON E Turnover,42,SWE,30,12,,,,0,,"","",,,"","",,,42,,,,FALSE,0,0,6,SWE,85,51:33,51:44,27 - 23,4
+108,FRA - SWE,52:14,3134,2,"MAHE K Goal breakthrough middle left, 86 km/h",14,FRA,12,30,,14,,1,86,middle left,breakthrough,,,middle,left,,,,,,,TRUE,0,0,6,FRA,86,51:44,52:14,28 - 23,5
+108,FRA - SWE,52:22,3142,2,"EKBERG N Goal right wing middle right (23 LAGERGREN A), 87 km/h",10,SWE,30,12,23,10,,1,87,middle right,right wing,,,middle,right,,,,,,,FALSE,0,0,6,SWE,87,52:14,52:22,28 - 24,4
+108,FRA - SWE,52:56,3176,2,FABREGAS L Goal centre 6m top centre (14 MAHE K),23,FRA,12,30,14,23,,1,,top centre,centre 6m,,,top,centre,,,,,,,TRUE,0,0,6,FRA,88,52:22,52:56,29 - 24,5
+108,FRA - SWE,53:05,3185,2,PALICKA Afor 30 THULIN T Goalkeeper Substitution,12,SWE,30,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,88,52:22,52:56,29 - 24,5
+108,FRA - SWE,53:06,3186,2,LAGERGREN A Shot centre 9m saved middle right,23,SWE,30,12,,,23,0,,middle right,centre 9m,,1,middle,right,,,,,,,FALSE,0,0,6,SWE,89,52:56,53:06,29 - 24,5
+108,FRA - SWE,53:50,3230,2,CARLSBOGARD J Disqualification (red card-direct),2,SWE,30,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,SWE,89,52:56,53:06,29 - 24,5
+108,FRA - SWE,53:52,3232,2,TOURNAT Nfor 12 GERARD V Empty goal,11,FRA,Empty goal,30,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,SWE,89,52:56,53:06,29 - 24,5
+108,FRA - SWE,54:15,3255,2,"TOURNAT N Goal centre 6m middle right (14 MAHE K), 87 km/h",11,FRA,Empty goal,30,14,11,,1,87,middle right,centre 6m,,,middle,right,,,,,,,TRUE,0,1,7,FRA,90,53:06,54:15,30 - 24,6
+108,FRA - SWE,54:24,3264,2,GERARD Vfor 14 MAHE K Goalkeeper back,12,FRA,12,30,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,FRA,90,53:06,54:15,30 - 24,6
+108,FRA - SWE,54:30,3270,2,CLAAR Ffor 12 PALICKA A Empty goal,19,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,90,53:06,54:15,30 - 24,6
+108,FRA - SWE,54:30,3270,2,Team timeout,"",SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,SWE,91,54:15,54:50,30 - 24,6
+108,FRA - SWE,54:50,3290,2,WANNE H Goal left wing bottom left (42 JOHANSSON E),15,SWE,Empty goal,12,42,15,,1,,bottom left,left wing,,,bottom,left,,,,,,,FALSE,0,1,7,SWE,91,54:15,54:50,30 - 25,5
+108,FRA - SWE,54:53,3293,2,PALICKA Afor 19 CLAAR F Goalkeeper back,12,SWE,12,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,SWE,91,54:15,54:50,30 - 25,5
+108,FRA - SWE,55:25,3325,2,REMILI N Turnover,5,FRA,12,12,,,,0,,"","",,,"","",,,5,,,,TRUE,0,0,6,FRA,92,54:50,55:25,30 - 25,5
+108,FRA - SWE,55:36,3336,2,CLAAR Ffor 12 PALICKA A Empty goal,19,SWE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,92,54:50,55:25,30 - 25,5
+108,FRA - SWE,55:50,3350,2,PALICKA Afor 2 CARLSBOGARD J Goalkeeper back,12,SWE,12,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,92,54:50,55:25,30 - 25,5
+108,FRA - SWE,56:02,3362,2,JOHANSSON E Shot centre 6m missed,42,SWE,12,12,,,42,0,,missed,centre 6m,,,"","",,,,,,,FALSE,0,0,6,SWE,93,55:25,56:02,30 - 25,5
+108,FRA - SWE,57:20,3440,2,MAHE K Shot centre 9m saved top centre,14,FRA,12,12,,,14,0,,top centre,centre 9m,,1,top,centre,,,,,,,TRUE,0,0,6,FRA,94,56:02,57:20,30 - 25,5
+108,FRA - SWE,57:33,3453,2,CLAAR F Shot breakthrough post,19,SWE,12,12,,,19,0,,post,breakthrough,1,,"","",,,,,,,FALSE,0,0,6,SWE,95,57:20,57:33,30 - 25,5
+108,FRA - SWE,58:08,3488,2,LAGARDE R Shot centre 9m missed,7,FRA,12,12,,,7,0,,missed,centre 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,96,57:33,58:08,30 - 25,5
+108,FRA - SWE,58:16,3496,2,"PETTERSSON D Goal fast break top left (23 LAGERGREN A), 85 km/h",11,SWE,12,12,23,11,,1,85,top left,fast break,,,top,left,,,,,,,FALSE,0,0,6,SWE,97,58:08,58:16,30 - 26,4
+108,FRA - SWE,58:37,3517,2,REMILI N Turnover,5,FRA,12,12,,,,0,,"","",,,"","",,,5,,,,TRUE,0,0,6,FRA,98,58:16,58:37,30 - 26,4
+108,FRA - SWE,58:46,3526,2,JOHANSSON E Shot centre 9m post,42,SWE,12,12,,,42,0,,post,centre 9m,1,,"","",,,,,,,FALSE,0,0,6,SWE,99,58:37,58:46,30 - 26,4
+108,FRA - SWE,59:25,3565,2,"LENNE Y Goal right wing top left (14 MAHE K), 104 km/h",2,FRA,12,12,14,2,,1,104,top left,right wing,,,top,left,,,,,,,TRUE,0,0,6,FRA,100,58:46,60:00,31 - 26,5
