@@ -9063,47 +9063,23 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 50,FRA - MNE,0:00,0,1,GERARD V Goalkeeper,12,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,FRA,1,"","",0 - 0,0
 50,FRA - MNE,0:00,0,1,SIMIC N Goalkeeper,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,FRA,1,"","",0 - 0,0
 50,FRA - MNE,0:36,36,1,FABREGAS L Shot centre 6m saved middle left,23,FRA,12,16,,,23,0,,middle left,centre 6m,,1,middle,left,,,,,,,TRUE,0,0,6,FRA,1,0:00,0:36,0 - 0,0
-50,FRA - MNE,0:00,0,1,GERARD V Goalkeeper,12,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,FRA,1,"","",0 - 0,0
-50,FRA - MNE,0:00,0,1,SIMIC N Goalkeeper,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,FRA,1,"","",0 - 0,0
-50,FRA - MNE,0:36,36,1,FABREGAS L Shot centre 6m saved middle left,23,FRA,12,16,,,23,0,,middle left,centre 6m,,1,middle,left,,,,,,,TRUE,0,0,6,FRA,1,0:00,0:36,0 - 0,0
-50,FRA - MNE,1:19,79,1,VUJOVIC B Shot left 6m saved bottom right,11,MNE,16,12,,,11,0,,bottom right,left 6m,,1,bottom,right,,,,,,,FALSE,0,0,6,MNE,2,0:36,1:19,0 - 0,0
 50,FRA - MNE,1:19,79,1,VUJOVIC B Shot left 6m saved bottom right,11,MNE,16,12,,,11,0,,bottom right,left 6m,,1,bottom,right,,,,,,,FALSE,0,0,6,MNE,2,0:36,1:19,0 - 0,0
 50,FRA - MNE,1:32,92,1,FABREGAS L Shot centre 6m post,23,FRA,12,16,,,23,0,,post,centre 6m,1,,"","",,,,,,,TRUE,0,0,6,FRA,3,1:19,1:32,0 - 0,0
-50,FRA - MNE,1:32,92,1,FABREGAS L Shot centre 6m post,23,FRA,12,16,,,23,0,,post,centre 6m,1,,"","",,,,,,,TRUE,0,0,6,FRA,3,1:19,1:32,0 - 0,0
-50,FRA - MNE,2:20,140,1,RADOVIC M Shot right wing saved middle left,13,MNE,16,12,,,13,0,,middle left,right wing,,1,middle,left,,,,,,,FALSE,0,0,6,MNE,4,1:32,2:20,0 - 0,0
 50,FRA - MNE,2:20,140,1,RADOVIC M Shot right wing saved middle left,13,MNE,16,12,,,13,0,,middle left,right wing,,1,middle,left,,,,,,,FALSE,0,0,6,MNE,4,1:32,2:20,0 - 0,0
 50,FRA - MNE,2:26,146,1,REMILI N Shot centre 9m missed,5,FRA,12,16,,,5,0,,missed,centre 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,5,2:20,2:26,0 - 0,0
-50,FRA - MNE,2:26,146,1,REMILI N Shot centre 9m missed,5,FRA,12,16,,,5,0,,missed,centre 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,5,2:20,2:26,0 - 0,0
-50,FRA - MNE,2:37,157,1,VUJOVIC M Shot fast break saved bottom right,6,MNE,16,12,,,6,0,,bottom right,fast break,,1,bottom,right,,,,,,,FALSE,0,0,6,MNE,6,2:26,2:37,0 - 0,0
 50,FRA - MNE,2:37,157,1,VUJOVIC M Shot fast break saved bottom right,6,MNE,16,12,,,6,0,,bottom right,fast break,,1,bottom,right,,,,,,,FALSE,0,0,6,MNE,6,2:26,2:37,0 - 0,0
 50,FRA - MNE,3:06,186,1,"FABREGAS L Goal right 6m middle right, 85 km/h",23,FRA,12,16,,23,,1,85,middle right,right 6m,,,middle,right,,,,,,,TRUE,0,0,6,FRA,7,2:37,3:06,1 - 0,1
-50,FRA - MNE,3:06,186,1,"FABREGAS L Goal right 6m middle right, 85 km/h",23,FRA,12,16,,23,,1,85,middle right,right 6m,,,middle,right,,,,,,,TRUE,0,0,6,FRA,7,2:37,3:06,1 - 0,1
-50,FRA - MNE,3:16,196,1,"LAZOVIC V Goal left 6m bottom left (17 KALUDJEROVIC V), 66 km/h",8,MNE,16,12,17,8,,1,66,bottom left,left 6m,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,8,3:06,3:16,1 - 1,0
 50,FRA - MNE,3:16,196,1,"LAZOVIC V Goal left 6m bottom left (17 KALUDJEROVIC V), 66 km/h",8,MNE,16,12,17,8,,1,66,bottom left,left 6m,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,8,3:06,3:16,1 - 1,0
 50,FRA - MNE,3:33,213,1,KARABATIC N Shot centre 9m blocked,13,FRA,12,16,,,13,0,,blocked,centre 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,9,3:16,4:11,1 - 1,0
 50,FRA - MNE,3:33,213,1,CEPIC R Block,9,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,9,3:16,4:11,1 - 1,0
 50,FRA - MNE,4:11,251,1,"MAHE K Goal centre 9m top right, 110 km/h",14,FRA,12,16,,14,,1,110,top right,centre 9m,,,top,right,,,,,,,TRUE,0,0,6,FRA,9,3:16,4:11,2 - 1,1
-50,FRA - MNE,3:33,213,1,KARABATIC N Shot centre 9m blocked,13,FRA,12,16,,,13,0,,blocked,centre 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,9,3:16,4:11,1 - 1,0
-50,FRA - MNE,3:33,213,1,CEPIC R Block,9,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,9,3:16,4:11,1 - 1,0
-50,FRA - MNE,4:11,251,1,"MAHE K Goal centre 9m top right, 110 km/h",14,FRA,12,16,,14,,1,110,top right,centre 9m,,,top,right,,,,,,,TRUE,0,0,6,FRA,9,3:16,4:11,2 - 1,1
-50,FRA - MNE,4:22,262,1,"VUJOVIC B Goal right 6m middle right, 66 km/h",11,MNE,16,12,,11,,1,66,middle right,right 6m,,,middle,right,,,,,,,FALSE,0,0,6,MNE,10,4:11,4:22,2 - 2,0
 50,FRA - MNE,4:22,262,1,"VUJOVIC B Goal right 6m middle right, 66 km/h",11,MNE,16,12,,11,,1,66,middle right,right 6m,,,middle,right,,,,,,,FALSE,0,0,6,MNE,10,4:11,4:22,2 - 2,0
 50,FRA - MNE,5:09,309,1,"REMILI N Goal centre 6m bottom right, 92 km/h",5,FRA,12,16,,5,,1,92,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,0,6,FRA,11,4:22,5:09,3 - 2,1
-50,FRA - MNE,5:09,309,1,"REMILI N Goal centre 6m bottom right, 92 km/h",5,FRA,12,16,,5,,1,92,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,0,6,FRA,11,4:22,5:09,3 - 2,1
 50,FRA - MNE,5:21,321,1,"RADOVIC M Goal right wing middle right, 69 km/h",13,MNE,16,12,,13,,1,69,middle right,right wing,,,middle,right,,,,,,,FALSE,0,0,6,MNE,12,5:09,5:21,3 - 3,0
-50,FRA - MNE,5:21,321,1,"RADOVIC M Goal right wing middle right, 69 km/h",13,MNE,16,12,,13,,1,69,middle right,right wing,,,middle,right,,,,,,,FALSE,0,0,6,MNE,12,5:09,5:21,3 - 3,0
-50,FRA - MNE,5:55,355,1,"FABREGAS L Goal centre 6m middle left, 60 km/h",23,FRA,12,16,,23,,1,60,middle left,centre 6m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,13,5:21,5:55,4 - 3,1
 50,FRA - MNE,5:55,355,1,"FABREGAS L Goal centre 6m middle left, 60 km/h",23,FRA,12,16,,23,,1,60,middle left,centre 6m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,13,5:21,5:55,4 - 3,1
 50,FRA - MNE,6:35,395,1,"ANDJELIC B Goal centre 9m middle left, 73 km/h",32,MNE,16,12,,32,,1,73,middle left,centre 9m,,,middle,left,,,,,,,FALSE,0,0,6,MNE,14,5:55,6:35,4 - 4,0
 50,FRA - MNE,6:47,407,1,KALUDJEROVIC V Warning (yellow card),17,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,14,5:55,6:35,4 - 4,0
-50,FRA - MNE,6:35,395,1,"ANDJELIC B Goal centre 9m middle left, 73 km/h",32,MNE,16,12,,32,,1,73,middle left,centre 9m,,,middle,left,,,,,,,FALSE,0,0,6,MNE,14,5:55,6:35,4 - 4,0
-50,FRA - MNE,6:47,407,1,KALUDJEROVIC V Warning (yellow card),17,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,14,5:55,6:35,4 - 4,0
 50,FRA - MNE,7:15,435,1,"KARABATIC N Goal left 6m top right, 60 km/h",13,FRA,12,16,,13,,1,60,top right,left 6m,,,top,right,,,,,,,TRUE,0,0,6,FRA,15,6:35,7:15,5 - 4,1
-50,FRA - MNE,7:15,435,1,"KARABATIC N Goal left 6m top right, 60 km/h",13,FRA,12,16,,13,,1,60,top right,left 6m,,,top,right,,,,,,,TRUE,0,0,6,FRA,15,6:35,7:15,5 - 4,1
-50,FRA - MNE,7:33,453,1,KARABATIC N 7m caused,13,FRA,12,16,,,,0,,"","",,,"","",13,,,,,,TRUE,0,0,6,MNE,16,7:15,8:59,5 - 4,1
-50,FRA - MNE,7:33,453,1,VUJOVIC B 7m received,11,MNE,16,12,,,,0,,"","",,,"","",,11,,,,,FALSE,0,0,6,MNE,16,7:15,8:59,5 - 4,1
-50,FRA - MNE,7:42,462,1,VUJOVIC M Penalty shot saved middle right,6,MNE,16,12,,,6,0,,middle right,Penalty,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,16,7:15,8:59,5 - 4,1
-50,FRA - MNE,8:59,539,1,CEPIC R Shot left 9m saved middle right,9,MNE,16,12,,,9,0,,middle right,left 9m,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,16,7:15,8:59,5 - 4,1
 50,FRA - MNE,7:33,453,1,KARABATIC N 7m caused,13,FRA,12,16,,,,0,,"","",,,"","",13,,,,,,TRUE,0,0,6,MNE,16,7:15,8:59,5 - 4,1
 50,FRA - MNE,7:33,453,1,VUJOVIC B 7m received,11,MNE,16,12,,,,0,,"","",,,"","",,11,,,,,FALSE,0,0,6,MNE,16,7:15,8:59,5 - 4,1
 50,FRA - MNE,7:42,462,1,VUJOVIC M Penalty shot saved middle right,6,MNE,16,12,,,6,0,,middle right,Penalty,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,16,7:15,8:59,5 - 4,1
@@ -9111,139 +9087,69 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 50,FRA - MNE,9:09,549,1,KARABATIC L 7m received,22,FRA,12,16,,,,0,,"","",,,"","",,22,,,,,TRUE,0,0,6,FRA,17,8:59,9:18,5 - 4,1
 50,FRA - MNE,9:09,549,1,CEPIC R 7m caused,9,MNE,16,12,,,,0,,"","",,,"","",9,,,,,,FALSE,0,0,6,FRA,17,8:59,9:18,5 - 4,1
 50,FRA - MNE,9:18,558,1,"MAHE K Goal Penalty shot middle centre (22 KARABATIC L), 68 km/h",14,FRA,12,16,22,14,,1,68,middle centre,Penalty,,,middle,centre,,,,,,,TRUE,0,0,6,FRA,17,8:59,9:18,6 - 4,2
-50,FRA - MNE,9:09,549,1,KARABATIC L 7m received,22,FRA,12,16,,,,0,,"","",,,"","",,22,,,,,TRUE,0,0,6,FRA,17,8:59,9:18,5 - 4,1
-50,FRA - MNE,9:09,549,1,CEPIC R 7m caused,9,MNE,16,12,,,,0,,"","",,,"","",9,,,,,,FALSE,0,0,6,FRA,17,8:59,9:18,5 - 4,1
-50,FRA - MNE,9:18,558,1,"MAHE K Goal Penalty shot middle centre (22 KARABATIC L), 68 km/h",14,FRA,12,16,22,14,,1,68,middle centre,Penalty,,,middle,centre,,,,,,,TRUE,0,0,6,FRA,17,8:59,9:18,6 - 4,2
-50,FRA - MNE,10:17,617,1,VUJOVIC B Shot right 6m post,11,MNE,16,12,,,11,0,,post,right 6m,1,,"","",,,,,,,FALSE,0,0,6,MNE,18,9:18,10:17,6 - 4,2
 50,FRA - MNE,10:17,617,1,VUJOVIC B Shot right 6m post,11,MNE,16,12,,,11,0,,post,right 6m,1,,"","",,,,,,,FALSE,0,0,6,MNE,18,9:18,10:17,6 - 4,2
 50,FRA - MNE,10:22,622,1,MAHE K Shot centre 9m saved top left,14,FRA,12,16,,,14,0,,top left,centre 9m,,1,top,left,,,,,,,TRUE,0,0,6,FRA,19,10:17,10:22,6 - 4,2
-50,FRA - MNE,10:22,622,1,MAHE K Shot centre 9m saved top left,14,FRA,12,16,,,14,0,,top left,centre 9m,,1,top,left,,,,,,,TRUE,0,0,6,FRA,19,10:17,10:22,6 - 4,2
-50,FRA - MNE,10:58,658,1,VUJOVIC B Shot breakthrough saved middle left,11,MNE,16,12,,,11,0,,middle left,breakthrough,,1,middle,left,,,,,,,FALSE,0,0,6,MNE,20,10:22,10:58,6 - 4,2
 50,FRA - MNE,10:58,658,1,VUJOVIC B Shot breakthrough saved middle left,11,MNE,16,12,,,11,0,,middle left,breakthrough,,1,middle,left,,,,,,,FALSE,0,0,6,MNE,20,10:22,10:58,6 - 4,2
 50,FRA - MNE,11:27,687,1,REMILI N Turnover,5,FRA,12,16,,,,0,,"","",,,"","",,,5,,,,TRUE,0,0,6,FRA,21,10:58,11:27,6 - 4,2
-50,FRA - MNE,11:27,687,1,REMILI N Turnover,5,FRA,12,16,,,,0,,"","",,,"","",,,5,,,,TRUE,0,0,6,FRA,21,10:58,11:27,6 - 4,2
-50,FRA - MNE,12:11,731,1,"ANDJELIC B Goal right 6m bottom centre, 66 km/h",32,MNE,16,12,,32,,1,66,bottom centre,right 6m,,,bottom,centre,,,,,,,FALSE,0,0,6,MNE,22,11:27,12:11,6 - 5,1
 50,FRA - MNE,12:11,731,1,"ANDJELIC B Goal right 6m bottom centre, 66 km/h",32,MNE,16,12,,32,,1,66,bottom centre,right 6m,,,bottom,centre,,,,,,,FALSE,0,0,6,MNE,22,11:27,12:11,6 - 5,1
 50,FRA - MNE,12:51,771,1,"FABREGAS L Goal left 6m middle right, 62 km/h",23,FRA,12,16,,23,,1,62,middle right,left 6m,,,middle,right,,,,,,,TRUE,0,0,6,FRA,23,12:11,12:51,7 - 5,2
-50,FRA - MNE,12:51,771,1,"FABREGAS L Goal left 6m middle right, 62 km/h",23,FRA,12,16,,23,,1,62,middle right,left 6m,,,middle,right,,,,,,,TRUE,0,0,6,FRA,23,12:11,12:51,7 - 5,2
 50,FRA - MNE,13:23,803,1,CEPIC R Technical Fault,9,MNE,16,12,,,,0,,"","",,,"","",,,,9,,,FALSE,0,0,6,MNE,24,12:51,13:23,7 - 5,2
-50,FRA - MNE,13:23,803,1,CEPIC R Technical Fault,9,MNE,16,12,,,,0,,"","",,,"","",,,,9,,,FALSE,0,0,6,MNE,24,12:51,13:23,7 - 5,2
-50,FRA - MNE,13:36,816,1,KARABATIC N Shot left 6m post,13,FRA,12,16,,,13,0,,post,left 6m,1,,"","",,,,,,,TRUE,0,0,6,FRA,25,13:23,13:36,7 - 5,2
 50,FRA - MNE,13:36,816,1,KARABATIC N Shot left 6m post,13,FRA,12,16,,,13,0,,post,left 6m,1,,"","",,,,,,,TRUE,0,0,6,FRA,25,13:23,13:36,7 - 5,2
 50,FRA - MNE,14:35,875,1,MAHE K 7m caused,14,FRA,12,16,,,,0,,"","",,,"","",14,,,,,,TRUE,0,0,6,MNE,26,13:36,14:46,7 - 5,2
 50,FRA - MNE,14:35,875,1,MAHE K Warning (yellow card),14,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,26,13:36,14:46,7 - 5,2
 50,FRA - MNE,14:35,875,1,LAZOVIC V 7m received,8,MNE,16,12,,,,0,,"","",,,"","",,8,,,,,FALSE,0,0,6,MNE,26,13:36,14:46,7 - 5,2
 50,FRA - MNE,14:46,886,1,VUJOVIC M Penalty shot saved middle right,6,MNE,16,12,,,6,0,,middle right,Penalty,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,26,13:36,14:46,7 - 5,2
-50,FRA - MNE,14:35,875,1,MAHE K 7m caused,14,FRA,12,16,,,,0,,"","",,,"","",14,,,,,,TRUE,0,0,6,MNE,26,13:36,14:46,7 - 5,2
-50,FRA - MNE,14:35,875,1,MAHE K Warning (yellow card),14,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,26,13:36,14:46,7 - 5,2
-50,FRA - MNE,14:35,875,1,LAZOVIC V 7m received,8,MNE,16,12,,,,0,,"","",,,"","",,8,,,,,FALSE,0,0,6,MNE,26,13:36,14:46,7 - 5,2
-50,FRA - MNE,14:46,886,1,VUJOVIC M Penalty shot saved middle right,6,MNE,16,12,,,6,0,,middle right,Penalty,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,26,13:36,14:46,7 - 5,2
-50,FRA - MNE,15:42,942,1,"KARABATIC N Goal centre 6m middle right, 76 km/h",13,FRA,12,16,,13,,1,76,middle right,centre 6m,,,middle,right,,,,,,,TRUE,0,0,6,FRA,27,14:46,15:42,8 - 5,3
 50,FRA - MNE,15:42,942,1,"KARABATIC N Goal centre 6m middle right, 76 km/h",13,FRA,12,16,,13,,1,76,middle right,centre 6m,,,middle,right,,,,,,,TRUE,0,0,6,FRA,27,14:46,15:42,8 - 5,3
 50,FRA - MNE,15:51,951,1,CEPIC R Shot right 6m saved middle right,9,MNE,16,12,,,9,0,,middle right,right 6m,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,28,15:42,15:51,8 - 5,3
-50,FRA - MNE,15:51,951,1,CEPIC R Shot right 6m saved middle right,9,MNE,16,12,,,9,0,,middle right,right 6m,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,28,15:42,15:51,8 - 5,3
-50,FRA - MNE,16:05,965,1,FABREGAS L Shot centre 6m post,23,FRA,12,16,,,23,0,,post,centre 6m,1,,"","",,,,,,,TRUE,0,0,6,FRA,29,15:51,16:05,8 - 5,3
 50,FRA - MNE,16:05,965,1,FABREGAS L Shot centre 6m post,23,FRA,12,16,,,23,0,,post,centre 6m,1,,"","",,,,,,,TRUE,0,0,6,FRA,29,15:51,16:05,8 - 5,3
 50,FRA - MNE,16:59,1019,1,ANDJELIC B Technical Fault,32,MNE,16,12,,,,0,,"","",,,"","",,,,32,,,FALSE,0,0,6,MNE,30,16:05,16:59,8 - 5,3
-50,FRA - MNE,16:59,1019,1,ANDJELIC B Technical Fault,32,MNE,16,12,,,,0,,"","",,,"","",,,,32,,,FALSE,0,0,6,MNE,30,16:05,16:59,8 - 5,3
-50,FRA - MNE,17:28,1048,1,"REMILI N Goal centre 9m middle left, 94 km/h",5,FRA,12,16,,5,,1,94,middle left,centre 9m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,31,16:59,17:28,9 - 5,4
 50,FRA - MNE,17:28,1048,1,"REMILI N Goal centre 9m middle left, 94 km/h",5,FRA,12,16,,5,,1,94,middle left,centre 9m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,31,16:59,17:28,9 - 5,4
 50,FRA - MNE,17:47,1067,1,Team timeout,"",MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,32,17:28,18:10,9 - 5,4
 50,FRA - MNE,18:10,1090,1,VUJOVIC B Shot centre 9m saved middle left,11,MNE,16,12,,,11,0,,middle left,centre 9m,,1,middle,left,,,,,,,FALSE,0,0,6,MNE,32,17:28,18:10,9 - 5,4
-50,FRA - MNE,17:47,1067,1,Team timeout,"",MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,32,17:28,18:10,9 - 5,4
-50,FRA - MNE,18:10,1090,1,VUJOVIC B Shot centre 9m saved middle left,11,MNE,16,12,,,11,0,,middle left,centre 9m,,1,middle,left,,,,,,,FALSE,0,0,6,MNE,32,17:28,18:10,9 - 5,4
 50,FRA - MNE,18:16,1096,1,"MAHE K Goal right 6m middle left, 94 km/h",14,FRA,12,16,,14,,1,94,middle left,right 6m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,33,18:10,18:16,10 - 5,5
-50,FRA - MNE,18:16,1096,1,"MAHE K Goal right 6m middle left, 94 km/h",14,FRA,12,16,,14,,1,94,middle left,right 6m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,33,18:10,18:16,10 - 5,5
-50,FRA - MNE,18:43,1123,1,"BOZOVIC M Goal centre 9m bottom right, 99 km/h",24,MNE,16,12,,24,,1,99,bottom right,centre 9m,,,bottom,right,,,,,,,FALSE,0,0,6,MNE,34,18:16,18:43,10 - 6,4
-50,FRA - MNE,18:56,1136,1,LAZOVIC V 2-minutes suspension,8,MNE,16,12,,,,0,,"","",,,"","",,,,,,8,FALSE,0,0,6,MNE,34,18:16,18:43,10 - 6,4
 50,FRA - MNE,18:43,1123,1,"BOZOVIC M Goal centre 9m bottom right, 99 km/h",24,MNE,16,12,,24,,1,99,bottom right,centre 9m,,,bottom,right,,,,,,,FALSE,0,0,6,MNE,34,18:16,18:43,10 - 6,4
 50,FRA - MNE,18:56,1136,1,LAZOVIC V 2-minutes suspension,8,MNE,16,12,,,,0,,"","",,,"","",,,,,,8,FALSE,0,0,6,MNE,34,18:16,18:43,10 - 6,4
 50,FRA - MNE,19:19,1159,1,RICHARDSON M Shot centre 9m missed,9,FRA,12,16,,,9,0,,missed,centre 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,35,18:43,19:19,10 - 6,4
 50,FRA - MNE,19:30,1170,1,CORSOVIC Mfor 16 SIMIC N Empty goal,10,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,35,18:43,19:19,10 - 6,4
 50,FRA - MNE,20:12,1212,1,SIMIC Nfor 6 VUJOVIC M Goalkeeper back,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,FRA,35,18:43,19:19,10 - 6,4
-50,FRA - MNE,19:19,1159,1,RICHARDSON M Shot centre 9m missed,9,FRA,12,16,,,9,0,,missed,centre 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,35,18:43,19:19,10 - 6,4
-50,FRA - MNE,19:30,1170,1,CORSOVIC Mfor 16 SIMIC N Empty goal,10,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,35,18:43,19:19,10 - 6,4
-50,FRA - MNE,20:12,1212,1,SIMIC Nfor 6 VUJOVIC M Goalkeeper back,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,FRA,35,18:43,19:19,10 - 6,4
-50,FRA - MNE,20:13,1213,1,"CORSOVIC M Goal centre 6m middle left (24 BOZOVIC M), 79 km/h",10,MNE,16,12,24,10,,1,79,middle left,centre 6m,,,middle,left,,,,,,,FALSE,-1,0,5,MNE,36,19:19,20:13,10 - 7,3
 50,FRA - MNE,20:13,1213,1,"CORSOVIC M Goal centre 6m middle left (24 BOZOVIC M), 79 km/h",10,MNE,16,12,24,10,,1,79,middle left,centre 6m,,,middle,left,,,,,,,FALSE,-1,0,5,MNE,36,19:19,20:13,10 - 7,3
 50,FRA - MNE,20:27,1227,1,BRIET T Shot left 6m saved middle right,39,FRA,12,16,,,39,0,,middle right,left 6m,,1,middle,right,,,,,,,TRUE,0,0,6,FRA,37,20:13,20:47,10 - 7,3
 50,FRA - MNE,20:47,1247,1,RICHARDSON M Goal centre 9m bottom left,9,FRA,12,16,,9,,1,,bottom left,centre 9m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,37,20:13,20:47,11 - 7,4
-50,FRA - MNE,20:27,1227,1,BRIET T Shot left 6m saved middle right,39,FRA,12,16,,,39,0,,middle right,left 6m,,1,middle,right,,,,,,,TRUE,0,0,6,FRA,37,20:13,20:47,10 - 7,3
-50,FRA - MNE,20:47,1247,1,RICHARDSON M Goal centre 9m bottom left,9,FRA,12,16,,9,,1,,bottom left,centre 9m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,37,20:13,20:47,11 - 7,4
-50,FRA - MNE,21:18,1278,1,BOZOVIC M Goal left 9m bottom left,24,MNE,16,12,,24,,1,,bottom left,left 9m,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,38,20:47,21:18,11 - 8,3
 50,FRA - MNE,21:18,1278,1,BOZOVIC M Goal left 9m bottom left,24,MNE,16,12,,24,,1,,bottom left,left 9m,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,38,20:47,21:18,11 - 8,3
 50,FRA - MNE,21:31,1291,1,MAHE K 7m received,14,FRA,12,16,,,,0,,"","",,,"","",,14,,,,,TRUE,0,0,6,FRA,39,21:18,21:44,11 - 8,3
 50,FRA - MNE,21:31,1291,1,VUJOVIC M 7m caused,6,MNE,16,12,,,,0,,"","",,,"","",6,,,,,,FALSE,0,0,6,FRA,39,21:18,21:44,11 - 8,3
 50,FRA - MNE,21:44,1304,1,RICHARDSON M Goal Penalty shot bottom right (14 MAHE K),9,FRA,12,16,14,9,,1,,bottom right,Penalty,,,bottom,right,,,,,,,TRUE,0,0,6,FRA,39,21:18,21:44,12 - 8,4
-50,FRA - MNE,21:31,1291,1,MAHE K 7m received,14,FRA,12,16,,,,0,,"","",,,"","",,14,,,,,TRUE,0,0,6,FRA,39,21:18,21:44,11 - 8,3
-50,FRA - MNE,21:31,1291,1,VUJOVIC M 7m caused,6,MNE,16,12,,,,0,,"","",,,"","",6,,,,,,FALSE,0,0,6,FRA,39,21:18,21:44,11 - 8,3
-50,FRA - MNE,21:44,1304,1,RICHARDSON M Goal Penalty shot bottom right (14 MAHE K),9,FRA,12,16,14,9,,1,,bottom right,Penalty,,,bottom,right,,,,,,,TRUE,0,0,6,FRA,39,21:18,21:44,12 - 8,4
-50,FRA - MNE,22:45,1365,1,CORSOVIC M Technical Fault,10,MNE,16,12,,,,0,,"","",,,"","",,,,10,,,FALSE,0,0,6,MNE,40,21:44,22:45,12 - 8,4
 50,FRA - MNE,22:45,1365,1,CORSOVIC M Technical Fault,10,MNE,16,12,,,,0,,"","",,,"","",,,,10,,,FALSE,0,0,6,MNE,40,21:44,22:45,12 - 8,4
 50,FRA - MNE,22:52,1372,1,RICHARDSON M Shot centre 9m saved bottom right,9,FRA,12,16,,,9,0,,bottom right,centre 9m,,1,bottom,right,,,,,,,TRUE,0,0,6,FRA,41,22:45,22:52,12 - 8,4
-50,FRA - MNE,22:52,1372,1,RICHARDSON M Shot centre 9m saved bottom right,9,FRA,12,16,,,9,0,,bottom right,centre 9m,,1,bottom,right,,,,,,,TRUE,0,0,6,FRA,41,22:45,22:52,12 - 8,4
-50,FRA - MNE,23:04,1384,1,"BOZOVIC M Goal centre 6m bottom left, 80 km/h",24,MNE,16,12,,24,,1,80,bottom left,centre 6m,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,42,22:52,23:04,12 - 9,3
 50,FRA - MNE,23:04,1384,1,"BOZOVIC M Goal centre 6m bottom left, 80 km/h",24,MNE,16,12,,24,,1,80,bottom left,centre 6m,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,42,22:52,23:04,12 - 9,3
 50,FRA - MNE,23:45,1425,1,MAHE K Shot left 9m blocked,14,FRA,12,16,,,14,0,,blocked,left 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,43,23:04,23:45,12 - 9,3
 50,FRA - MNE,23:45,1425,1,LAZOVIC V Block,8,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,43,23:04,23:45,12 - 9,3
-50,FRA - MNE,23:45,1425,1,MAHE K Shot left 9m blocked,14,FRA,12,16,,,14,0,,blocked,left 9m,,,"","",,,,,,,TRUE,0,0,6,FRA,43,23:04,23:45,12 - 9,3
-50,FRA - MNE,23:45,1425,1,LAZOVIC V Block,8,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,43,23:04,23:45,12 - 9,3
-50,FRA - MNE,23:52,1432,1,VUJOVIC B Shot fast break post,11,MNE,16,12,,,11,0,,post,fast break,1,,"","",,,,,,,FALSE,0,0,6,MNE,44,23:45,23:52,12 - 9,3
 50,FRA - MNE,23:52,1432,1,VUJOVIC B Shot fast break post,11,MNE,16,12,,,11,0,,post,fast break,1,,"","",,,,,,,FALSE,0,0,6,MNE,44,23:45,23:52,12 - 9,3
 50,FRA - MNE,24:26,1466,1,"RICHARDSON M Goal left 9m bottom left, 78 km/h",9,FRA,12,16,,9,,1,78,bottom left,left 9m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,45,23:52,24:26,13 - 9,4
-50,FRA - MNE,24:26,1466,1,"RICHARDSON M Goal left 9m bottom left, 78 km/h",9,FRA,12,16,,9,,1,78,bottom left,left 9m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,45,23:52,24:26,13 - 9,4
 50,FRA - MNE,25:12,1512,1,"BAKIC A Goal left wing middle left (32 ANDJELIC B), 85 km/h",4,MNE,16,12,32,4,,1,85,middle left,left wing,,,middle,left,,,,,,,FALSE,0,0,6,MNE,46,24:26,25:12,13 - 10,3
-50,FRA - MNE,25:12,1512,1,"BAKIC A Goal left wing middle left (32 ANDJELIC B), 85 km/h",4,MNE,16,12,32,4,,1,85,middle left,left wing,,,middle,left,,,,,,,FALSE,0,0,6,MNE,46,24:26,25:12,13 - 10,3
-50,FRA - MNE,25:26,1526,1,TOURNAT N 7m received,11,FRA,12,16,,,,0,,"","",,,"","",,11,,,,,TRUE,0,0,6,FRA,47,25:12,25:39,13 - 10,3
-50,FRA - MNE,25:26,1526,1,RADOVIC M 7m caused,13,MNE,16,12,,,,0,,"","",,,"","",13,,,,,,FALSE,0,0,6,FRA,47,25:12,25:39,13 - 10,3
-50,FRA - MNE,25:39,1539,1,RICHARDSON M Goal Penalty shot middle right (11 TOURNAT N),9,FRA,12,16,11,9,,1,,middle right,Penalty,,,middle,right,,,,,,,TRUE,0,0,6,FRA,47,25:12,25:39,14 - 10,4
 50,FRA - MNE,25:26,1526,1,TOURNAT N 7m received,11,FRA,12,16,,,,0,,"","",,,"","",,11,,,,,TRUE,0,0,6,FRA,47,25:12,25:39,13 - 10,3
 50,FRA - MNE,25:26,1526,1,RADOVIC M 7m caused,13,MNE,16,12,,,,0,,"","",,,"","",13,,,,,,FALSE,0,0,6,FRA,47,25:12,25:39,13 - 10,3
 50,FRA - MNE,25:39,1539,1,RICHARDSON M Goal Penalty shot middle right (11 TOURNAT N),9,FRA,12,16,11,9,,1,,middle right,Penalty,,,middle,right,,,,,,,TRUE,0,0,6,FRA,47,25:12,25:39,14 - 10,4
 50,FRA - MNE,26:50,1610,1,KARABATIC L Block,22,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,48,25:39,27:04,14 - 10,4
 50,FRA - MNE,26:50,1610,1,BOZOVIC M Shot centre 9m blocked,24,MNE,16,12,,,24,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,0,6,MNE,48,25:39,27:04,14 - 10,4
 50,FRA - MNE,27:04,1624,1,"VUJACIC R Goal right 9m bottom left, 89 km/h",26,MNE,16,12,,26,,1,89,bottom left,right 9m,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,48,25:39,27:04,14 - 11,3
-50,FRA - MNE,26:50,1610,1,KARABATIC L Block,22,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,48,25:39,27:04,14 - 10,4
-50,FRA - MNE,26:50,1610,1,BOZOVIC M Shot centre 9m blocked,24,MNE,16,12,,,24,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,0,6,MNE,48,25:39,27:04,14 - 10,4
-50,FRA - MNE,27:04,1624,1,"VUJACIC R Goal right 9m bottom left, 89 km/h",26,MNE,16,12,,26,,1,89,bottom left,right 9m,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,48,25:39,27:04,14 - 11,3
-50,FRA - MNE,27:34,1654,1,"BRIET T Goal centre 6m bottom left, 90 km/h",39,FRA,12,16,,39,,1,90,bottom left,centre 6m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,49,27:04,27:34,15 - 11,4
 50,FRA - MNE,27:34,1654,1,"BRIET T Goal centre 6m bottom left, 90 km/h",39,FRA,12,16,,39,,1,90,bottom left,centre 6m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,49,27:04,27:34,15 - 11,4
 50,FRA - MNE,28:19,1699,1,BOZOVIC M Shot right 9m saved middle centre,24,MNE,16,12,,,24,0,,middle centre,right 9m,,1,middle,centre,,,,,,,FALSE,0,0,6,MNE,50,27:34,28:19,15 - 11,4
-50,FRA - MNE,28:19,1699,1,BOZOVIC M Shot right 9m saved middle centre,24,MNE,16,12,,,24,0,,middle centre,right 9m,,1,middle,centre,,,,,,,FALSE,0,0,6,MNE,50,27:34,28:19,15 - 11,4
 50,FRA - MNE,28:26,1706,1,"GREBILLE M Goal fast break middle right, 92 km/h",15,FRA,12,16,,15,,1,92,middle right,fast break,,,middle,right,,,,,,,TRUE,0,0,6,FRA,51,28:19,28:26,16 - 11,5
-50,FRA - MNE,28:26,1706,1,"GREBILLE M Goal fast break middle right, 92 km/h",15,FRA,12,16,,15,,1,92,middle right,fast break,,,middle,right,,,,,,,TRUE,0,0,6,FRA,51,28:19,28:26,16 - 11,5
-50,FRA - MNE,28:40,1720,1,"RADOVIC M Goal right wing middle left, 85 km/h",13,MNE,16,12,,13,,1,85,middle left,right wing,,,middle,left,,,,,,,FALSE,0,0,6,MNE,52,28:26,28:40,16 - 12,4
 50,FRA - MNE,28:40,1720,1,"RADOVIC M Goal right wing middle left, 85 km/h",13,MNE,16,12,,13,,1,85,middle left,right wing,,,middle,left,,,,,,,FALSE,0,0,6,MNE,52,28:26,28:40,16 - 12,4
 50,FRA - MNE,29:11,1751,1,MAHE K Shot left 6m post,14,FRA,12,16,,,14,0,,post,left 6m,1,,"","",,,,,,,TRUE,0,0,6,FRA,53,28:40,29:28,16 - 12,4
 50,FRA - MNE,29:28,1768,1,TOURNAT N Technical Fault,11,FRA,12,16,,,,0,,"","",,,"","",,,,11,,,TRUE,0,0,6,FRA,53,28:40,29:28,16 - 12,4
-50,FRA - MNE,29:11,1751,1,MAHE K Shot left 6m post,14,FRA,12,16,,,14,0,,post,left 6m,1,,"","",,,,,,,TRUE,0,0,6,FRA,53,28:40,29:28,16 - 12,4
-50,FRA - MNE,29:28,1768,1,TOURNAT N Technical Fault,11,FRA,12,16,,,,0,,"","",,,"","",,,,11,,,TRUE,0,0,6,FRA,53,28:40,29:28,16 - 12,4
-50,FRA - MNE,29:57,1797,1,"BOZOVIC M Goal centre 9m top right, 102 km/h",24,MNE,16,12,,24,,1,102,top right,centre 9m,,,top,right,,,,,,,FALSE,0,0,6,MNE,54,29:28,30:00,16 - 13,3
 50,FRA - MNE,29:57,1797,1,"BOZOVIC M Goal centre 9m top right, 102 km/h",24,MNE,16,12,,24,,1,102,top right,centre 9m,,,top,right,,,,,,,FALSE,0,0,6,MNE,54,29:28,30:00,16 - 13,3
 50,FRA - MNE,30:00,1800,2,GERARD V Goalkeeper,12,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,MNE,55,"","",16 - 13,3
 50,FRA - MNE,30:00,1800,2,SIMIC N Goalkeeper,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,MNE,55,"","",16 - 13,3
 50,FRA - MNE,30:28,1828,2,BOZOVIC M Shot centre 9m saved top left,24,MNE,16,12,,,24,0,,top left,centre 9m,,1,top,left,,,,,,,FALSE,0,0,6,MNE,55,30:00,30:38,16 - 13,3
 50,FRA - MNE,30:38,1838,2,BAKIC A Shot left wing saved middle right,4,MNE,16,12,,,4,0,,middle right,left wing,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,55,30:00,30:38,16 - 13,3
-50,FRA - MNE,30:00,1800,2,GERARD V Goalkeeper,12,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,MNE,55,"","",16 - 13,3
-50,FRA - MNE,30:00,1800,2,SIMIC N Goalkeeper,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,MNE,55,"","",16 - 13,3
-50,FRA - MNE,30:28,1828,2,BOZOVIC M Shot centre 9m saved top left,24,MNE,16,12,,,24,0,,top left,centre 9m,,1,top,left,,,,,,,FALSE,0,0,6,MNE,55,30:00,30:38,16 - 13,3
-50,FRA - MNE,30:38,1838,2,BAKIC A Shot left wing saved middle right,4,MNE,16,12,,,4,0,,middle right,left wing,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,55,30:00,30:38,16 - 13,3
-50,FRA - MNE,30:48,1848,2,"RICHARDSON M Goal right 6m bottom left, 85 km/h",9,FRA,12,16,,9,,1,85,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,56,30:38,30:48,17 - 13,4
 50,FRA - MNE,30:48,1848,2,"RICHARDSON M Goal right 6m bottom left, 85 km/h",9,FRA,12,16,,9,,1,85,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,56,30:38,30:48,17 - 13,4
 50,FRA - MNE,31:17,1877,2,VUJACIC R Shot centre 9m saved bottom right,26,MNE,16,12,,,26,0,,bottom right,centre 9m,,1,bottom,right,,,,,,,FALSE,0,0,6,MNE,57,30:48,31:17,17 - 13,4
-50,FRA - MNE,31:17,1877,2,VUJACIC R Shot centre 9m saved bottom right,26,MNE,16,12,,,26,0,,bottom right,centre 9m,,1,bottom,right,,,,,,,FALSE,0,0,6,MNE,57,30:48,31:17,17 - 13,4
-50,FRA - MNE,31:23,1883,2,"NAHI D Goal fast break bottom right (12 GERARD V), 62 km/h",31,FRA,12,16,12,31,,1,62,bottom right,fast break,,,bottom,right,,,,,,,TRUE,0,0,6,FRA,58,31:17,31:23,18 - 13,5
 50,FRA - MNE,31:23,1883,2,"NAHI D Goal fast break bottom right (12 GERARD V), 62 km/h",31,FRA,12,16,12,31,,1,62,bottom right,fast break,,,bottom,right,,,,,,,TRUE,0,0,6,FRA,58,31:17,31:23,18 - 13,5
 50,FRA - MNE,31:50,1910,2,BOZOVIC M Turnover,24,MNE,16,12,,,,0,,"","",,,"","",,,24,,,,FALSE,0,0,6,MNE,59,31:23,31:50,18 - 13,5
-50,FRA - MNE,31:50,1910,2,BOZOVIC M Turnover,24,MNE,16,12,,,,0,,"","",,,"","",,,24,,,,FALSE,0,0,6,MNE,59,31:23,31:50,18 - 13,5
-50,FRA - MNE,32:18,1938,2,REMILI N Shot centre 9m saved bottom left,5,FRA,12,16,,,5,0,,bottom left,centre 9m,,1,bottom,left,,,,,,,TRUE,0,0,6,FRA,60,31:50,32:18,18 - 13,5
 50,FRA - MNE,32:18,1938,2,REMILI N Shot centre 9m saved bottom left,5,FRA,12,16,,,5,0,,bottom left,centre 9m,,1,bottom,left,,,,,,,TRUE,0,0,6,FRA,60,31:50,32:18,18 - 13,5
 50,FRA - MNE,33:05,1985,2,"VUJOVIC B Goal centre 9m bottom left, 98 km/h",11,MNE,16,12,,11,,1,98,bottom left,centre 9m,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,61,32:18,33:05,18 - 14,4
-50,FRA - MNE,33:05,1985,2,"VUJOVIC B Goal centre 9m bottom left, 98 km/h",11,MNE,16,12,,11,,1,98,bottom left,centre 9m,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,61,32:18,33:05,18 - 14,4
-50,FRA - MNE,33:16,1996,2,"PRANDI E Goal breakthrough bottom left, 86 km/h",8,FRA,12,16,,8,,1,86,bottom left,breakthrough,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,62,33:05,33:16,19 - 14,5
-50,FRA - MNE,33:16,1996,2,VUJOVIC S 2-minutes suspension,20,MNE,16,12,,,,0,,"","",,,"","",,,,,,20,FALSE,0,0,6,FRA,62,33:05,33:16,19 - 14,5
-50,FRA - MNE,33:23,2003,2,SEVALJEVIC Vfor 16 SIMIC N Empty goal,21,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,62,33:05,33:16,19 - 14,5
-50,FRA - MNE,33:54,2034,2,SIMIC Nfor 13 RADOVIC M Goalkeeper back,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,FRA,62,33:05,33:16,19 - 14,5
 50,FRA - MNE,33:16,1996,2,"PRANDI E Goal breakthrough bottom left, 86 km/h",8,FRA,12,16,,8,,1,86,bottom left,breakthrough,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,62,33:05,33:16,19 - 14,5
 50,FRA - MNE,33:16,1996,2,VUJOVIC S 2-minutes suspension,20,MNE,16,12,,,,0,,"","",,,"","",,,,,,20,FALSE,0,0,6,FRA,62,33:05,33:16,19 - 14,5
 50,FRA - MNE,33:23,2003,2,SEVALJEVIC Vfor 16 SIMIC N Empty goal,21,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,62,33:05,33:16,19 - 14,5
@@ -9252,17 +9158,8 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 50,FRA - MNE,33:55,2035,2,PRANDI E 2-minutes suspension,8,FRA,12,16,,,,0,,"","",,,"","",,,,,,8,TRUE,0,0,6,MNE,63,33:16,33:55,19 - 14,5
 50,FRA - MNE,33:55,2035,2,LAZOVIC V 7m received,8,MNE,16,12,,,,0,,"","",,,"","",,8,,,,,FALSE,-1,0,5,MNE,63,33:16,33:55,19 - 14,5
 50,FRA - MNE,33:55,2035,2,SEVALJEVIC V Penalty shot saved middle right,21,MNE,16,12,,,21,0,,middle right,Penalty,,1,middle,right,,,,,,,FALSE,-1,0,5,MNE,63,33:16,33:55,19 - 14,5
-50,FRA - MNE,33:55,2035,2,PRANDI E 7m caused,8,FRA,12,16,,,,0,,"","",,,"","",8,,,,,,TRUE,0,0,6,MNE,63,33:16,33:55,19 - 14,5
-50,FRA - MNE,33:55,2035,2,PRANDI E 2-minutes suspension,8,FRA,12,16,,,,0,,"","",,,"","",,,,,,8,TRUE,0,0,6,MNE,63,33:16,33:55,19 - 14,5
-50,FRA - MNE,33:55,2035,2,LAZOVIC V 7m received,8,MNE,16,12,,,,0,,"","",,,"","",,8,,,,,FALSE,-1,0,5,MNE,63,33:16,33:55,19 - 14,5
-50,FRA - MNE,33:55,2035,2,SEVALJEVIC V Penalty shot saved middle right,21,MNE,16,12,,,21,0,,middle right,Penalty,,1,middle,right,,,,,,,FALSE,-1,0,5,MNE,63,33:16,33:55,19 - 14,5
 50,FRA - MNE,34:29,2069,2,FABREGAS L Shot centre 6m saved middle left,23,FRA,12,16,,,23,0,,middle left,centre 6m,,1,middle,left,,,,,,,TRUE,-1,0,5,FRA,64,33:55,34:29,19 - 14,5
 50,FRA - MNE,34:43,2083,2,VUJOVIC Bfor 16 SIMIC N Empty goal,11,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,64,33:55,34:29,19 - 14,5
-50,FRA - MNE,34:29,2069,2,FABREGAS L Shot centre 6m saved middle left,23,FRA,12,16,,,23,0,,middle left,centre 6m,,1,middle,left,,,,,,,TRUE,-1,0,5,FRA,64,33:55,34:29,19 - 14,5
-50,FRA - MNE,34:43,2083,2,VUJOVIC Bfor 16 SIMIC N Empty goal,11,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,64,33:55,34:29,19 - 14,5
-50,FRA - MNE,34:52,2092,2,"VUJOVIC B Goal right 6m top left, 90 km/h",11,MNE,Empty goal,12,,11,,1,90,top left,right 6m,,,top,left,,,,,,,FALSE,-1,1,6,MNE,65,34:29,34:52,19 - 15,4
-50,FRA - MNE,34:54,2094,2,SIMIC Nfor 13 RADOVIC M Goalkeeper back,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,MNE,65,34:29,34:52,19 - 15,4
-50,FRA - MNE,35:08,2108,2,KARABATIC Nfor 12 GERARD V Empty goal,13,FRA,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,MNE,65,34:29,34:52,19 - 15,4
 50,FRA - MNE,34:52,2092,2,"VUJOVIC B Goal right 6m top left, 90 km/h",11,MNE,Empty goal,12,,11,,1,90,top left,right 6m,,,top,left,,,,,,,FALSE,-1,1,6,MNE,65,34:29,34:52,19 - 15,4
 50,FRA - MNE,34:54,2094,2,SIMIC Nfor 13 RADOVIC M Goalkeeper back,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,MNE,65,34:29,34:52,19 - 15,4
 50,FRA - MNE,35:08,2108,2,KARABATIC Nfor 12 GERARD V Empty goal,13,FRA,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,MNE,65,34:29,34:52,19 - 15,4
@@ -9270,17 +9167,7 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 50,FRA - MNE,35:27,2127,2,VUJACIC R 7m caused,26,MNE,16,Empty goal,,,,0,,"","",,,"","",26,,,,,,FALSE,0,0,6,FRA,66,34:52,35:41,19 - 15,4
 50,FRA - MNE,35:41,2141,2,"RICHARDSON M Goal Penalty shot top left (13 KARABATIC N), 70 km/h",9,FRA,Empty goal,16,13,9,,1,70,top left,Penalty,,,top,left,,,,,,,TRUE,-1,1,6,FRA,66,34:52,35:41,20 - 15,5
 50,FRA - MNE,35:53,2153,2,GERARD Vfor 13 KARABATIC N Goalkeeper back,12,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,FRA,66,34:52,35:41,20 - 15,5
-50,FRA - MNE,35:27,2127,2,KARABATIC N 7m received,13,FRA,Empty goal,16,,,,0,,"","",,,"","",,13,,,,,TRUE,-1,1,6,FRA,66,34:52,35:41,19 - 15,4
-50,FRA - MNE,35:27,2127,2,VUJACIC R 7m caused,26,MNE,16,Empty goal,,,,0,,"","",,,"","",26,,,,,,FALSE,0,0,6,FRA,66,34:52,35:41,19 - 15,4
-50,FRA - MNE,35:41,2141,2,"RICHARDSON M Goal Penalty shot top left (13 KARABATIC N), 70 km/h",9,FRA,Empty goal,16,13,9,,1,70,top left,Penalty,,,top,left,,,,,,,TRUE,-1,1,6,FRA,66,34:52,35:41,20 - 15,5
-50,FRA - MNE,35:53,2153,2,GERARD Vfor 13 KARABATIC N Goalkeeper back,12,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,FRA,66,34:52,35:41,20 - 15,5
 50,FRA - MNE,36:32,2192,2,VUJOVIC B Turnover,11,MNE,16,12,,,,0,,"","",,,"","",,,11,,,,FALSE,0,0,6,MNE,67,35:41,36:32,20 - 15,5
-50,FRA - MNE,36:32,2192,2,VUJOVIC B Turnover,11,MNE,16,12,,,,0,,"","",,,"","",,,11,,,,FALSE,0,0,6,MNE,67,35:41,36:32,20 - 15,5
-50,FRA - MNE,36:45,2205,2,PRANDI E 7m received,8,FRA,12,16,,,,0,,"","",,,"","",,8,,,,,TRUE,0,0,6,FRA,68,36:32,36:53,20 - 15,5
-50,FRA - MNE,36:45,2205,2,VUJACIC R 7m caused,26,MNE,16,12,,,,0,,"","",,,"","",26,,,,,,FALSE,0,0,6,FRA,68,36:32,36:53,20 - 15,5
-50,FRA - MNE,36:49,2209,2,MATOVIC Nfor 16 SIMIC N Goalkeeper Substitution,1,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,68,36:32,36:53,20 - 15,5
-50,FRA - MNE,36:53,2213,2,"RICHARDSON M Goal Penalty shot bottom left (8 PRANDI E), 88 km/h",9,FRA,12,16,8,9,,1,88,bottom left,Penalty,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,68,36:32,36:53,21 - 15,6
-50,FRA - MNE,37:13,2233,2,SIMIC Nfor 1 MATOVIC N Goalkeeper Substitution,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,68,36:32,36:53,21 - 15,6
 50,FRA - MNE,36:45,2205,2,PRANDI E 7m received,8,FRA,12,16,,,,0,,"","",,,"","",,8,,,,,TRUE,0,0,6,FRA,68,36:32,36:53,20 - 15,5
 50,FRA - MNE,36:45,2205,2,VUJACIC R 7m caused,26,MNE,16,12,,,,0,,"","",,,"","",26,,,,,,FALSE,0,0,6,FRA,68,36:32,36:53,20 - 15,5
 50,FRA - MNE,36:49,2209,2,MATOVIC Nfor 16 SIMIC N Goalkeeper Substitution,1,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,68,36:32,36:53,20 - 15,5
@@ -9289,32 +9176,17 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 50,FRA - MNE,37:41,2261,2,RICHARDSON M 7m caused,9,FRA,12,16,,,,0,,"","",,,"","",9,,,,,,TRUE,0,0,6,MNE,69,36:53,37:49,21 - 15,6
 50,FRA - MNE,37:41,2261,2,LAZOVIC V 7m received,8,MNE,16,12,,,,0,,"","",,,"","",,8,,,,,FALSE,0,0,6,MNE,69,36:53,37:49,21 - 15,6
 50,FRA - MNE,37:49,2269,2,"RADOVIC M Goal Penalty shot middle left (8 LAZOVIC V), 70 km/h",13,MNE,16,12,8,13,,1,70,middle left,Penalty,,,middle,left,,,,,,,FALSE,0,0,6,MNE,69,36:53,37:49,21 - 16,5
-50,FRA - MNE,37:41,2261,2,RICHARDSON M 7m caused,9,FRA,12,16,,,,0,,"","",,,"","",9,,,,,,TRUE,0,0,6,MNE,69,36:53,37:49,21 - 15,6
-50,FRA - MNE,37:41,2261,2,LAZOVIC V 7m received,8,MNE,16,12,,,,0,,"","",,,"","",,8,,,,,FALSE,0,0,6,MNE,69,36:53,37:49,21 - 15,6
-50,FRA - MNE,37:49,2269,2,"RADOVIC M Goal Penalty shot middle left (8 LAZOVIC V), 70 km/h",13,MNE,16,12,8,13,,1,70,middle left,Penalty,,,middle,left,,,,,,,FALSE,0,0,6,MNE,69,36:53,37:49,21 - 16,5
-50,FRA - MNE,38:54,2334,2,"PRANDI E Goal breakthrough top right, 72 km/h",8,FRA,12,16,,8,,1,72,top right,breakthrough,,,top,right,,,,,,,TRUE,0,0,6,FRA,70,37:49,38:54,22 - 16,6
 50,FRA - MNE,38:54,2334,2,"PRANDI E Goal breakthrough top right, 72 km/h",8,FRA,12,16,,8,,1,72,top right,breakthrough,,,top,right,,,,,,,TRUE,0,0,6,FRA,70,37:49,38:54,22 - 16,6
 50,FRA - MNE,39:26,2366,2,FABREGAS L Block,23,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,71,38:54,39:26,22 - 16,6
 50,FRA - MNE,39:26,2366,2,SEVALJEVIC V Shot left 9m blocked,21,MNE,16,12,,,21,0,,blocked,left 9m,,,"","",,,,,,,FALSE,0,0,6,MNE,71,38:54,39:26,22 - 16,6
-50,FRA - MNE,39:26,2366,2,FABREGAS L Block,23,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,71,38:54,39:26,22 - 16,6
-50,FRA - MNE,39:26,2366,2,SEVALJEVIC V Shot left 9m blocked,21,MNE,16,12,,,21,0,,blocked,left 9m,,,"","",,,,,,,FALSE,0,0,6,MNE,71,38:54,39:26,22 - 16,6
 50,FRA - MNE,39:35,2375,2,"PORTE V Goal fast break middle left, 84 km/h",28,FRA,12,16,,28,,1,84,middle left,fast break,,,middle,left,,,,,,,TRUE,0,0,6,FRA,72,39:26,39:35,23 - 16,7
-50,FRA - MNE,39:35,2375,2,"PORTE V Goal fast break middle left, 84 km/h",28,FRA,12,16,,28,,1,84,middle left,fast break,,,middle,left,,,,,,,TRUE,0,0,6,FRA,72,39:26,39:35,23 - 16,7
-50,FRA - MNE,39:46,2386,2,"BAKIC A Goal left wing bottom left, 73 km/h",4,MNE,16,12,,4,,1,73,bottom left,left wing,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,73,39:35,39:46,23 - 17,6
-50,FRA - MNE,40:32,2432,2,VUJACIC R 2-minutes suspension,26,MNE,16,12,,,,0,,"","",,,"","",,,,,,26,FALSE,0,0,6,MNE,73,39:35,39:46,23 - 17,6
 50,FRA - MNE,39:46,2386,2,"BAKIC A Goal left wing bottom left, 73 km/h",4,MNE,16,12,,4,,1,73,bottom left,left wing,,,bottom,left,,,,,,,FALSE,0,0,6,MNE,73,39:35,39:46,23 - 17,6
 50,FRA - MNE,40:32,2432,2,VUJACIC R 2-minutes suspension,26,MNE,16,12,,,,0,,"","",,,"","",,,,,,26,FALSE,0,0,6,MNE,73,39:35,39:46,23 - 17,6
 50,FRA - MNE,40:46,2446,2,PRANDI E Turnover,8,FRA,12,16,,,,0,,"","",,,"","",,,8,,,,TRUE,0,0,6,FRA,74,39:46,40:46,23 - 17,6
 50,FRA - MNE,40:54,2454,2,CEPIC Rfor 16 SIMIC N Empty goal,9,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,74,39:46,40:46,23 - 17,6
 50,FRA - MNE,41:40,2500,2,REMILI N 2-minutes suspension,5,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,5,TRUE,0,0,6,FRA,74,39:46,40:46,23 - 17,6
 50,FRA - MNE,41:54,2514,2,SIMIC Nfor 13 RADOVIC M Goalkeeper back,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,FRA,74,39:46,40:46,23 - 17,6
-50,FRA - MNE,40:46,2446,2,PRANDI E Turnover,8,FRA,12,16,,,,0,,"","",,,"","",,,8,,,,TRUE,0,0,6,FRA,74,39:46,40:46,23 - 17,6
-50,FRA - MNE,40:54,2454,2,CEPIC Rfor 16 SIMIC N Empty goal,9,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,74,39:46,40:46,23 - 17,6
-50,FRA - MNE,41:40,2500,2,REMILI N 2-minutes suspension,5,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,5,TRUE,0,0,6,FRA,74,39:46,40:46,23 - 17,6
-50,FRA - MNE,41:54,2514,2,SIMIC Nfor 13 RADOVIC M Goalkeeper back,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,FRA,74,39:46,40:46,23 - 17,6
 50,FRA - MNE,41:55,2515,2,VUJOVIC B Shot flying throw saved middle right,11,MNE,16,12,,,11,0,,middle right,"",,1,middle,right,,,,,,,FALSE,-1,0,5,MNE,75,40:46,41:55,23 - 17,6
-50,FRA - MNE,41:55,2515,2,VUJOVIC B Shot flying throw saved middle right,11,MNE,16,12,,,11,0,,middle right,"",,1,middle,right,,,,,,,FALSE,-1,0,5,MNE,75,40:46,41:55,23 - 17,6
-50,FRA - MNE,42:00,2520,2,"NAHI D Goal empty goal middle centre, 63 km/h",31,FRA,12,16,,31,,1,63,middle centre,empty goal,,,middle,centre,,,,,,,TRUE,-1,0,5,FRA,76,41:55,42:00,24 - 17,7
 50,FRA - MNE,42:00,2520,2,"NAHI D Goal empty goal middle centre, 63 km/h",31,FRA,12,16,,31,,1,63,middle centre,empty goal,,,middle,centre,,,,,,,TRUE,-1,0,5,FRA,76,41:55,42:00,24 - 17,7
 50,FRA - MNE,42:13,2533,2,Team timeout,"",MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,MNE,77,42:00,42:55,24 - 17,7
 50,FRA - MNE,42:16,2536,2,RADOVIC Mfor 16 SIMIC N Empty goal,13,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,MNE,77,42:00,42:55,24 - 17,7
@@ -9323,19 +9195,7 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 50,FRA - MNE,42:55,2575,2,RADOVIC M Technical Fault,13,MNE,16,12,,,,0,,"","",,,"","",,,,13,,,FALSE,0,0,6,MNE,77,42:00,42:55,24 - 17,7
 50,FRA - MNE,43:13,2593,2,KARABATIC Nfor 12 GERARD V Empty goal,13,FRA,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,-2,1,5,MNE,77,42:00,42:55,24 - 17,7
 50,FRA - MNE,43:31,2611,2,GERARD Vfor 8 PRANDI E Goalkeeper back,12,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,-2,0,4,MNE,77,42:00,42:55,24 - 17,7
-50,FRA - MNE,42:13,2533,2,Team timeout,"",MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,MNE,77,42:00,42:55,24 - 17,7
-50,FRA - MNE,42:16,2536,2,RADOVIC Mfor 16 SIMIC N Empty goal,13,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,MNE,77,42:00,42:55,24 - 17,7
-50,FRA - MNE,42:36,2556,2,SIMIC Nfor 26 VUJACIC R Goalkeeper back,16,MNE,16,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,77,42:00,42:55,24 - 17,7
-50,FRA - MNE,42:45,2565,2,NAHI D 2-minutes suspension,31,FRA,12,16,,,,0,,"","",,,"","",,,,,,31,TRUE,-1,0,5,MNE,77,42:00,42:55,24 - 17,7
-50,FRA - MNE,42:55,2575,2,RADOVIC M Technical Fault,13,MNE,16,12,,,,0,,"","",,,"","",,,,13,,,FALSE,0,0,6,MNE,77,42:00,42:55,24 - 17,7
-50,FRA - MNE,43:13,2593,2,KARABATIC Nfor 12 GERARD V Empty goal,13,FRA,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,-2,1,5,MNE,77,42:00,42:55,24 - 17,7
-50,FRA - MNE,43:31,2611,2,GERARD Vfor 8 PRANDI E Goalkeeper back,12,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,-2,0,4,MNE,77,42:00,42:55,24 - 17,7
 50,FRA - MNE,43:31,2611,2,"RICHARDSON M Goal breakthrough bottom right, 77 km/h",9,FRA,12,16,,9,,1,77,bottom right,breakthrough,,,bottom,right,,,,,,,TRUE,-2,0,4,FRA,78,42:55,43:31,25 - 17,8
-50,FRA - MNE,43:31,2611,2,"RICHARDSON M Goal breakthrough bottom right, 77 km/h",9,FRA,12,16,,9,,1,77,bottom right,breakthrough,,,bottom,right,,,,,,,TRUE,-2,0,4,FRA,78,42:55,43:31,25 - 17,8
-50,FRA - MNE,43:58,2638,2,"CEPIC R Goal flying throw top right (11 VUJOVIC B), 91 km/h",9,MNE,16,12,11,9,,1,91,top right,"",,,top,right,,,,,,,FALSE,0,0,6,MNE,79,43:31,43:58,25 - 18,7
-50,FRA - MNE,44:09,2649,2,PRANDI Efor 12 GERARD V Empty goal,8,FRA,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,MNE,79,43:31,43:58,25 - 18,7
-50,FRA - MNE,44:36,2676,2,CEPIC R 2-minutes suspension,9,MNE,16,Empty goal,,,,0,,"","",,,"","",,,,,,9,FALSE,0,0,6,MNE,79,43:31,43:58,25 - 18,7
-50,FRA - MNE,44:51,2691,2,GERARD Vfor 31 NAHI D Goalkeeper back,12,FRA,12,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,79,43:31,43:58,25 - 18,7
 50,FRA - MNE,43:58,2638,2,"CEPIC R Goal flying throw top right (11 VUJOVIC B), 91 km/h",9,MNE,16,12,11,9,,1,91,top right,"",,,top,right,,,,,,,FALSE,0,0,6,MNE,79,43:31,43:58,25 - 18,7
 50,FRA - MNE,44:09,2649,2,PRANDI Efor 12 GERARD V Empty goal,8,FRA,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,MNE,79,43:31,43:58,25 - 18,7
 50,FRA - MNE,44:36,2676,2,CEPIC R 2-minutes suspension,9,MNE,16,Empty goal,,,,0,,"","",,,"","",,,,,,9,FALSE,0,0,6,MNE,79,43:31,43:58,25 - 18,7
@@ -9343,130 +9203,65 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 50,FRA - MNE,44:54,2694,2,"TOURNAT N Goal centre 6m bottom right (5 REMILI N), 74 km/h",11,FRA,12,16,5,11,,1,74,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,0,6,FRA,80,43:58,44:54,26 - 18,8
 50,FRA - MNE,45:10,2710,2,BOZOVIC Mfor 16 SIMIC N Empty goal,24,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,80,43:58,44:54,26 - 18,8
 50,FRA - MNE,45:42,2742,2,MATOVIC Nfor 25 LASICA M Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,FRA,80,43:58,44:54,26 - 18,8
-50,FRA - MNE,44:54,2694,2,"TOURNAT N Goal centre 6m bottom right (5 REMILI N), 74 km/h",11,FRA,12,16,5,11,,1,74,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,0,6,FRA,80,43:58,44:54,26 - 18,8
-50,FRA - MNE,45:10,2710,2,BOZOVIC Mfor 16 SIMIC N Empty goal,24,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,80,43:58,44:54,26 - 18,8
-50,FRA - MNE,45:42,2742,2,MATOVIC Nfor 25 LASICA M Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,FRA,80,43:58,44:54,26 - 18,8
-50,FRA - MNE,45:42,2742,2,VUJOVIC B Shot centre 9m post,11,MNE,1,12,,,11,0,,post,centre 9m,1,,"","",,,,,,,FALSE,-1,0,5,MNE,81,44:54,45:42,26 - 18,8
-50,FRA - MNE,45:59,2759,2,DESBONNET Rfor 12 GERARD V Goalkeeper Substitution,92,FRA,12,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,81,44:54,45:42,26 - 18,8
 50,FRA - MNE,45:42,2742,2,VUJOVIC B Shot centre 9m post,11,MNE,1,12,,,11,0,,post,centre 9m,1,,"","",,,,,,,FALSE,-1,0,5,MNE,81,44:54,45:42,26 - 18,8
 50,FRA - MNE,45:59,2759,2,DESBONNET Rfor 12 GERARD V Goalkeeper Substitution,92,FRA,12,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,81,44:54,45:42,26 - 18,8
 50,FRA - MNE,46:08,2768,2,"RICHARDSON M Goal right 6m bottom left, 94 km/h",9,FRA,12,1,,9,,1,94,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,82,45:42,46:08,27 - 18,9
 50,FRA - MNE,46:20,2780,2,LASICA Mfor 1 MATOVIC N Empty goal,25,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,82,45:42,46:08,27 - 18,9
 50,FRA - MNE,46:43,2803,2,MATOVIC Nfor 9 CEPIC R Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,82,45:42,46:08,27 - 18,9
-50,FRA - MNE,46:08,2768,2,"RICHARDSON M Goal right 6m bottom left, 94 km/h",9,FRA,12,1,,9,,1,94,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,0,6,FRA,82,45:42,46:08,27 - 18,9
-50,FRA - MNE,46:20,2780,2,LASICA Mfor 1 MATOVIC N Empty goal,25,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,FRA,82,45:42,46:08,27 - 18,9
-50,FRA - MNE,46:43,2803,2,MATOVIC Nfor 9 CEPIC R Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,82,45:42,46:08,27 - 18,9
-50,FRA - MNE,47:02,2822,2,FABREGAS L Steal,23,FRA,12,1,,,,0,,"","",,,"","",,,,,23,,TRUE,0,0,6,MNE,83,46:08,47:02,27 - 18,9
-50,FRA - MNE,47:02,2822,2,VUJOVIC M Turnover,6,MNE,1,12,,,,0,,"","",,,"","",,,6,,,,FALSE,0,0,6,MNE,83,46:08,47:02,27 - 18,9
 50,FRA - MNE,47:02,2822,2,FABREGAS L Steal,23,FRA,12,1,,,,0,,"","",,,"","",,,,,23,,TRUE,0,0,6,MNE,83,46:08,47:02,27 - 18,9
 50,FRA - MNE,47:02,2822,2,VUJOVIC M Turnover,6,MNE,1,12,,,,0,,"","",,,"","",,,6,,,,FALSE,0,0,6,MNE,83,46:08,47:02,27 - 18,9
 50,FRA - MNE,47:49,2869,2,NAHI D Shot centre 6m saved middle right,31,FRA,12,1,,,31,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,0,0,6,FRA,84,47:02,47:49,27 - 18,9
-50,FRA - MNE,47:49,2869,2,NAHI D Shot centre 6m saved middle right,31,FRA,12,1,,,31,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,0,0,6,FRA,84,47:02,47:49,27 - 18,9
-50,FRA - MNE,48:02,2882,2,"BOZOVIC M Goal centre 9m middle left, 104 km/h",24,MNE,1,12,,24,,1,104,middle left,centre 9m,,,middle,left,,,,,,,FALSE,0,0,6,MNE,85,47:49,48:02,27 - 19,8
 50,FRA - MNE,48:02,2882,2,"BOZOVIC M Goal centre 9m middle left, 104 km/h",24,MNE,1,12,,24,,1,104,middle left,centre 9m,,,middle,left,,,,,,,FALSE,0,0,6,MNE,85,47:49,48:02,27 - 19,8
 50,FRA - MNE,48:45,2925,2,"RICHARDSON M Goal right 6m middle left (8 PRANDI E), 95 km/h",9,FRA,12,1,8,9,,1,95,middle left,right 6m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,86,48:02,48:45,28 - 19,9
-50,FRA - MNE,48:45,2925,2,"RICHARDSON M Goal right 6m middle left (8 PRANDI E), 95 km/h",9,FRA,12,1,8,9,,1,95,middle left,right 6m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,86,48:02,48:45,28 - 19,9
 50,FRA - MNE,49:19,2959,2,BOZOVIC M Shot centre 9m saved middle right,24,MNE,1,12,,,24,0,,middle right,centre 9m,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,87,48:45,49:19,28 - 19,9
-50,FRA - MNE,49:19,2959,2,BOZOVIC M Shot centre 9m saved middle right,24,MNE,1,12,,,24,0,,middle right,centre 9m,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,87,48:45,49:19,28 - 19,9
-50,FRA - MNE,49:32,2972,2,Team timeout,"",FRA,12,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,FRA,88,49:19,49:58,28 - 19,9
-50,FRA - MNE,49:58,2998,2,PRANDI E Shot right 6m saved middle left,8,FRA,12,1,,,8,0,,middle left,right 6m,,1,middle,left,,,,,,,TRUE,0,0,6,FRA,88,49:19,49:58,28 - 19,9
-50,FRA - MNE,50:09,3009,2,LAZOVIC Vfor 1 MATOVIC N Empty goal,8,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,88,49:19,49:58,28 - 19,9
 50,FRA - MNE,49:32,2972,2,Team timeout,"",FRA,12,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,FRA,88,49:19,49:58,28 - 19,9
 50,FRA - MNE,49:58,2998,2,PRANDI E Shot right 6m saved middle left,8,FRA,12,1,,,8,0,,middle left,right 6m,,1,middle,left,,,,,,,TRUE,0,0,6,FRA,88,49:19,49:58,28 - 19,9
 50,FRA - MNE,50:09,3009,2,LAZOVIC Vfor 1 MATOVIC N Empty goal,8,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,88,49:19,49:58,28 - 19,9
 50,FRA - MNE,50:27,3027,2,"BOZOVIC M Goal flying throw middle right (11 VUJOVIC B), 92 km/h",24,MNE,Empty goal,12,11,24,,1,92,middle right,"",,,middle,right,,,,,,,FALSE,0,1,7,MNE,89,49:58,50:27,28 - 20,8
 50,FRA - MNE,50:28,3028,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,89,49:58,50:27,28 - 20,8
-50,FRA - MNE,50:27,3027,2,"BOZOVIC M Goal flying throw middle right (11 VUJOVIC B), 92 km/h",24,MNE,Empty goal,12,11,24,,1,92,middle right,"",,,middle,right,,,,,,,FALSE,0,1,7,MNE,89,49:58,50:27,28 - 20,8
-50,FRA - MNE,50:28,3028,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,89,49:58,50:27,28 - 20,8
 50,FRA - MNE,50:42,3042,2,PRANDI E Turnover,8,FRA,12,1,,,,0,,"","",,,"","",,,8,,,,TRUE,0,0,6,FRA,90,50:27,50:42,28 - 20,8
 50,FRA - MNE,50:42,3042,2,BOZOVIC M Steal,24,MNE,1,12,,,,0,,"","",,,"","",,,,,24,,FALSE,0,0,6,FRA,90,50:27,50:42,28 - 20,8
-50,FRA - MNE,50:42,3042,2,PRANDI E Turnover,8,FRA,12,1,,,,0,,"","",,,"","",,,8,,,,TRUE,0,0,6,FRA,90,50:27,50:42,28 - 20,8
-50,FRA - MNE,50:42,3042,2,BOZOVIC M Steal,24,MNE,1,12,,,,0,,"","",,,"","",,,,,24,,FALSE,0,0,6,FRA,90,50:27,50:42,28 - 20,8
-50,FRA - MNE,50:48,3048,2,VUJOVIC M Technical Fault (FB),6,MNE,1,12,,,,0,,"","",,,"","",,,,6,,,FALSE,0,0,6,MNE,91,50:42,50:48,28 - 20,8
 50,FRA - MNE,50:48,3048,2,VUJOVIC M Technical Fault (FB),6,MNE,1,12,,,,0,,"","",,,"","",,,,6,,,FALSE,0,0,6,MNE,91,50:42,50:48,28 - 20,8
 50,FRA - MNE,50:58,3058,2,"LENNE Y Goal right wing middle right, 75 km/h",2,FRA,12,1,,2,,1,75,middle right,right wing,,,middle,right,,,,,,,TRUE,0,0,6,FRA,92,50:48,50:58,29 - 20,9
 50,FRA - MNE,51:10,3070,2,VUJOVIC Bfor 1 MATOVIC N Empty goal,11,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,92,50:48,50:58,29 - 20,9
 50,FRA - MNE,51:36,3096,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,92,50:48,50:58,29 - 20,9
-50,FRA - MNE,50:58,3058,2,"LENNE Y Goal right wing middle right, 75 km/h",2,FRA,12,1,,2,,1,75,middle right,right wing,,,middle,right,,,,,,,TRUE,0,0,6,FRA,92,50:48,50:58,29 - 20,9
-50,FRA - MNE,51:10,3070,2,VUJOVIC Bfor 1 MATOVIC N Empty goal,11,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,92,50:48,50:58,29 - 20,9
-50,FRA - MNE,51:36,3096,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,92,50:48,50:58,29 - 20,9
-50,FRA - MNE,51:42,3102,2,"LASICA M Goal right wing middle left, 95 km/h",25,MNE,1,12,,25,,1,95,middle left,right wing,,,middle,left,,,,,,,FALSE,0,0,6,MNE,93,50:58,51:42,29 - 21,8
 50,FRA - MNE,51:42,3102,2,"LASICA M Goal right wing middle left, 95 km/h",25,MNE,1,12,,25,,1,95,middle left,right wing,,,middle,left,,,,,,,FALSE,0,0,6,MNE,93,50:58,51:42,29 - 21,8
 50,FRA - MNE,51:49,3109,2,REMILI N Shot centre 6m saved middle right,5,FRA,12,1,,,5,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,0,0,6,FRA,94,51:42,51:49,29 - 21,8
-50,FRA - MNE,51:49,3109,2,REMILI N Shot centre 6m saved middle right,5,FRA,12,1,,,5,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,0,0,6,FRA,94,51:42,51:49,29 - 21,8
 50,FRA - MNE,51:55,3115,2,VUJOVIC M Shot fast break saved middle right,6,MNE,1,12,,,6,0,,middle right,fast break,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,95,51:49,51:55,29 - 21,8
-50,FRA - MNE,51:55,3115,2,VUJOVIC M Shot fast break saved middle right,6,MNE,1,12,,,6,0,,middle right,fast break,,1,middle,right,,,,,,,FALSE,0,0,6,MNE,95,51:49,51:55,29 - 21,8
-50,FRA - MNE,52:25,3145,2,PRANDI E Shot centre 9m saved bottom left,8,FRA,12,1,,,8,0,,bottom left,centre 9m,,1,bottom,left,,,,,,,TRUE,0,0,6,FRA,96,51:55,52:25,29 - 21,8
-50,FRA - MNE,52:39,3159,2,VUJOVIC Bfor 1 MATOVIC N Empty goal,11,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,96,51:55,52:25,29 - 21,8
 50,FRA - MNE,52:25,3145,2,PRANDI E Shot centre 9m saved bottom left,8,FRA,12,1,,,8,0,,bottom left,centre 9m,,1,bottom,left,,,,,,,TRUE,0,0,6,FRA,96,51:55,52:25,29 - 21,8
 50,FRA - MNE,52:39,3159,2,VUJOVIC Bfor 1 MATOVIC N Empty goal,11,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,96,51:55,52:25,29 - 21,8
 50,FRA - MNE,53:13,3193,2,BRIET T Block,39,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,97,52:25,53:20,29 - 21,8
 50,FRA - MNE,53:13,3193,2,VUJOVIC S Shot centre 9m blocked,20,MNE,Empty goal,12,,,20,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,1,7,MNE,97,52:25,53:20,29 - 21,8
 50,FRA - MNE,53:14,3194,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,97,52:25,53:20,29 - 21,8
 50,FRA - MNE,53:20,3200,2,"LAZOVIC V Goal centre 6m middle left, 69 km/h",8,MNE,1,12,,8,,1,69,middle left,centre 6m,,,middle,left,,,,,,,FALSE,0,0,6,MNE,97,52:25,53:20,29 - 22,7
-50,FRA - MNE,53:13,3193,2,BRIET T Block,39,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,97,52:25,53:20,29 - 21,8
-50,FRA - MNE,53:13,3193,2,VUJOVIC S Shot centre 9m blocked,20,MNE,Empty goal,12,,,20,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,1,7,MNE,97,52:25,53:20,29 - 21,8
-50,FRA - MNE,53:14,3194,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,97,52:25,53:20,29 - 21,8
-50,FRA - MNE,53:20,3200,2,"LAZOVIC V Goal centre 6m middle left, 69 km/h",8,MNE,1,12,,8,,1,69,middle left,centre 6m,,,middle,left,,,,,,,FALSE,0,0,6,MNE,97,52:25,53:20,29 - 22,7
-50,FRA - MNE,53:40,3220,2,"LENNE Y Goal left 6m middle left (8 PRANDI E), 84 km/h",2,FRA,12,1,8,2,,1,84,middle left,left 6m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,98,53:20,53:40,30 - 22,8
-50,FRA - MNE,53:48,3228,2,VUJOVIC Bfor 1 MATOVIC N Empty goal,11,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,98,53:20,53:40,30 - 22,8
 50,FRA - MNE,53:40,3220,2,"LENNE Y Goal left 6m middle left (8 PRANDI E), 84 km/h",2,FRA,12,1,8,2,,1,84,middle left,left 6m,,,middle,left,,,,,,,TRUE,0,0,6,FRA,98,53:20,53:40,30 - 22,8
 50,FRA - MNE,53:48,3228,2,VUJOVIC Bfor 1 MATOVIC N Empty goal,11,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,98,53:20,53:40,30 - 22,8
 50,FRA - MNE,54:26,3266,2,BRIET T Block,39,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,99,53:40,54:26,30 - 22,8
 50,FRA - MNE,54:26,3266,2,VUJOVIC S Shot centre 9m blocked,20,MNE,Empty goal,12,,,20,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,1,7,MNE,99,53:40,54:26,30 - 22,8
-50,FRA - MNE,54:26,3266,2,BRIET T Block,39,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,99,53:40,54:26,30 - 22,8
-50,FRA - MNE,54:26,3266,2,VUJOVIC S Shot centre 9m blocked,20,MNE,Empty goal,12,,,20,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,1,7,MNE,99,53:40,54:26,30 - 22,8
 50,FRA - MNE,54:31,3271,2,"NAHI D Goal empty goal middle centre, 71 km/h",31,FRA,12,Empty goal,,31,,1,71,middle centre,empty goal,,,middle,centre,,,,,,,TRUE,0,0,6,FRA,100,54:26,54:31,31 - 22,9
-50,FRA - MNE,54:31,3271,2,"NAHI D Goal empty goal middle centre, 71 km/h",31,FRA,12,Empty goal,,31,,1,71,middle centre,empty goal,,,middle,centre,,,,,,,TRUE,0,0,6,FRA,100,54:26,54:31,31 - 22,9
-50,FRA - MNE,54:31,3271,2,Team timeout,"",MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,MNE,101,54:31,54:49,31 - 22,9
-50,FRA - MNE,54:49,3289,2,"BAKIC A Goal left wing top left, 77 km/h",4,MNE,Empty goal,12,,4,,1,77,top left,left wing,,,top,left,,,,,,,FALSE,0,1,7,MNE,101,54:31,54:49,31 - 23,8
-50,FRA - MNE,54:50,3290,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,101,54:31,54:49,31 - 23,8
 50,FRA - MNE,54:31,3271,2,Team timeout,"",MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,MNE,101,54:31,54:49,31 - 22,9
 50,FRA - MNE,54:49,3289,2,"BAKIC A Goal left wing top left, 77 km/h",4,MNE,Empty goal,12,,4,,1,77,top left,left wing,,,top,left,,,,,,,FALSE,0,1,7,MNE,101,54:31,54:49,31 - 23,8
 50,FRA - MNE,54:50,3290,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,101,54:31,54:49,31 - 23,8
 50,FRA - MNE,54:58,3298,2,"BRIET T Goal centre 6m top left, 97 km/h",39,FRA,12,1,,39,,1,97,top left,centre 6m,,,top,left,,,,,,,TRUE,0,0,6,FRA,102,54:49,54:58,32 - 23,9
 50,FRA - MNE,55:07,3307,2,VUJOVIC Bfor 1 MATOVIC N Empty goal,11,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,102,54:49,54:58,32 - 23,9
 50,FRA - MNE,55:37,3337,2,MATOVIC Nfor 10 CORSOVIC M Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,102,54:49,54:58,32 - 23,9
-50,FRA - MNE,54:58,3298,2,"BRIET T Goal centre 6m top left, 97 km/h",39,FRA,12,1,,39,,1,97,top left,centre 6m,,,top,left,,,,,,,TRUE,0,0,6,FRA,102,54:49,54:58,32 - 23,9
-50,FRA - MNE,55:07,3307,2,VUJOVIC Bfor 1 MATOVIC N Empty goal,11,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,102,54:49,54:58,32 - 23,9
-50,FRA - MNE,55:37,3337,2,MATOVIC Nfor 10 CORSOVIC M Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,102,54:49,54:58,32 - 23,9
 50,FRA - MNE,55:39,3339,2,PRANDI E Steal,8,FRA,12,1,,,,0,,"","",,,"","",,,,,8,,TRUE,0,0,6,MNE,103,54:58,55:39,32 - 23,9
 50,FRA - MNE,55:39,3339,2,ANDJELIC B Turnover,32,MNE,1,12,,,,0,,"","",,,"","",,,32,,,,FALSE,0,0,6,MNE,103,54:58,55:39,32 - 23,9
-50,FRA - MNE,55:39,3339,2,PRANDI E Steal,8,FRA,12,1,,,,0,,"","",,,"","",,,,,8,,TRUE,0,0,6,MNE,103,54:58,55:39,32 - 23,9
-50,FRA - MNE,55:39,3339,2,ANDJELIC B Turnover,32,MNE,1,12,,,,0,,"","",,,"","",,,32,,,,FALSE,0,0,6,MNE,103,54:58,55:39,32 - 23,9
-50,FRA - MNE,55:45,3345,2,"LENNE Y Goal fast break middle left (8 PRANDI E), 70 km/h",2,FRA,12,1,8,2,,1,70,middle left,fast break,,,middle,left,,,,,,,TRUE,0,0,6,FRA,104,55:39,55:45,33 - 23,10
-50,FRA - MNE,55:55,3355,2,CORSOVIC Mfor 1 MATOVIC N Empty goal,10,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,104,55:39,55:45,33 - 23,10
 50,FRA - MNE,55:45,3345,2,"LENNE Y Goal fast break middle left (8 PRANDI E), 70 km/h",2,FRA,12,1,8,2,,1,70,middle left,fast break,,,middle,left,,,,,,,TRUE,0,0,6,FRA,104,55:39,55:45,33 - 23,10
 50,FRA - MNE,55:55,3355,2,CORSOVIC Mfor 1 MATOVIC N Empty goal,10,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,104,55:39,55:45,33 - 23,10
 50,FRA - MNE,56:23,3383,2,NAHI D 7m caused,31,FRA,12,Empty goal,,,,0,,"","",,,"","",31,,,,,,TRUE,0,0,6,MNE,105,55:45,56:30,33 - 23,10
 50,FRA - MNE,56:23,3383,2,CORSOVIC M 7m received,10,MNE,Empty goal,12,,,,0,,"","",,,"","",,10,,,,,FALSE,0,1,7,MNE,105,55:45,56:30,33 - 23,10
 50,FRA - MNE,56:28,3388,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,105,55:45,56:30,33 - 23,10
 50,FRA - MNE,56:30,3390,2,RADOVIC M Penalty shot saved middle left,13,MNE,1,12,,,13,0,,middle left,Penalty,,1,middle,left,,,,,,,FALSE,0,0,6,MNE,105,55:45,56:30,33 - 23,10
-50,FRA - MNE,56:23,3383,2,NAHI D 7m caused,31,FRA,12,Empty goal,,,,0,,"","",,,"","",31,,,,,,TRUE,0,0,6,MNE,105,55:45,56:30,33 - 23,10
-50,FRA - MNE,56:23,3383,2,CORSOVIC M 7m received,10,MNE,Empty goal,12,,,,0,,"","",,,"","",,10,,,,,FALSE,0,1,7,MNE,105,55:45,56:30,33 - 23,10
-50,FRA - MNE,56:28,3388,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,MNE,105,55:45,56:30,33 - 23,10
-50,FRA - MNE,56:30,3390,2,RADOVIC M Penalty shot saved middle left,13,MNE,1,12,,,13,0,,middle left,Penalty,,1,middle,left,,,,,,,FALSE,0,0,6,MNE,105,55:45,56:30,33 - 23,10
-50,FRA - MNE,57:35,3455,2,"BRIET T Goal centre 9m top right, 98 km/h",39,FRA,12,1,,39,,1,98,top right,centre 9m,,,top,right,,,,,,,TRUE,0,0,6,FRA,106,56:30,57:35,34 - 23,11
 50,FRA - MNE,57:35,3455,2,"BRIET T Goal centre 9m top right, 98 km/h",39,FRA,12,1,,39,,1,98,top right,centre 9m,,,top,right,,,,,,,TRUE,0,0,6,FRA,106,56:30,57:35,34 - 23,11
 50,FRA - MNE,57:43,3463,2,CORSOVIC M Technical Fault,10,MNE,1,12,,,,0,,"","",,,"","",,,,10,,,FALSE,0,0,6,MNE,107,57:35,57:43,34 - 23,11
-50,FRA - MNE,57:43,3463,2,CORSOVIC M Technical Fault,10,MNE,1,12,,,,0,,"","",,,"","",,,,10,,,FALSE,0,0,6,MNE,107,57:35,57:43,34 - 23,11
-50,FRA - MNE,58:07,3487,2,BRIET T Shot left 6m saved top right,39,FRA,12,1,,,39,0,,top right,left 6m,,1,top,right,,,,,,,TRUE,0,0,6,FRA,108,57:43,58:07,34 - 23,11
-50,FRA - MNE,58:27,3507,2,CEPIC Rfor 1 MATOVIC N Empty goal,9,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,108,57:43,58:07,34 - 23,11
 50,FRA - MNE,58:07,3487,2,BRIET T Shot left 6m saved top right,39,FRA,12,1,,,39,0,,top right,left 6m,,1,top,right,,,,,,,TRUE,0,0,6,FRA,108,57:43,58:07,34 - 23,11
 50,FRA - MNE,58:27,3507,2,CEPIC Rfor 1 MATOVIC N Empty goal,9,MNE,Empty goal,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,FRA,108,57:43,58:07,34 - 23,11
 50,FRA - MNE,58:41,3521,2,TOURNAT N Block,11,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,109,58:07,58:41,34 - 23,11
 50,FRA - MNE,58:41,3521,2,CEPIC R Shot centre 9m blocked,9,MNE,Empty goal,12,,,9,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,1,7,MNE,109,58:07,58:41,34 - 23,11
-50,FRA - MNE,58:41,3521,2,TOURNAT N Block,11,FRA,12,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,MNE,109,58:07,58:41,34 - 23,11
-50,FRA - MNE,58:41,3521,2,CEPIC R Shot centre 9m blocked,9,MNE,Empty goal,12,,,9,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,0,1,7,MNE,109,58:07,58:41,34 - 23,11
-50,FRA - MNE,58:55,3535,2,"DESBONNET R Goal empty goal top centre, 75 km/h",92,FRA,12,Empty goal,,92,,1,75,top centre,empty goal,,,top,centre,,,,,,,TRUE,0,0,6,FRA,110,58:41,58:55,35 - 23,12
-50,FRA - MNE,59:06,3546,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,110,58:41,58:55,35 - 23,12
 50,FRA - MNE,58:55,3535,2,"DESBONNET R Goal empty goal top centre, 75 km/h",92,FRA,12,Empty goal,,92,,1,75,top centre,empty goal,,,top,centre,,,,,,,TRUE,0,0,6,FRA,110,58:41,58:55,35 - 23,12
 50,FRA - MNE,59:06,3546,2,MATOVIC Nfor 11 VUJOVIC B Goalkeeper back,1,MNE,1,12,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,FRA,110,58:41,58:55,35 - 23,12
 50,FRA - MNE,59:07,3547,2,ANDJELIC B Goal centre 9m middle left,32,MNE,1,12,,32,,1,,middle left,centre 9m,,,middle,left,,,,,,,FALSE,0,0,6,MNE,111,58:55,59:07,35 - 24,11
-50,FRA - MNE,59:07,3547,2,ANDJELIC B Goal centre 9m middle left,32,MNE,1,12,,32,,1,,middle left,centre 9m,,,middle,left,,,,,,,FALSE,0,0,6,MNE,111,58:55,59:07,35 - 24,11
-50,FRA - MNE,59:49,3589,2,TOURNAT N 7m received,11,FRA,12,1,,,,0,,"","",,,"","",,11,,,,,TRUE,0,0,6,FRA,112,59:07,60:00,35 - 24,11
-50,FRA - MNE,59:49,3589,2,CORSOVIC M 7m caused,10,MNE,1,12,,,,0,,"","",,,"","",10,,,,,,FALSE,0,0,6,FRA,112,59:07,60:00,35 - 24,11
-50,FRA - MNE,60:00,3600,2,RICHARDSON M Penalty shot saved middle left,9,FRA,12,1,,,9,0,,middle left,Penalty,,1,middle,left,,,,,,,TRUE,0,0,6,FRA,112,59:07,60:00,35 - 24,11
 50,FRA - MNE,59:49,3589,2,TOURNAT N 7m received,11,FRA,12,1,,,,0,,"","",,,"","",,11,,,,,TRUE,0,0,6,FRA,112,59:07,60:00,35 - 24,11
 50,FRA - MNE,59:49,3589,2,CORSOVIC M 7m caused,10,MNE,1,12,,,,0,,"","",,,"","",10,,,,,,FALSE,0,0,6,FRA,112,59:07,60:00,35 - 24,11
 50,FRA - MNE,60:00,3600,2,RICHARDSON M Penalty shot saved middle left,9,FRA,12,1,,,9,0,,middle left,Penalty,,1,middle,left,,,,,,,TRUE,0,0,6,FRA,112,59:07,60:00,35 - 24,11
@@ -10337,94 +10132,47 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 56,CPV - ISL,0:00,0,1,GONCALVES E Goalkeeper,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,ISL,1,"","",0 - 0,0
 56,CPV - ISL,0:00,0,1,HALLGRIMSSON V Goalkeeper,16,ISL,16,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,ISL,1,"","",0 - 0,0
 56,CPV - ISL,0:40,40,1,"PALMARSSON A Goal centre 6m bottom right (14 MAGNUSSON O), 90 km/h",4,ISL,16,16,14,4,,1,90,bottom right,centre 6m,,,bottom,right,,,,,,,FALSE,0,0,6,ISL,1,0:00,0:40,0 - 1,-1
-56,CPV - ISL,0:00,0,1,GONCALVES E Goalkeeper,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,ISL,1,"","",0 - 0,0
-56,CPV - ISL,0:00,0,1,HALLGRIMSSON V Goalkeeper,16,ISL,16,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,ISL,1,"","",0 - 0,0
-56,CPV - ISL,0:40,40,1,"PALMARSSON A Goal centre 6m bottom right (14 MAGNUSSON O), 90 km/h",4,ISL,16,16,14,4,,1,90,bottom right,centre 6m,,,bottom,right,,,,,,,FALSE,0,0,6,ISL,1,0:00,0:40,0 - 1,-1
-56,CPV - ISL,1:20,80,1,FURTADO G Shot left 6m saved middle right,44,CPV,16,16,,,44,0,,middle right,left 6m,,1,middle,right,,,,,,,TRUE,0,0,6,CPV,2,0:40,1:20,0 - 1,-1
 56,CPV - ISL,1:20,80,1,FURTADO G Shot left 6m saved middle right,44,CPV,16,16,,,44,0,,middle right,left 6m,,1,middle,right,,,,,,,TRUE,0,0,6,CPV,2,0:40,1:20,0 - 1,-1
 56,CPV - ISL,1:54,114,1,"RIKHARDSSON O Goal right wing middle left (14 MAGNUSSON O), 84 km/h",2,ISL,16,16,14,2,,1,84,middle left,right wing,,,middle,left,,,,,,,FALSE,0,0,6,ISL,3,1:20,1:54,0 - 2,-2
 56,CPV - ISL,2:18,138,1,GISLASON Y Warning (yellow card),11,ISL,16,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ISL,3,1:20,1:54,0 - 2,-2
-56,CPV - ISL,1:54,114,1,"RIKHARDSSON O Goal right wing middle left (14 MAGNUSSON O), 84 km/h",2,ISL,16,16,14,2,,1,84,middle left,right wing,,,middle,left,,,,,,,FALSE,0,0,6,ISL,3,1:20,1:54,0 - 2,-2
-56,CPV - ISL,2:18,138,1,GISLASON Y Warning (yellow card),11,ISL,16,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ISL,3,1:20,1:54,0 - 2,-2
 56,CPV - ISL,2:41,161,1,MORENO P Technical Fault,13,CPV,16,16,,,,0,,"","",,,"","",,,,13,,,TRUE,0,0,6,CPV,4,1:54,2:41,0 - 2,-2
-56,CPV - ISL,2:41,161,1,MORENO P Technical Fault,13,CPV,16,16,,,,0,,"","",,,"","",,,,13,,,TRUE,0,0,6,CPV,4,1:54,2:41,0 - 2,-2
-56,CPV - ISL,3:07,187,1,KRISTJANSSON G Goal centre 9m top right (14 MAGNUSSON O),10,ISL,16,16,14,10,,1,,top right,centre 9m,,,top,right,,,,,,,FALSE,0,0,6,ISL,5,2:41,3:07,0 - 3,-3
-56,CPV - ISL,3:14,194,1,PALMARSSON A 2-minutes suspension,4,ISL,16,16,,,,0,,"","",,,"","",,,,,,4,FALSE,0,0,6,ISL,5,2:41,3:07,0 - 3,-3
 56,CPV - ISL,3:07,187,1,KRISTJANSSON G Goal centre 9m top right (14 MAGNUSSON O),10,ISL,16,16,14,10,,1,,top right,centre 9m,,,top,right,,,,,,,FALSE,0,0,6,ISL,5,2:41,3:07,0 - 3,-3
 56,CPV - ISL,3:14,194,1,PALMARSSON A 2-minutes suspension,4,ISL,16,16,,,,0,,"","",,,"","",,,,,,4,FALSE,0,0,6,ISL,5,2:41,3:07,0 - 3,-3
 56,CPV - ISL,4:06,246,1,"FURTADO A Goal right wing top left (6 SEMEDO L), 70 km/h",19,CPV,16,16,6,19,,1,70,top left,right wing,,,top,left,,,,,,,TRUE,0,0,6,CPV,6,3:07,4:06,1 - 3,-2
 56,CPV - ISL,4:15,255,1,SMARASON Jfor 16 HALLGRIMSSON V Empty goal,3,ISL,Empty goal,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,CPV,6,3:07,4:06,1 - 3,-2
 56,CPV - ISL,4:58,298,1,HALLGRIMSSON Vfor 3 SMARASON J Goalkeeper back,16,ISL,16,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,CPV,6,3:07,4:06,1 - 3,-2
-56,CPV - ISL,4:06,246,1,"FURTADO A Goal right wing top left (6 SEMEDO L), 70 km/h",19,CPV,16,16,6,19,,1,70,top left,right wing,,,top,left,,,,,,,TRUE,0,0,6,CPV,6,3:07,4:06,1 - 3,-2
-56,CPV - ISL,4:15,255,1,SMARASON Jfor 16 HALLGRIMSSON V Empty goal,3,ISL,Empty goal,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,CPV,6,3:07,4:06,1 - 3,-2
-56,CPV - ISL,4:58,298,1,HALLGRIMSSON Vfor 3 SMARASON J Goalkeeper back,16,ISL,16,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,CPV,6,3:07,4:06,1 - 3,-2
-56,CPV - ISL,5:03,303,1,RIKHARDSSON O Shot right 6m saved middle left,2,ISL,16,16,,,2,0,,middle left,right 6m,,1,middle,left,,,,,,,FALSE,-1,0,5,ISL,7,4:06,5:03,1 - 3,-2
 56,CPV - ISL,5:03,303,1,RIKHARDSSON O Shot right 6m saved middle left,2,ISL,16,16,,,2,0,,middle left,right 6m,,1,middle,left,,,,,,,FALSE,-1,0,5,ISL,7,4:06,5:03,1 - 3,-2
 56,CPV - ISL,5:43,343,1,LANDIM B Technical Fault,10,CPV,16,16,,,,0,,"","",,,"","",,,,10,,,TRUE,0,0,6,CPV,8,5:03,5:43,1 - 3,-2
-56,CPV - ISL,5:43,343,1,LANDIM B Technical Fault,10,CPV,16,16,,,,0,,"","",,,"","",,,,10,,,TRUE,0,0,6,CPV,8,5:03,5:43,1 - 3,-2
-56,CPV - ISL,5:58,358,1,"ELISSON B Goal fast break middle right (4 PALMARSSON A), 70 km/h",8,ISL,16,16,4,8,,1,70,middle right,fast break,,,middle,right,,,,,,,FALSE,0,0,6,ISL,9,5:43,5:58,1 - 4,-3
 56,CPV - ISL,5:58,358,1,"ELISSON B Goal fast break middle right (4 PALMARSSON A), 70 km/h",8,ISL,16,16,4,8,,1,70,middle right,fast break,,,middle,right,,,,,,,FALSE,0,0,6,ISL,9,5:43,5:58,1 - 4,-3
 56,CPV - ISL,6:36,396,1,"FURTADO G Goal breakthrough middle right, 86 km/h",44,CPV,16,16,,44,,1,86,middle right,breakthrough,,,middle,right,,,,,,,TRUE,0,0,6,CPV,10,5:58,6:36,2 - 4,-2
-56,CPV - ISL,6:36,396,1,"FURTADO G Goal breakthrough middle right, 86 km/h",44,CPV,16,16,,44,,1,86,middle right,breakthrough,,,middle,right,,,,,,,TRUE,0,0,6,CPV,10,5:58,6:36,2 - 4,-2
-56,CPV - ISL,7:05,425,1,"RIKHARDSSON O Goal right wing middle left (14 MAGNUSSON O), 91 km/h",2,ISL,16,16,14,2,,1,91,middle left,right wing,,,middle,left,,,,,,,FALSE,0,0,6,ISL,11,6:36,7:05,2 - 5,-3
 56,CPV - ISL,7:05,425,1,"RIKHARDSSON O Goal right wing middle left (14 MAGNUSSON O), 91 km/h",2,ISL,16,16,14,2,,1,91,middle left,right wing,,,middle,left,,,,,,,FALSE,0,0,6,ISL,11,6:36,7:05,2 - 5,-3
 56,CPV - ISL,7:16,436,1,LANDIM B Turnover,10,CPV,16,16,,,,0,,"","",,,"","",,,10,,,,TRUE,0,0,6,CPV,12,7:05,7:16,2 - 5,-3
-56,CPV - ISL,7:16,436,1,LANDIM B Turnover,10,CPV,16,16,,,,0,,"","",,,"","",,,10,,,,TRUE,0,0,6,CPV,12,7:05,7:16,2 - 5,-3
-56,CPV - ISL,7:22,442,1,"RIKHARDSSON O Goal fast break bottom right, 91 km/h",2,ISL,16,16,,2,,1,91,bottom right,fast break,,,bottom,right,,,,,,,FALSE,0,0,6,ISL,13,7:16,7:22,2 - 6,-4
-56,CPV - ISL,7:57,477,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,13,7:16,7:22,2 - 6,-4
 56,CPV - ISL,7:22,442,1,"RIKHARDSSON O Goal fast break bottom right, 91 km/h",2,ISL,16,16,,2,,1,91,bottom right,fast break,,,bottom,right,,,,,,,FALSE,0,0,6,ISL,13,7:16,7:22,2 - 6,-4
 56,CPV - ISL,7:57,477,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,13,7:16,7:22,2 - 6,-4
 56,CPV - ISL,8:10,490,1,LANDIM B 7m received,10,CPV,Empty goal,16,,,,0,,"","",,,"","",,10,,,,,TRUE,0,1,7,CPV,14,7:22,8:24,2 - 6,-4
 56,CPV - ISL,8:10,490,1,PALMARSSON A 7m caused,4,ISL,16,Empty goal,,,,0,,"","",,,"","",4,,,,,,FALSE,0,0,6,CPV,14,7:22,8:24,2 - 6,-4
 56,CPV - ISL,8:16,496,1,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,14,7:22,8:24,2 - 6,-4
 56,CPV - ISL,8:24,504,1,"PINA D Goal Penalty shot bottom left (10 LANDIM B), 83 km/h",3,CPV,16,16,10,3,,1,83,bottom left,Penalty,,,bottom,left,,,,,,,TRUE,0,0,6,CPV,14,7:22,8:24,3 - 6,-3
-56,CPV - ISL,8:10,490,1,LANDIM B 7m received,10,CPV,Empty goal,16,,,,0,,"","",,,"","",,10,,,,,TRUE,0,1,7,CPV,14,7:22,8:24,2 - 6,-4
-56,CPV - ISL,8:10,490,1,PALMARSSON A 7m caused,4,ISL,16,Empty goal,,,,0,,"","",,,"","",4,,,,,,FALSE,0,0,6,CPV,14,7:22,8:24,2 - 6,-4
-56,CPV - ISL,8:16,496,1,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,14,7:22,8:24,2 - 6,-4
-56,CPV - ISL,8:24,504,1,"PINA D Goal Penalty shot bottom left (10 LANDIM B), 83 km/h",3,CPV,16,16,10,3,,1,83,bottom left,Penalty,,,bottom,left,,,,,,,TRUE,0,0,6,CPV,14,7:22,8:24,3 - 6,-3
-56,CPV - ISL,9:29,569,1,"PALMARSSON A Goal centre 9m top right (14 MAGNUSSON O), 96 km/h",4,ISL,16,16,14,4,,1,96,top right,centre 9m,,,top,right,,,,,,,FALSE,0,0,6,ISL,15,8:24,9:29,3 - 7,-4
-56,CPV - ISL,9:38,578,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,15,8:24,9:29,3 - 7,-4
 56,CPV - ISL,9:29,569,1,"PALMARSSON A Goal centre 9m top right (14 MAGNUSSON O), 96 km/h",4,ISL,16,16,14,4,,1,96,top right,centre 9m,,,top,right,,,,,,,FALSE,0,0,6,ISL,15,8:24,9:29,3 - 7,-4
 56,CPV - ISL,9:38,578,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,15,8:24,9:29,3 - 7,-4
 56,CPV - ISL,9:59,599,1,LANDIM F 7m received,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,29,,,,,TRUE,0,1,7,CPV,16,9:29,10:16,3 - 7,-4
 56,CPV - ISL,9:59,599,1,ELISSON B 7m caused,8,ISL,16,Empty goal,,,,0,,"","",,,"","",8,,,,,,FALSE,0,0,6,CPV,16,9:29,10:16,3 - 7,-4
 56,CPV - ISL,10:10,610,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,16,9:29,10:16,3 - 7,-4
 56,CPV - ISL,10:16,616,1,"PINA D Goal Penalty shot bottom centre (29 LANDIM F), 98 km/h",3,CPV,16,16,29,3,,1,98,bottom centre,Penalty,,,bottom,centre,,,,,,,TRUE,0,0,6,CPV,16,9:29,10:16,4 - 7,-3
-56,CPV - ISL,9:59,599,1,LANDIM F 7m received,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,29,,,,,TRUE,0,1,7,CPV,16,9:29,10:16,3 - 7,-4
-56,CPV - ISL,9:59,599,1,ELISSON B 7m caused,8,ISL,16,Empty goal,,,,0,,"","",,,"","",8,,,,,,FALSE,0,0,6,CPV,16,9:29,10:16,3 - 7,-4
-56,CPV - ISL,10:10,610,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,16,9:29,10:16,3 - 7,-4
-56,CPV - ISL,10:16,616,1,"PINA D Goal Penalty shot bottom centre (29 LANDIM F), 98 km/h",3,CPV,16,16,29,3,,1,98,bottom centre,Penalty,,,bottom,centre,,,,,,,TRUE,0,0,6,CPV,16,9:29,10:16,4 - 7,-3
-56,CPV - ISL,10:49,649,1,ELISSON B Shot left wing saved bottom right,8,ISL,16,16,,,8,0,,bottom right,left wing,,1,bottom,right,,,,,,,FALSE,0,0,6,ISL,17,10:16,10:49,4 - 7,-3
-56,CPV - ISL,11:08,668,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,17,10:16,10:49,4 - 7,-3
 56,CPV - ISL,10:49,649,1,ELISSON B Shot left wing saved bottom right,8,ISL,16,16,,,8,0,,bottom right,left wing,,1,bottom,right,,,,,,,FALSE,0,0,6,ISL,17,10:16,10:49,4 - 7,-3
 56,CPV - ISL,11:08,668,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,17,10:16,10:49,4 - 7,-3
 56,CPV - ISL,11:23,683,1,SEMEDO E Turnover,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,30,,,,TRUE,0,1,7,CPV,18,10:49,11:23,4 - 7,-3
 56,CPV - ISL,11:27,687,1,GONCALVES Efor 10 LANDIM B Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,18,10:49,11:23,4 - 7,-3
-56,CPV - ISL,11:23,683,1,SEMEDO E Turnover,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,30,,,,TRUE,0,1,7,CPV,18,10:49,11:23,4 - 7,-3
-56,CPV - ISL,11:27,687,1,GONCALVES Efor 10 LANDIM B Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,18,10:49,11:23,4 - 7,-3
-56,CPV - ISL,11:31,691,1,ELISSON B Goal fast break middle right (14 MAGNUSSON O),8,ISL,16,16,14,8,,1,,middle right,fast break,,,middle,right,,,,,,,FALSE,0,0,6,ISL,19,11:23,11:31,4 - 8,-4
-56,CPV - ISL,11:45,705,1,LANDIM Bfor 16 GONCALVES E Empty goal,10,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,19,11:23,11:31,4 - 8,-4
 56,CPV - ISL,11:31,691,1,ELISSON B Goal fast break middle right (14 MAGNUSSON O),8,ISL,16,16,14,8,,1,,middle right,fast break,,,middle,right,,,,,,,FALSE,0,0,6,ISL,19,11:23,11:31,4 - 8,-4
 56,CPV - ISL,11:45,705,1,LANDIM Bfor 16 GONCALVES E Empty goal,10,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,19,11:23,11:31,4 - 8,-4
 56,CPV - ISL,11:58,718,1,SEMEDO E Goal breakthrough bottom right,30,CPV,Empty goal,16,,30,,1,,bottom right,breakthrough,,,bottom,right,,,,,,,TRUE,0,1,7,CPV,20,11:31,11:58,5 - 8,-3
 56,CPV - ISL,12:02,722,1,GONCALVES Efor 19 FURTADO A Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,20,11:31,11:58,5 - 8,-3
-56,CPV - ISL,11:58,718,1,SEMEDO E Goal breakthrough bottom right,30,CPV,Empty goal,16,,30,,1,,bottom right,breakthrough,,,bottom,right,,,,,,,TRUE,0,1,7,CPV,20,11:31,11:58,5 - 8,-3
-56,CPV - ISL,12:02,722,1,GONCALVES Efor 19 FURTADO A Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,20,11:31,11:58,5 - 8,-3
-56,CPV - ISL,12:08,728,1,MAGNUSSON O Goal breakthrough middle left,14,ISL,16,16,,14,,1,,middle left,breakthrough,,,middle,left,,,,,,,FALSE,0,0,6,ISL,21,11:58,12:08,5 - 9,-4
-56,CPV - ISL,12:29,749,1,SEMEDO Efor 16 GONCALVES E Empty goal,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,21,11:58,12:08,5 - 9,-4
 56,CPV - ISL,12:08,728,1,MAGNUSSON O Goal breakthrough middle left,14,ISL,16,16,,14,,1,,middle left,breakthrough,,,middle,left,,,,,,,FALSE,0,0,6,ISL,21,11:58,12:08,5 - 9,-4
 56,CPV - ISL,12:29,749,1,SEMEDO Efor 16 GONCALVES E Empty goal,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,21,11:58,12:08,5 - 9,-4
 56,CPV - ISL,12:50,770,1,"LANDIM B Goal right 6m bottom left (30 SEMEDO E), 68 km/h",10,CPV,Empty goal,16,30,10,,1,68,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,1,7,CPV,22,12:08,12:50,6 - 9,-3
 56,CPV - ISL,12:56,776,1,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,22,12:08,12:50,6 - 9,-3
-56,CPV - ISL,12:50,770,1,"LANDIM B Goal right 6m bottom left (30 SEMEDO E), 68 km/h",10,CPV,Empty goal,16,30,10,,1,68,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,1,7,CPV,22,12:08,12:50,6 - 9,-3
-56,CPV - ISL,12:56,776,1,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,22,12:08,12:50,6 - 9,-3
 56,CPV - ISL,13:27,807,1,KRISTJANSSON G Technical Fault (FB),10,ISL,16,16,,,,0,,"","",,,"","",,,,10,,,FALSE,0,0,6,ISL,23,12:50,13:27,6 - 9,-3
 56,CPV - ISL,13:35,815,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,23,12:50,13:27,6 - 9,-3
-56,CPV - ISL,13:27,807,1,KRISTJANSSON G Technical Fault (FB),10,ISL,16,16,,,,0,,"","",,,"","",,,,10,,,FALSE,0,0,6,ISL,23,12:50,13:27,6 - 9,-3
-56,CPV - ISL,13:35,815,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,23,12:50,13:27,6 - 9,-3
-56,CPV - ISL,13:59,839,1,LANDIM B Technical Fault,10,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,10,,,TRUE,0,1,7,CPV,24,13:27,14:07,6 - 9,-3
-56,CPV - ISL,14:07,847,1,"LANDIM F Goal left 6m top left, 61 km/h",29,CPV,Empty goal,16,,29,,1,61,top left,left 6m,,,top,left,,,,,,,TRUE,0,1,7,CPV,24,13:27,14:07,7 - 9,-2
-56,CPV - ISL,14:07,847,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,24,13:27,14:07,7 - 9,-2
 56,CPV - ISL,13:59,839,1,LANDIM B Technical Fault,10,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,10,,,TRUE,0,1,7,CPV,24,13:27,14:07,6 - 9,-3
 56,CPV - ISL,14:07,847,1,"LANDIM F Goal left 6m top left, 61 km/h",29,CPV,Empty goal,16,,29,,1,61,top left,left 6m,,,top,left,,,,,,,TRUE,0,1,7,CPV,24,13:27,14:07,7 - 9,-2
 56,CPV - ISL,14:07,847,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,24,13:27,14:07,7 - 9,-2
@@ -10439,69 +10187,31 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 56,CPV - ISL,16:39,999,1,GONCALVES Efor 19 FURTADO A Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ISL,25,14:07,16:00,7 - 11,-4
 56,CPV - ISL,16:42,1002,1,FURTADO Afor 16 GONCALVES E Empty goal,19,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,ISL,25,14:07,16:00,7 - 11,-4
 56,CPV - ISL,16:46,1006,1,GONCALVES Efor 19 FURTADO A Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ISL,25,14:07,16:00,7 - 11,-4
-56,CPV - ISL,14:36,876,1,"SMARASON J Goal left 6m bottom right (14 MAGNUSSON O), 85 km/h",3,ISL,16,16,14,3,,1,85,bottom right,left 6m,,,bottom,right,,,,,,,FALSE,0,0,6,ISL,25,14:07,16:00,7 - 10,-3
-56,CPV - ISL,14:54,894,1,SEMEDO Efor 16 GONCALVES E Empty goal,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,25,14:07,16:00,7 - 10,-3
-56,CPV - ISL,15:09,909,1,MORENO P 2-minutes suspension,13,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,13,TRUE,0,1,7,ISL,25,14:07,16:00,7 - 10,-3
-56,CPV - ISL,15:09,909,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,25,14:07,16:00,7 - 10,-3
-56,CPV - ISL,15:35,935,1,FURTADO A 7m caused,19,CPV,16,16,,,,0,,"","",,,"","",19,,,,,,TRUE,-1,0,5,ISL,25,14:07,16:00,7 - 10,-3
-56,CPV - ISL,15:35,935,1,KRISTJANSSON G 7m received,10,ISL,16,16,,,,0,,"","",,,"","",,10,,,,,FALSE,0,0,6,ISL,25,14:07,16:00,7 - 10,-3
-56,CPV - ISL,16:00,960,1,"MAGNUSSON O Goal Penalty shot bottom centre, 90 km/h",14,ISL,16,16,,14,,1,90,bottom centre,Penalty,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,25,14:07,16:00,7 - 11,-4
-56,CPV - ISL,16:10,970,1,SEMEDO Efor 16 GONCALVES E Empty goal,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,ISL,25,14:07,16:00,7 - 11,-4
-56,CPV - ISL,16:39,999,1,GONCALVES Efor 19 FURTADO A Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ISL,25,14:07,16:00,7 - 11,-4
-56,CPV - ISL,16:42,1002,1,FURTADO Afor 16 GONCALVES E Empty goal,19,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,ISL,25,14:07,16:00,7 - 11,-4
-56,CPV - ISL,16:46,1006,1,GONCALVES Efor 19 FURTADO A Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ISL,25,14:07,16:00,7 - 11,-4
 56,CPV - ISL,16:46,1006,1,PINA D Shot centre 9m missed,3,CPV,16,16,,,3,0,,missed,centre 9m,,,"","",,,,,,,TRUE,-1,0,5,CPV,26,16:00,16:46,7 - 11,-4
-56,CPV - ISL,16:46,1006,1,PINA D Shot centre 9m missed,3,CPV,16,16,,,3,0,,missed,centre 9m,,,"","",,,,,,,TRUE,-1,0,5,CPV,26,16:00,16:46,7 - 11,-4
-56,CPV - ISL,17:11,1031,1,"SMARASON J Goal right 6m bottom left (14 MAGNUSSON O), 95 km/h",3,ISL,16,16,14,3,,1,95,bottom left,right 6m,,,bottom,left,,,,,,,FALSE,0,0,6,ISL,27,16:46,17:11,7 - 12,-5
-56,CPV - ISL,17:25,1045,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,27,16:46,17:11,7 - 12,-5
 56,CPV - ISL,17:11,1031,1,"SMARASON J Goal right 6m bottom left (14 MAGNUSSON O), 95 km/h",3,ISL,16,16,14,3,,1,95,bottom left,right 6m,,,bottom,left,,,,,,,FALSE,0,0,6,ISL,27,16:46,17:11,7 - 12,-5
 56,CPV - ISL,17:25,1045,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,27,16:46,17:11,7 - 12,-5
 56,CPV - ISL,17:50,1070,1,"SEMEDO E Goal centre 9m middle right (17 ANDRADE R), 67 km/h",30,CPV,Empty goal,16,17,30,,1,67,middle right,centre 9m,,,middle,right,,,,,,,TRUE,0,1,7,CPV,28,17:11,17:50,8 - 12,-4
 56,CPV - ISL,18:08,1088,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,28,17:11,17:50,8 - 12,-4
-56,CPV - ISL,17:50,1070,1,"SEMEDO E Goal centre 9m middle right (17 ANDRADE R), 67 km/h",30,CPV,Empty goal,16,17,30,,1,67,middle right,centre 9m,,,middle,right,,,,,,,TRUE,0,1,7,CPV,28,17:11,17:50,8 - 12,-4
-56,CPV - ISL,18:08,1088,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,28,17:11,17:50,8 - 12,-4
-56,CPV - ISL,18:39,1119,1,"SMARASON J Goal right 6m middle left (14 MAGNUSSON O), 103 km/h",3,ISL,16,16,14,3,,1,103,middle left,right 6m,,,middle,left,,,,,,,FALSE,0,0,6,ISL,29,17:50,18:39,8 - 13,-5
-56,CPV - ISL,18:51,1131,1,SEMEDO Efor 16 GONCALVES E Empty goal,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,29,17:50,18:39,8 - 13,-5
 56,CPV - ISL,18:39,1119,1,"SMARASON J Goal right 6m middle left (14 MAGNUSSON O), 103 km/h",3,ISL,16,16,14,3,,1,103,middle left,right 6m,,,middle,left,,,,,,,FALSE,0,0,6,ISL,29,17:50,18:39,8 - 13,-5
 56,CPV - ISL,18:51,1131,1,SEMEDO Efor 16 GONCALVES E Empty goal,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,29,17:50,18:39,8 - 13,-5
 56,CPV - ISL,19:26,1166,1,SEMEDO E Shot centre 9m saved middle left,30,CPV,Empty goal,16,,,30,0,,middle left,centre 9m,,1,middle,left,,,,,,,TRUE,0,1,7,CPV,30,18:39,19:26,8 - 13,-5
 56,CPV - ISL,19:45,1185,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,30,18:39,19:26,8 - 13,-5
-56,CPV - ISL,19:26,1166,1,SEMEDO E Shot centre 9m saved middle left,30,CPV,Empty goal,16,,,30,0,,middle left,centre 9m,,1,middle,left,,,,,,,TRUE,0,1,7,CPV,30,18:39,19:26,8 - 13,-5
-56,CPV - ISL,19:45,1185,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,30,18:39,19:26,8 - 13,-5
-56,CPV - ISL,20:00,1200,1,SMARASON J Shot centre 9m saved bottom right,3,ISL,16,16,,,3,0,,bottom right,centre 9m,,1,bottom,right,,,,,,,FALSE,0,0,6,ISL,31,19:26,20:00,8 - 13,-5
-56,CPV - ISL,20:10,1210,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,31,19:26,20:00,8 - 13,-5
 56,CPV - ISL,20:00,1200,1,SMARASON J Shot centre 9m saved bottom right,3,ISL,16,16,,,3,0,,bottom right,centre 9m,,1,bottom,right,,,,,,,FALSE,0,0,6,ISL,31,19:26,20:00,8 - 13,-5
 56,CPV - ISL,20:10,1210,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,31,19:26,20:00,8 - 13,-5
 56,CPV - ISL,20:50,1250,1,"PINA D Goal left 6m middle right (30 SEMEDO E), 99 km/h",3,CPV,Empty goal,16,30,3,,1,99,middle right,left 6m,,,middle,right,,,,,,,TRUE,0,1,7,CPV,32,20:00,20:50,9 - 13,-4
 56,CPV - ISL,20:56,1256,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,32,20:00,20:50,9 - 13,-4
-56,CPV - ISL,20:50,1250,1,"PINA D Goal left 6m middle right (30 SEMEDO E), 99 km/h",3,CPV,Empty goal,16,30,3,,1,99,middle right,left 6m,,,middle,right,,,,,,,TRUE,0,1,7,CPV,32,20:00,20:50,9 - 13,-4
-56,CPV - ISL,20:56,1256,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,32,20:00,20:50,9 - 13,-4
-56,CPV - ISL,21:12,1272,1,"RIKHARDSSON O Goal right wing middle left (14 MAGNUSSON O), 92 km/h",2,ISL,16,16,14,2,,1,92,middle left,right wing,,,middle,left,,,,,,,FALSE,0,0,6,ISL,33,20:50,21:12,9 - 14,-5
-56,CPV - ISL,21:22,1282,1,SEMEDO Efor 16 GONCALVES E Empty goal,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,33,20:50,21:12,9 - 14,-5
 56,CPV - ISL,21:12,1272,1,"RIKHARDSSON O Goal right wing middle left (14 MAGNUSSON O), 92 km/h",2,ISL,16,16,14,2,,1,92,middle left,right wing,,,middle,left,,,,,,,FALSE,0,0,6,ISL,33,20:50,21:12,9 - 14,-5
 56,CPV - ISL,21:22,1282,1,SEMEDO Efor 16 GONCALVES E Empty goal,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,33,20:50,21:12,9 - 14,-5
 56,CPV - ISL,21:44,1304,1,"PINA D Goal breakthrough bottom right, 53 km/h",3,CPV,Empty goal,16,,3,,1,53,bottom right,breakthrough,,,bottom,right,,,,,,,TRUE,0,1,7,CPV,34,21:12,21:44,10 - 14,-4
 56,CPV - ISL,21:51,1311,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,34,21:12,21:44,10 - 14,-4
-56,CPV - ISL,21:44,1304,1,"PINA D Goal breakthrough bottom right, 53 km/h",3,CPV,Empty goal,16,,3,,1,53,bottom right,breakthrough,,,bottom,right,,,,,,,TRUE,0,1,7,CPV,34,21:12,21:44,10 - 14,-4
-56,CPV - ISL,21:51,1311,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,34,21:12,21:44,10 - 14,-4
 56,CPV - ISL,21:52,1312,1,VIDARSSON E Goal centre 9m bottom centre,18,ISL,16,16,,18,,1,,bottom centre,centre 9m,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,35,21:44,21:52,10 - 15,-5
 56,CPV - ISL,21:59,1319,1,SEMEDO Efor 16 GONCALVES E Empty goal,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,35,21:44,21:52,10 - 15,-5
-56,CPV - ISL,21:52,1312,1,VIDARSSON E Goal centre 9m bottom centre,18,ISL,16,16,,18,,1,,bottom centre,centre 9m,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,35,21:44,21:52,10 - 15,-5
-56,CPV - ISL,21:59,1319,1,SEMEDO Efor 16 GONCALVES E Empty goal,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,35,21:44,21:52,10 - 15,-5
-56,CPV - ISL,22:35,1355,1,"LANDIM F Goal centre 6m bottom right (30 SEMEDO E), 65 km/h",29,CPV,Empty goal,16,30,29,,1,65,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,1,7,CPV,36,21:52,22:35,11 - 15,-4
-56,CPV - ISL,22:43,1363,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,36,21:52,22:35,11 - 15,-4
 56,CPV - ISL,22:35,1355,1,"LANDIM F Goal centre 6m bottom right (30 SEMEDO E), 65 km/h",29,CPV,Empty goal,16,30,29,,1,65,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,1,7,CPV,36,21:52,22:35,11 - 15,-4
 56,CPV - ISL,22:43,1363,1,GONCALVES Efor 30 SEMEDO E Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,36,21:52,22:35,11 - 15,-4
 56,CPV - ISL,23:08,1388,1,ELISSON B Shot left 6m saved middle centre,8,ISL,16,16,,,8,0,,middle centre,left 6m,,1,middle,centre,,,,,,,FALSE,0,0,6,ISL,37,22:35,23:08,11 - 15,-4
 56,CPV - ISL,23:08,1388,1,ELISSON B 2-minutes suspension,8,ISL,16,16,,,,0,,"","",,,"","",,,,,,8,FALSE,0,0,6,ISL,37,22:35,23:08,11 - 15,-4
 56,CPV - ISL,23:23,1403,1,ALMEIDA Lfor 16 GONCALVES E Goalkeeper Substitution,1,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,37,22:35,23:08,11 - 15,-4
-56,CPV - ISL,23:08,1388,1,ELISSON B Shot left 6m saved middle centre,8,ISL,16,16,,,8,0,,middle centre,left 6m,,1,middle,centre,,,,,,,FALSE,0,0,6,ISL,37,22:35,23:08,11 - 15,-4
-56,CPV - ISL,23:08,1388,1,ELISSON B 2-minutes suspension,8,ISL,16,16,,,,0,,"","",,,"","",,,,,,8,FALSE,0,0,6,ISL,37,22:35,23:08,11 - 15,-4
-56,CPV - ISL,23:23,1403,1,ALMEIDA Lfor 16 GONCALVES E Goalkeeper Substitution,1,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,37,22:35,23:08,11 - 15,-4
 56,CPV - ISL,23:39,1419,1,SEMEDO L Technical Fault,6,CPV,16,16,,,,0,,"","",,,"","",,,,6,,,TRUE,0,0,6,CPV,38,23:08,23:39,11 - 15,-4
-56,CPV - ISL,23:39,1419,1,SEMEDO L Technical Fault,6,CPV,16,16,,,,0,,"","",,,"","",,,,6,,,TRUE,0,0,6,CPV,38,23:08,23:39,11 - 15,-4
-56,CPV - ISL,24:13,1453,1,"KRISTJANSSON G Goal breakthrough middle left, 91 km/h",10,ISL,16,16,,10,,1,91,middle left,breakthrough,,,middle,left,,,,,,,FALSE,-1,0,5,ISL,39,23:39,24:13,11 - 16,-5
-56,CPV - ISL,24:31,1471,1,ARNARSSON Afor 16 HALLGRIMSSON V Empty goal,21,ISL,Empty goal,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ISL,39,23:39,24:13,11 - 16,-5
 56,CPV - ISL,24:13,1453,1,"KRISTJANSSON G Goal breakthrough middle left, 91 km/h",10,ISL,16,16,,10,,1,91,middle left,breakthrough,,,middle,left,,,,,,,FALSE,-1,0,5,ISL,39,23:39,24:13,11 - 16,-5
 56,CPV - ISL,24:31,1471,1,ARNARSSON Afor 16 HALLGRIMSSON V Empty goal,21,ISL,Empty goal,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ISL,39,23:39,24:13,11 - 16,-5
 56,CPV - ISL,24:45,1485,1,ANDRADE R 7m received,17,CPV,16,Empty goal,,,,0,,"","",,,"","",,17,,,,,TRUE,0,0,6,CPV,40,24:13,24:57,11 - 16,-5
@@ -10510,53 +10220,24 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 56,CPV - ISL,24:57,1497,1,"PINA D Goal Penalty shot bottom right (17 ANDRADE R), 92 km/h",3,CPV,16,16,17,3,,1,92,bottom right,Penalty,,,bottom,right,,,,,,,TRUE,0,0,6,CPV,40,24:13,24:57,12 - 16,-4
 56,CPV - ISL,25:10,1510,1,SMARASON Jfor 16 HALLGRIMSSON V Empty goal,3,ISL,Empty goal,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,CPV,40,24:13,24:57,12 - 16,-4
 56,CPV - ISL,25:29,1529,1,HALLGRIMSSON Vfor 8 ELISSON B Goalkeeper back,16,ISL,16,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,CPV,40,24:13,24:57,12 - 16,-4
-56,CPV - ISL,24:45,1485,1,ANDRADE R 7m received,17,CPV,16,Empty goal,,,,0,,"","",,,"","",,17,,,,,TRUE,0,0,6,CPV,40,24:13,24:57,11 - 16,-5
-56,CPV - ISL,24:45,1485,1,VIDARSSON E 7m caused,18,ISL,Empty goal,16,,,,0,,"","",,,"","",18,,,,,,FALSE,-1,1,6,CPV,40,24:13,24:57,11 - 16,-5
-56,CPV - ISL,24:47,1487,1,HALLGRIMSSON Vfor 19 STYRMISSON H Goalkeeper back,16,ISL,16,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,CPV,40,24:13,24:57,11 - 16,-5
-56,CPV - ISL,24:57,1497,1,"PINA D Goal Penalty shot bottom right (17 ANDRADE R), 92 km/h",3,CPV,16,16,17,3,,1,92,bottom right,Penalty,,,bottom,right,,,,,,,TRUE,0,0,6,CPV,40,24:13,24:57,12 - 16,-4
-56,CPV - ISL,25:10,1510,1,SMARASON Jfor 16 HALLGRIMSSON V Empty goal,3,ISL,Empty goal,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,CPV,40,24:13,24:57,12 - 16,-4
-56,CPV - ISL,25:29,1529,1,HALLGRIMSSON Vfor 8 ELISSON B Goalkeeper back,16,ISL,16,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,CPV,40,24:13,24:57,12 - 16,-4
 56,CPV - ISL,25:41,1541,1,VIDARSSON E Technical Fault (FB),18,ISL,16,16,,,,0,,"","",,,"","",,,,18,,,FALSE,0,0,6,ISL,41,24:57,25:41,12 - 16,-4
 56,CPV - ISL,25:48,1548,1,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,41,24:57,25:41,12 - 16,-4
-56,CPV - ISL,25:41,1541,1,VIDARSSON E Technical Fault (FB),18,ISL,16,16,,,,0,,"","",,,"","",,,,18,,,FALSE,0,0,6,ISL,41,24:57,25:41,12 - 16,-4
-56,CPV - ISL,25:48,1548,1,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,41,24:57,25:41,12 - 16,-4
-56,CPV - ISL,25:57,1557,1,"PINA D Goal left 6m top right, 65 km/h",3,CPV,Empty goal,16,,3,,1,65,top right,left 6m,,,top,right,,,,,,,TRUE,0,1,7,CPV,42,25:41,25:57,13 - 16,-3
-56,CPV - ISL,26:03,1563,1,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,42,25:41,25:57,13 - 16,-3
 56,CPV - ISL,25:57,1557,1,"PINA D Goal left 6m top right, 65 km/h",3,CPV,Empty goal,16,,3,,1,65,top right,left 6m,,,top,right,,,,,,,TRUE,0,1,7,CPV,42,25:41,25:57,13 - 16,-3
 56,CPV - ISL,26:03,1563,1,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,42,25:41,25:57,13 - 16,-3
 56,CPV - ISL,26:51,1611,1,MORENO P 7m caused,13,CPV,1,16,,,,0,,"","",,,"","",13,,,,,,TRUE,0,0,6,ISL,43,25:57,26:53,13 - 16,-3
 56,CPV - ISL,26:51,1611,1,ARNARSSON A 7m received,21,ISL,16,1,,,,0,,"","",,,"","",,21,,,,,FALSE,0,0,6,ISL,43,25:57,26:53,13 - 16,-3
 56,CPV - ISL,26:53,1613,1,"MAGNUSSON O Goal Penalty shot bottom centre (21 ARNARSSON A), 86 km/h",14,ISL,16,1,21,14,,1,86,bottom centre,Penalty,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,43,25:57,26:53,13 - 17,-4
 56,CPV - ISL,27:10,1630,1,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,43,25:57,26:53,13 - 17,-4
-56,CPV - ISL,26:51,1611,1,MORENO P 7m caused,13,CPV,1,16,,,,0,,"","",,,"","",13,,,,,,TRUE,0,0,6,ISL,43,25:57,26:53,13 - 16,-3
-56,CPV - ISL,26:51,1611,1,ARNARSSON A 7m received,21,ISL,16,1,,,,0,,"","",,,"","",,21,,,,,FALSE,0,0,6,ISL,43,25:57,26:53,13 - 16,-3
-56,CPV - ISL,26:53,1613,1,"MAGNUSSON O Goal Penalty shot bottom centre (21 ARNARSSON A), 86 km/h",14,ISL,16,1,21,14,,1,86,bottom centre,Penalty,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,43,25:57,26:53,13 - 17,-4
-56,CPV - ISL,27:10,1630,1,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,43,25:57,26:53,13 - 17,-4
-56,CPV - ISL,27:21,1641,1,SEMEDO E Technical Fault,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,30,,,TRUE,0,1,7,CPV,44,26:53,27:21,13 - 17,-4
 56,CPV - ISL,27:21,1641,1,SEMEDO E Technical Fault,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,30,,,TRUE,0,1,7,CPV,44,26:53,27:21,13 - 17,-4
 56,CPV - ISL,27:26,1646,1,"RIKHARDSSON O Goal empty goal middle right (21 ARNARSSON A), 98 km/h",2,ISL,16,Empty goal,21,2,,1,98,middle right,empty goal,,,middle,right,,,,,,,FALSE,0,0,6,ISL,45,27:21,27:26,13 - 18,-5
-56,CPV - ISL,27:26,1646,1,"RIKHARDSSON O Goal empty goal middle right (21 ARNARSSON A), 98 km/h",2,ISL,16,Empty goal,21,2,,1,98,middle right,empty goal,,,middle,right,,,,,,,FALSE,0,0,6,ISL,45,27:21,27:26,13 - 18,-5
-56,CPV - ISL,28:10,1690,1,ANDRADE R Shot centre 6m saved middle right,17,CPV,Empty goal,16,,,17,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,0,1,7,CPV,46,27:26,28:22,13 - 18,-5
-56,CPV - ISL,28:22,1702,1,PINA D Technical Fault,3,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,3,,,TRUE,0,1,7,CPV,46,27:26,28:22,13 - 18,-5
 56,CPV - ISL,28:10,1690,1,ANDRADE R Shot centre 6m saved middle right,17,CPV,Empty goal,16,,,17,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,0,1,7,CPV,46,27:26,28:22,13 - 18,-5
 56,CPV - ISL,28:22,1702,1,PINA D Technical Fault,3,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,3,,,TRUE,0,1,7,CPV,46,27:26,28:22,13 - 18,-5
 56,CPV - ISL,28:31,1711,1,KRISTJANSSON V Shot empty goal missed,7,ISL,16,Empty goal,,,7,0,,missed,empty goal,,,"","",,,,,,,FALSE,0,0,6,ISL,47,28:22,28:31,13 - 18,-5
 56,CPV - ISL,28:32,1712,1,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,47,28:22,28:31,13 - 18,-5
 56,CPV - ISL,28:35,1715,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,47,28:22,28:31,13 - 18,-5
-56,CPV - ISL,28:31,1711,1,KRISTJANSSON V Shot empty goal missed,7,ISL,16,Empty goal,,,7,0,,missed,empty goal,,,"","",,,,,,,FALSE,0,0,6,ISL,47,28:22,28:31,13 - 18,-5
-56,CPV - ISL,28:32,1712,1,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,47,28:22,28:31,13 - 18,-5
-56,CPV - ISL,28:35,1715,1,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,47,28:22,28:31,13 - 18,-5
-56,CPV - ISL,28:57,1737,1,SEMEDO E Technical Fault,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,30,,,TRUE,0,1,7,CPV,48,28:31,28:57,13 - 18,-5
-56,CPV - ISL,29:15,1755,1,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,48,28:31,28:57,13 - 18,-5
 56,CPV - ISL,28:57,1737,1,SEMEDO E Technical Fault,30,CPV,Empty goal,16,,,,0,,"","",,,"","",,,,30,,,TRUE,0,1,7,CPV,48,28:31,28:57,13 - 18,-5
 56,CPV - ISL,29:15,1755,1,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,16,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,48,28:31,28:57,13 - 18,-5
 56,CPV - ISL,29:33,1773,1,Team timeout,"",ISL,16,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ISL,49,28:57,30:00,13 - 18,-5
-56,CPV - ISL,29:33,1773,1,Team timeout,"",ISL,16,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ISL,49,28:57,30:00,13 - 18,-5
-56,CPV - ISL,30:00,1800,2,GONCALVES E Goalkeeper,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,CPV,50,"","",13 - 18,-5
-56,CPV - ISL,30:00,1800,2,GUSTAVSSON B Goalkeeper,1,ISL,1,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,CPV,50,"","",13 - 18,-5
-56,CPV - ISL,30:03,1803,2,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,CPV,50,30:00,30:42,13 - 18,-5
-56,CPV - ISL,30:42,1842,2,GONCALVES Efor 88 PINA N Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,50,30:00,30:42,13 - 18,-5
-56,CPV - ISL,30:42,1842,2,"LANDIM B Goal right 6m bottom left (5 ARAUJO E), 54 km/h",10,CPV,16,1,5,10,,1,54,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,0,6,CPV,50,30:00,30:42,14 - 18,-4
 56,CPV - ISL,30:00,1800,2,GONCALVES E Goalkeeper,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,CPV,50,"","",13 - 18,-5
 56,CPV - ISL,30:00,1800,2,GUSTAVSSON B Goalkeeper,1,ISL,1,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,CPV,50,"","",13 - 18,-5
 56,CPV - ISL,30:03,1803,2,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,CPV,50,30:00,30:42,13 - 18,-5
@@ -10564,97 +10245,48 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 56,CPV - ISL,30:42,1842,2,"LANDIM B Goal right 6m bottom left (5 ARAUJO E), 54 km/h",10,CPV,16,1,5,10,,1,54,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,0,6,CPV,50,30:00,30:42,14 - 18,-4
 56,CPV - ISL,31:00,1860,2,GUDJONSSON S Shot right wing post,22,ISL,1,16,,,22,0,,post,right wing,1,,"","",,,,,,,FALSE,0,0,6,ISL,51,30:42,31:00,14 - 18,-4
 56,CPV - ISL,31:09,1869,2,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,51,30:42,31:00,14 - 18,-4
-56,CPV - ISL,31:00,1860,2,GUDJONSSON S Shot right wing post,22,ISL,1,16,,,22,0,,post,right wing,1,,"","",,,,,,,FALSE,0,0,6,ISL,51,30:42,31:00,14 - 18,-4
-56,CPV - ISL,31:09,1869,2,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,51,30:42,31:00,14 - 18,-4
 56,CPV - ISL,31:32,1892,2,ARAUJO E Shot centre 6m missed,5,CPV,Empty goal,1,,,5,0,,missed,centre 6m,,,"","",,,,,,,TRUE,0,1,7,CPV,52,31:00,31:32,14 - 18,-4
 56,CPV - ISL,31:37,1897,2,GONCALVES Efor 88 PINA N Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,52,31:00,31:32,14 - 19,-5
-56,CPV - ISL,31:32,1892,2,ARAUJO E Shot centre 6m missed,5,CPV,Empty goal,1,,,5,0,,missed,centre 6m,,,"","",,,,,,,TRUE,0,1,7,CPV,52,31:00,31:32,14 - 18,-4
-56,CPV - ISL,31:37,1897,2,GONCALVES Efor 88 PINA N Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,52,31:00,31:32,14 - 19,-5
-56,CPV - ISL,31:37,1897,2,"GUSTAVSSON B Goal empty goal bottom right, 91 km/h",1,ISL,1,Empty goal,,1,,1,91,bottom right,empty goal,,,bottom,right,,,,,,,FALSE,0,0,6,ISL,53,31:32,31:37,14 - 19,-5
-56,CPV - ISL,31:51,1911,2,PINA Nfor 16 GONCALVES E Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,53,31:32,31:37,14 - 19,-5
 56,CPV - ISL,31:37,1897,2,"GUSTAVSSON B Goal empty goal bottom right, 91 km/h",1,ISL,1,Empty goal,,1,,1,91,bottom right,empty goal,,,bottom,right,,,,,,,FALSE,0,0,6,ISL,53,31:32,31:37,14 - 19,-5
 56,CPV - ISL,31:51,1911,2,PINA Nfor 16 GONCALVES E Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,53,31:32,31:37,14 - 19,-5
 56,CPV - ISL,32:22,1942,2,"ARAUJO E Goal breakthrough middle left, 69 km/h",5,CPV,Empty goal,1,,5,,1,69,middle left,breakthrough,,,middle,left,,,,,,,TRUE,0,1,7,CPV,54,31:37,32:22,15 - 19,-4
 56,CPV - ISL,32:30,1950,2,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,54,31:37,32:22,15 - 19,-4
 56,CPV - ISL,32:58,1978,2,LANDIM B 2-minutes suspension,10,CPV,16,1,,,,0,,"","",,,"","",,,,,,10,TRUE,0,0,6,CPV,54,31:37,32:22,15 - 19,-4
 56,CPV - ISL,32:58,1978,2,ALMEIDA Lfor 16 GONCALVES E Goalkeeper Substitution,1,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,54,31:37,32:22,15 - 19,-4
-56,CPV - ISL,32:22,1942,2,"ARAUJO E Goal breakthrough middle left, 69 km/h",5,CPV,Empty goal,1,,5,,1,69,middle left,breakthrough,,,middle,left,,,,,,,TRUE,0,1,7,CPV,54,31:37,32:22,15 - 19,-4
-56,CPV - ISL,32:30,1950,2,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,54,31:37,32:22,15 - 19,-4
-56,CPV - ISL,32:58,1978,2,LANDIM B 2-minutes suspension,10,CPV,16,1,,,,0,,"","",,,"","",,,,,,10,TRUE,0,0,6,CPV,54,31:37,32:22,15 - 19,-4
-56,CPV - ISL,32:58,1978,2,ALMEIDA Lfor 16 GONCALVES E Goalkeeper Substitution,1,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,54,31:37,32:22,15 - 19,-4
 56,CPV - ISL,32:58,1978,2,"KRISTJANSSON V Goal Penalty shot bottom left, 89 km/h",7,ISL,1,16,,7,,1,89,bottom left,Penalty,,,bottom,left,,,,,,,FALSE,0,0,6,ISL,55,32:22,32:58,15 - 20,-5
 56,CPV - ISL,33:19,1999,2,ANDRADE Rfor 1 ALMEIDA L Empty goal,17,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,ISL,55,32:22,32:58,15 - 20,-5
-56,CPV - ISL,32:58,1978,2,"KRISTJANSSON V Goal Penalty shot bottom left, 89 km/h",7,ISL,1,16,,7,,1,89,bottom left,Penalty,,,bottom,left,,,,,,,FALSE,0,0,6,ISL,55,32:22,32:58,15 - 20,-5
-56,CPV - ISL,33:19,1999,2,ANDRADE Rfor 1 ALMEIDA L Empty goal,17,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,ISL,55,32:22,32:58,15 - 20,-5
-56,CPV - ISL,33:54,2034,2,"MORENO P Goal right 6m bottom left (6 SEMEDO L), 67 km/h",13,CPV,Empty goal,1,6,13,,1,67,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,-1,1,6,CPV,56,32:58,33:54,16 - 20,-4
-56,CPV - ISL,33:56,2036,2,ALMEIDA Lfor 88 PINA N Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,CPV,56,32:58,33:54,16 - 20,-4
 56,CPV - ISL,33:54,2034,2,"MORENO P Goal right 6m bottom left (6 SEMEDO L), 67 km/h",13,CPV,Empty goal,1,6,13,,1,67,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,-1,1,6,CPV,56,32:58,33:54,16 - 20,-4
 56,CPV - ISL,33:56,2036,2,ALMEIDA Lfor 88 PINA N Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,CPV,56,32:58,33:54,16 - 20,-4
 56,CPV - ISL,34:29,2069,2,GUDJONSSON S Goal right 6m top right (10 KRISTJANSSON G),22,ISL,1,1,10,22,,1,,top right,right 6m,,,top,right,,,,,,,FALSE,0,0,6,ISL,57,33:54,34:29,16 - 21,-5
 56,CPV - ISL,34:39,2079,2,PINA Nfor 1 ALMEIDA L Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,ISL,57,33:54,34:29,16 - 21,-5
 56,CPV - ISL,35:07,2107,2,ALMEIDA Lfor 10 LANDIM B Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,57,33:54,34:29,16 - 21,-5
-56,CPV - ISL,34:29,2069,2,GUDJONSSON S Goal right 6m top right (10 KRISTJANSSON G),22,ISL,1,1,10,22,,1,,top right,right 6m,,,top,right,,,,,,,FALSE,0,0,6,ISL,57,33:54,34:29,16 - 21,-5
-56,CPV - ISL,34:39,2079,2,PINA Nfor 1 ALMEIDA L Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,ISL,57,33:54,34:29,16 - 21,-5
-56,CPV - ISL,35:07,2107,2,ALMEIDA Lfor 10 LANDIM B Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,57,33:54,34:29,16 - 21,-5
 56,CPV - ISL,35:23,2123,2,SEMEDO L Shot centre 6m post,6,CPV,1,1,,,6,0,,post,centre 6m,1,,"","",,,,,,,TRUE,0,0,6,CPV,58,34:29,35:23,16 - 21,-5
-56,CPV - ISL,35:23,2123,2,SEMEDO L Shot centre 6m post,6,CPV,1,1,,,6,0,,post,centre 6m,1,,"","",,,,,,,TRUE,0,0,6,CPV,58,34:29,35:23,16 - 21,-5
-56,CPV - ISL,35:43,2143,2,GUDJONSSON S Shot right 6m missed,22,ISL,1,1,,,22,0,,missed,right 6m,,,"","",,,,,,,FALSE,0,0,6,ISL,59,35:23,35:43,16 - 21,-5
-56,CPV - ISL,35:54,2154,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,59,35:23,35:43,16 - 21,-5
 56,CPV - ISL,35:43,2143,2,GUDJONSSON S Shot right 6m missed,22,ISL,1,1,,,22,0,,missed,right 6m,,,"","",,,,,,,FALSE,0,0,6,ISL,59,35:23,35:43,16 - 21,-5
 56,CPV - ISL,35:54,2154,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,59,35:23,35:43,16 - 21,-5
 56,CPV - ISL,36:20,2180,2,"MORENO P Goal right 6m top right (10 LANDIM B), 71 km/h",13,CPV,Empty goal,1,10,13,,1,71,top right,right 6m,,,top,right,,,,,,,TRUE,0,1,7,CPV,60,35:43,36:20,17 - 21,-4
 56,CPV - ISL,36:26,2186,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,60,35:43,36:20,17 - 21,-4
-56,CPV - ISL,36:20,2180,2,"MORENO P Goal right 6m top right (10 LANDIM B), 71 km/h",13,CPV,Empty goal,1,10,13,,1,71,top right,right 6m,,,top,right,,,,,,,TRUE,0,1,7,CPV,60,35:43,36:20,17 - 21,-4
-56,CPV - ISL,36:26,2186,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,60,35:43,36:20,17 - 21,-4
-56,CPV - ISL,36:30,2190,2,"GUDJONSSON S Goal right 6m middle right (7 KRISTJANSSON V), 65 km/h",22,ISL,1,1,7,22,,1,65,middle right,right 6m,,,middle,right,,,,,,,FALSE,0,0,6,ISL,61,36:20,36:30,17 - 22,-5
-56,CPV - ISL,36:44,2204,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,61,36:20,36:30,17 - 22,-5
 56,CPV - ISL,36:30,2190,2,"GUDJONSSON S Goal right 6m middle right (7 KRISTJANSSON V), 65 km/h",22,ISL,1,1,7,22,,1,65,middle right,right 6m,,,middle,right,,,,,,,FALSE,0,0,6,ISL,61,36:20,36:30,17 - 22,-5
 56,CPV - ISL,36:44,2204,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,61,36:20,36:30,17 - 22,-5
 56,CPV - ISL,37:13,2233,2,ARAUJO E Technical Fault,5,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,5,,,TRUE,0,1,7,CPV,62,36:30,37:13,17 - 22,-5
-56,CPV - ISL,37:13,2233,2,ARAUJO E Technical Fault,5,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,5,,,TRUE,0,1,7,CPV,62,36:30,37:13,17 - 22,-5
 56,CPV - ISL,37:17,2237,2,"GUDJONSSON S Goal empty goal middle right, 85 km/h",22,ISL,1,Empty goal,,22,,1,85,middle right,empty goal,,,middle,right,,,,,,,FALSE,0,0,6,ISL,63,37:13,37:17,17 - 23,-6
-56,CPV - ISL,37:17,2237,2,"GUDJONSSON S Goal empty goal middle right, 85 km/h",22,ISL,1,Empty goal,,22,,1,85,middle right,empty goal,,,middle,right,,,,,,,FALSE,0,0,6,ISL,63,37:13,37:17,17 - 23,-6
-56,CPV - ISL,37:59,2279,2,"PINA D Goal left 6m middle right (44 FURTADO G), 90 km/h",3,CPV,Empty goal,1,44,3,,1,90,middle right,left 6m,,,middle,right,,,,,,,TRUE,0,1,7,CPV,64,37:17,37:59,18 - 23,-5
-56,CPV - ISL,38:04,2284,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,64,37:17,37:59,18 - 23,-5
 56,CPV - ISL,37:59,2279,2,"PINA D Goal left 6m middle right (44 FURTADO G), 90 km/h",3,CPV,Empty goal,1,44,3,,1,90,middle right,left 6m,,,middle,right,,,,,,,TRUE,0,1,7,CPV,64,37:17,37:59,18 - 23,-5
 56,CPV - ISL,38:04,2284,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,64,37:17,37:59,18 - 23,-5
 56,CPV - ISL,39:11,2351,2,FURTADO G 7m caused,44,CPV,1,1,,,,0,,"","",,,"","",44,,,,,,TRUE,0,0,6,ISL,65,37:59,39:28,18 - 23,-5
 56,CPV - ISL,39:11,2351,2,KRISTJANSSON V 7m received,7,ISL,1,1,,,,0,,"","",,,"","",,7,,,,,FALSE,0,0,6,ISL,65,37:59,39:28,18 - 23,-5
 56,CPV - ISL,39:28,2368,2,"KRISTJANSSON V Goal Penalty shot top left, 38 km/h",7,ISL,1,1,,7,,1,38,top left,Penalty,,,top,left,,,,,,,FALSE,0,0,6,ISL,65,37:59,39:28,18 - 24,-6
 56,CPV - ISL,39:45,2385,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,65,37:59,39:28,18 - 24,-6
-56,CPV - ISL,39:11,2351,2,FURTADO G 7m caused,44,CPV,1,1,,,,0,,"","",,,"","",44,,,,,,TRUE,0,0,6,ISL,65,37:59,39:28,18 - 23,-5
-56,CPV - ISL,39:11,2351,2,KRISTJANSSON V 7m received,7,ISL,1,1,,,,0,,"","",,,"","",,7,,,,,FALSE,0,0,6,ISL,65,37:59,39:28,18 - 23,-5
-56,CPV - ISL,39:28,2368,2,"KRISTJANSSON V Goal Penalty shot top left, 38 km/h",7,ISL,1,1,,7,,1,38,top left,Penalty,,,top,left,,,,,,,FALSE,0,0,6,ISL,65,37:59,39:28,18 - 24,-6
-56,CPV - ISL,39:45,2385,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,65,37:59,39:28,18 - 24,-6
 56,CPV - ISL,40:00,2400,2,LANDIM B Shot right 6m saved bottom right,10,CPV,Empty goal,1,,,10,0,,bottom right,right 6m,,1,bottom,right,,,,,,,TRUE,0,1,7,CPV,66,39:28,40:00,18 - 24,-6
 56,CPV - ISL,40:05,2405,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,66,39:28,40:00,18 - 24,-6
-56,CPV - ISL,40:00,2400,2,LANDIM B Shot right 6m saved bottom right,10,CPV,Empty goal,1,,,10,0,,bottom right,right 6m,,1,bottom,right,,,,,,,TRUE,0,1,7,CPV,66,39:28,40:00,18 - 24,-6
-56,CPV - ISL,40:05,2405,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,66,39:28,40:00,18 - 24,-6
-56,CPV - ISL,40:35,2435,2,"SMARASON J Goal centre 6m bottom centre (7 KRISTJANSSON V), 66 km/h",3,ISL,1,1,7,3,,1,66,bottom centre,centre 6m,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,67,40:00,40:35,18 - 25,-7
-56,CPV - ISL,40:51,2451,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,67,40:00,40:35,18 - 25,-7
 56,CPV - ISL,40:35,2435,2,"SMARASON J Goal centre 6m bottom centre (7 KRISTJANSSON V), 66 km/h",3,ISL,1,1,7,3,,1,66,bottom centre,centre 6m,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,67,40:00,40:35,18 - 25,-7
 56,CPV - ISL,40:51,2451,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,67,40:00,40:35,18 - 25,-7
 56,CPV - ISL,41:04,2464,2,LANDIM B 7m received,10,CPV,Empty goal,1,,,,0,,"","",,,"","",,10,,,,,TRUE,0,1,7,CPV,68,40:35,41:23,18 - 25,-7
 56,CPV - ISL,41:04,2464,2,KRISTJANSSON G 7m caused,10,ISL,1,Empty goal,,,,0,,"","",,,"","",10,,,,,,FALSE,0,0,6,CPV,68,40:35,41:23,18 - 25,-7
 56,CPV - ISL,41:13,2473,2,GONCALVES Efor 88 PINA N Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,68,40:35,41:23,18 - 25,-7
 56,CPV - ISL,41:23,2483,2,PINA D Goal Penalty shot top left (10 LANDIM B),3,CPV,16,1,10,3,,1,,top left,Penalty,,,top,left,,,,,,,TRUE,0,0,6,CPV,68,40:35,41:23,19 - 25,-6
-56,CPV - ISL,41:04,2464,2,LANDIM B 7m received,10,CPV,Empty goal,1,,,,0,,"","",,,"","",,10,,,,,TRUE,0,1,7,CPV,68,40:35,41:23,18 - 25,-7
-56,CPV - ISL,41:04,2464,2,KRISTJANSSON G 7m caused,10,ISL,1,Empty goal,,,,0,,"","",,,"","",10,,,,,,FALSE,0,0,6,CPV,68,40:35,41:23,18 - 25,-7
-56,CPV - ISL,41:13,2473,2,GONCALVES Efor 88 PINA N Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,68,40:35,41:23,18 - 25,-7
-56,CPV - ISL,41:23,2483,2,PINA D Goal Penalty shot top left (10 LANDIM B),3,CPV,16,1,10,3,,1,,top left,Penalty,,,top,left,,,,,,,TRUE,0,0,6,CPV,68,40:35,41:23,19 - 25,-6
-56,CPV - ISL,41:58,2518,2,SMARASON J Shot centre 6m saved bottom centre,3,ISL,1,16,,,3,0,,bottom centre,centre 6m,,1,bottom,centre,,,,,,,FALSE,0,0,6,ISL,69,41:23,41:58,19 - 25,-6
 56,CPV - ISL,41:58,2518,2,SMARASON J Shot centre 6m saved bottom centre,3,ISL,1,16,,,3,0,,bottom centre,centre 6m,,1,bottom,centre,,,,,,,FALSE,0,0,6,ISL,69,41:23,41:58,19 - 25,-6
 56,CPV - ISL,42:07,2527,2,"PINA D Goal centre 9m bottom right, 91 km/h",3,CPV,16,1,,3,,1,91,bottom right,centre 9m,,,bottom,right,,,,,,,TRUE,0,0,6,CPV,70,41:58,42:07,20 - 25,-5
 56,CPV - ISL,42:46,2566,2,FURTADO G 2-minutes suspension,44,CPV,16,1,,,,0,,"","",,,"","",,,,,,44,TRUE,0,0,6,CPV,70,41:58,42:07,20 - 25,-5
-56,CPV - ISL,42:07,2527,2,"PINA D Goal centre 9m bottom right, 91 km/h",3,CPV,16,1,,3,,1,91,bottom right,centre 9m,,,bottom,right,,,,,,,TRUE,0,0,6,CPV,70,41:58,42:07,20 - 25,-5
-56,CPV - ISL,42:46,2566,2,FURTADO G 2-minutes suspension,44,CPV,16,1,,,,0,,"","",,,"","",,,,,,44,TRUE,0,0,6,CPV,70,41:58,42:07,20 - 25,-5
 56,CPV - ISL,43:03,2583,2,KRISTJANSSON G Technical Fault (FB),10,ISL,1,16,,,,0,,"","",,,"","",,,,10,,,FALSE,0,0,6,ISL,71,42:07,43:03,20 - 25,-5
-56,CPV - ISL,43:03,2583,2,KRISTJANSSON G Technical Fault (FB),10,ISL,1,16,,,,0,,"","",,,"","",,,,10,,,FALSE,0,0,6,ISL,71,42:07,43:03,20 - 25,-5
-56,CPV - ISL,43:44,2624,2,PINA D Shot right 9m blocked,3,CPV,16,1,,,3,0,,blocked,right 9m,,,"","",,,,,,,TRUE,-1,0,5,CPV,72,43:03,44:04,20 - 25,-5
-56,CPV - ISL,43:44,2624,2,VIDARSSON E Block,18,ISL,1,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,CPV,72,43:03,44:04,20 - 25,-5
-56,CPV - ISL,43:54,2634,2,ARAUJO Efor 16 GONCALVES E Empty goal,5,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,CPV,72,43:03,44:04,20 - 25,-5
-56,CPV - ISL,44:04,2644,2,ARAUJO E Shot centre 6m saved middle right,5,CPV,Empty goal,1,,,5,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,-1,1,6,CPV,72,43:03,44:04,20 - 25,-5
-56,CPV - ISL,44:06,2646,2,GONCALVES Efor 88 PINA N Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,CPV,72,43:03,44:04,20 - 26,-6
 56,CPV - ISL,43:44,2624,2,PINA D Shot right 9m blocked,3,CPV,16,1,,,3,0,,blocked,right 9m,,,"","",,,,,,,TRUE,-1,0,5,CPV,72,43:03,44:04,20 - 25,-5
 56,CPV - ISL,43:44,2624,2,VIDARSSON E Block,18,ISL,1,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,CPV,72,43:03,44:04,20 - 25,-5
 56,CPV - ISL,43:54,2634,2,ARAUJO Efor 16 GONCALVES E Empty goal,5,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,CPV,72,43:03,44:04,20 - 25,-5
@@ -10665,31 +10297,15 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 56,CPV - ISL,44:43,2683,2,GONCALVES Efor 88 PINA N Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ISL,73,44:04,44:06,20 - 26,-6
 56,CPV - ISL,44:51,2691,2,PINA Nfor 16 GONCALVES E Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,73,44:04,44:06,20 - 26,-6
 56,CPV - ISL,45:06,2706,2,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,73,44:04,44:06,20 - 26,-6
-56,CPV - ISL,44:06,2646,2,"GUDJONSSON S Goal empty goal bottom centre (18 VIDARSSON E), 107 km/h",22,ISL,1,Empty goal,18,22,,1,107,bottom centre,empty goal,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,73,44:04,44:06,20 - 26,-6
-56,CPV - ISL,44:12,2652,2,PINA Nfor 16 GONCALVES E Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,ISL,73,44:04,44:06,20 - 26,-6
-56,CPV - ISL,44:43,2683,2,GONCALVES Efor 88 PINA N Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ISL,73,44:04,44:06,20 - 26,-6
-56,CPV - ISL,44:51,2691,2,PINA Nfor 16 GONCALVES E Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,73,44:04,44:06,20 - 26,-6
-56,CPV - ISL,45:06,2706,2,GONCALVES Efor 29 LANDIM F Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,73,44:04,44:06,20 - 26,-6
-56,CPV - ISL,45:07,2707,2,"FORTES F Goal right wing bottom left (10 LANDIM B), 47 km/h",7,CPV,16,1,10,7,,1,47,bottom left,right wing,,,bottom,left,,,,,,,TRUE,0,0,6,CPV,74,44:06,45:07,21 - 26,-5
-56,CPV - ISL,45:41,2741,2,LANDIM B 2-minutes suspension,10,CPV,16,1,,,,0,,"","",,,"","",,,,,,10,TRUE,0,0,6,CPV,74,44:06,45:07,21 - 26,-5
 56,CPV - ISL,45:07,2707,2,"FORTES F Goal right wing bottom left (10 LANDIM B), 47 km/h",7,CPV,16,1,10,7,,1,47,bottom left,right wing,,,bottom,left,,,,,,,TRUE,0,0,6,CPV,74,44:06,45:07,21 - 26,-5
 56,CPV - ISL,45:41,2741,2,LANDIM B 2-minutes suspension,10,CPV,16,1,,,,0,,"","",,,"","",,,,,,10,TRUE,0,0,6,CPV,74,44:06,45:07,21 - 26,-5
 56,CPV - ISL,45:41,2741,2,KRISTJANSSON V 7m received,7,ISL,1,16,,,,0,,"","",,,"","",,7,,,,,FALSE,0,0,6,ISL,75,45:07,45:43,21 - 26,-5
 56,CPV - ISL,45:43,2743,2,"KRISTJANSSON V Goal Penalty shot bottom left, 84 km/h",7,ISL,1,16,,7,,1,84,bottom left,Penalty,,,bottom,left,,,,,,,FALSE,0,0,6,ISL,75,45:07,45:43,21 - 27,-6
 56,CPV - ISL,45:54,2754,2,ANDRADE Rfor 16 GONCALVES E Empty goal,17,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,ISL,75,45:07,45:43,21 - 27,-6
-56,CPV - ISL,45:41,2741,2,KRISTJANSSON V 7m received,7,ISL,1,16,,,,0,,"","",,,"","",,7,,,,,FALSE,0,0,6,ISL,75,45:07,45:43,21 - 26,-5
-56,CPV - ISL,45:43,2743,2,"KRISTJANSSON V Goal Penalty shot bottom left, 84 km/h",7,ISL,1,16,,7,,1,84,bottom left,Penalty,,,bottom,left,,,,,,,FALSE,0,0,6,ISL,75,45:07,45:43,21 - 27,-6
-56,CPV - ISL,45:54,2754,2,ANDRADE Rfor 16 GONCALVES E Empty goal,17,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,ISL,75,45:07,45:43,21 - 27,-6
 56,CPV - ISL,46:33,2793,2,"PINA D Goal centre 9m top centre, 69 km/h",3,CPV,Empty goal,1,,3,,1,69,top centre,centre 9m,,,top,centre,,,,,,,TRUE,-1,1,6,CPV,76,45:43,46:33,22 - 27,-5
-56,CPV - ISL,46:33,2793,2,"PINA D Goal centre 9m top centre, 69 km/h",3,CPV,Empty goal,1,,3,,1,69,top centre,centre 9m,,,top,centre,,,,,,,TRUE,-1,1,6,CPV,76,45:43,46:33,22 - 27,-5
-56,CPV - ISL,46:44,2804,2,VIDARSSON E Goal empty goal bottom right,18,ISL,1,Empty goal,,18,,1,,bottom right,empty goal,,,bottom,right,,,,,,,FALSE,0,0,6,ISL,77,46:33,46:44,22 - 28,-6
 56,CPV - ISL,46:44,2804,2,VIDARSSON E Goal empty goal bottom right,18,ISL,1,Empty goal,,18,,1,,bottom right,empty goal,,,bottom,right,,,,,,,FALSE,0,0,6,ISL,77,46:33,46:44,22 - 28,-6
 56,CPV - ISL,47:10,2830,2,"MORENO P Goal centre 6m middle left (5 ARAUJO E), 81 km/h",13,CPV,Empty goal,1,5,13,,1,81,middle left,centre 6m,,,middle,left,,,,,,,TRUE,-1,1,6,CPV,78,46:44,47:10,23 - 28,-5
 56,CPV - ISL,47:12,2832,2,GONCALVES Efor 88 PINA N Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,CPV,78,46:44,47:10,23 - 28,-5
-56,CPV - ISL,47:10,2830,2,"MORENO P Goal centre 6m middle left (5 ARAUJO E), 81 km/h",13,CPV,Empty goal,1,5,13,,1,81,middle left,centre 6m,,,middle,left,,,,,,,TRUE,-1,1,6,CPV,78,46:44,47:10,23 - 28,-5
-56,CPV - ISL,47:12,2832,2,GONCALVES Efor 88 PINA N Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,CPV,78,46:44,47:10,23 - 28,-5
-56,CPV - ISL,47:41,2861,2,KRISTJANSSON G Goal flying throw middle centre (22 GUDJONSSON S),10,ISL,1,16,22,10,,1,,middle centre,"",,,middle,centre,,,,,,,FALSE,0,0,6,ISL,79,47:10,47:41,23 - 29,-6
-56,CPV - ISL,47:47,2867,2,PINA Nfor 16 GONCALVES E Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,79,47:10,47:41,23 - 29,-6
 56,CPV - ISL,47:41,2861,2,KRISTJANSSON G Goal flying throw middle centre (22 GUDJONSSON S),10,ISL,1,16,22,10,,1,,middle centre,"",,,middle,centre,,,,,,,FALSE,0,0,6,ISL,79,47:10,47:41,23 - 29,-6
 56,CPV - ISL,47:47,2867,2,PINA Nfor 16 GONCALVES E Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,79,47:10,47:41,23 - 29,-6
 56,CPV - ISL,48:22,2902,2,ANDRADE R Shot right 6m missed,17,CPV,Empty goal,1,,,17,0,,missed,right 6m,,,"","",,,,,,,TRUE,0,1,7,CPV,80,47:41,48:38,23 - 29,-6
@@ -10697,32 +10313,15 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 56,CPV - ISL,48:27,2907,2,PINA Nfor 16 GONCALVES E Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,CPV,80,47:41,48:38,23 - 29,-6
 56,CPV - ISL,48:38,2918,2,ARAUJO E Goal centre 9m middle left,5,CPV,Empty goal,1,,5,,1,,middle left,centre 9m,,,middle,left,,,,,,,TRUE,0,1,7,CPV,80,47:41,48:38,24 - 29,-5
 56,CPV - ISL,48:41,2921,2,GONCALVES Efor 3 PINA D Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,80,47:41,48:38,24 - 30,-6
-56,CPV - ISL,48:22,2902,2,ANDRADE R Shot right 6m missed,17,CPV,Empty goal,1,,,17,0,,missed,right 6m,,,"","",,,,,,,TRUE,0,1,7,CPV,80,47:41,48:38,23 - 29,-6
-56,CPV - ISL,48:24,2904,2,GONCALVES Efor 88 PINA N Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,80,47:41,48:38,23 - 29,-6
-56,CPV - ISL,48:27,2907,2,PINA Nfor 16 GONCALVES E Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,CPV,80,47:41,48:38,23 - 29,-6
-56,CPV - ISL,48:38,2918,2,ARAUJO E Goal centre 9m middle left,5,CPV,Empty goal,1,,5,,1,,middle left,centre 9m,,,middle,left,,,,,,,TRUE,0,1,7,CPV,80,47:41,48:38,24 - 29,-5
-56,CPV - ISL,48:41,2921,2,GONCALVES Efor 3 PINA D Goalkeeper back,16,CPV,16,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,80,47:41,48:38,24 - 30,-6
-56,CPV - ISL,48:41,2921,2,"VIDARSSON E Goal empty goal bottom centre, 69 km/h",18,ISL,1,Empty goal,,18,,1,69,bottom centre,empty goal,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,81,48:38,48:41,24 - 30,-6
-56,CPV - ISL,48:56,2936,2,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,81,48:38,48:41,24 - 30,-6
 56,CPV - ISL,48:41,2921,2,"VIDARSSON E Goal empty goal bottom centre, 69 km/h",18,ISL,1,Empty goal,,18,,1,69,bottom centre,empty goal,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,81,48:38,48:41,24 - 30,-6
 56,CPV - ISL,48:56,2936,2,LANDIM Ffor 16 GONCALVES E Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,81,48:38,48:41,24 - 30,-6
 56,CPV - ISL,49:14,2954,2,ANDRADE R Goal right 9m bottom left (3 PINA D),17,CPV,Empty goal,1,3,17,,1,,bottom left,right 9m,,,bottom,left,,,,,,,TRUE,0,1,7,CPV,82,48:41,49:14,25 - 30,-5
 56,CPV - ISL,49:18,2958,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,82,48:41,49:14,25 - 30,-5
-56,CPV - ISL,49:14,2954,2,ANDRADE R Goal right 9m bottom left (3 PINA D),17,CPV,Empty goal,1,3,17,,1,,bottom left,right 9m,,,bottom,left,,,,,,,TRUE,0,1,7,CPV,82,48:41,49:14,25 - 30,-5
-56,CPV - ISL,49:18,2958,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,82,48:41,49:14,25 - 30,-5
-56,CPV - ISL,49:46,2986,2,"SMARASON J Goal centre 6m top right (10 KRISTJANSSON G), 95 km/h",3,ISL,1,1,10,3,,1,95,top right,centre 6m,,,top,right,,,,,,,FALSE,0,0,6,ISL,83,49:14,49:46,25 - 31,-6
-56,CPV - ISL,49:56,2996,2,KRISTJANSSON K 2-minutes suspension,23,ISL,1,1,,,,0,,"","",,,"","",,,,,,23,FALSE,0,0,6,ISL,83,49:14,49:46,25 - 31,-6
 56,CPV - ISL,49:46,2986,2,"SMARASON J Goal centre 6m top right (10 KRISTJANSSON G), 95 km/h",3,ISL,1,1,10,3,,1,95,top right,centre 6m,,,top,right,,,,,,,FALSE,0,0,6,ISL,83,49:14,49:46,25 - 31,-6
 56,CPV - ISL,49:56,2996,2,KRISTJANSSON K 2-minutes suspension,23,ISL,1,1,,,,0,,"","",,,"","",,,,,,23,FALSE,0,0,6,ISL,83,49:14,49:46,25 - 31,-6
 56,CPV - ISL,50:33,3033,2,"PINA N Goal left wing top right (3 PINA D), 64 km/h",88,CPV,1,1,3,88,,1,64,top right,left wing,,,top,right,,,,,,,TRUE,0,0,6,CPV,84,49:46,50:33,26 - 31,-5
 56,CPV - ISL,51:00,3060,2,KRISTJANSSON Vfor 1 GUSTAVSSON B Empty goal,7,ISL,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,CPV,84,49:46,50:33,26 - 31,-5
-56,CPV - ISL,50:33,3033,2,"PINA N Goal left wing top right (3 PINA D), 64 km/h",88,CPV,1,1,3,88,,1,64,top right,left wing,,,top,right,,,,,,,TRUE,0,0,6,CPV,84,49:46,50:33,26 - 31,-5
-56,CPV - ISL,51:00,3060,2,KRISTJANSSON Vfor 1 GUSTAVSSON B Empty goal,7,ISL,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,CPV,84,49:46,50:33,26 - 31,-5
 56,CPV - ISL,51:07,3067,2,"KRISTJANSSON V Goal breakthrough middle right, 68 km/h",7,ISL,Empty goal,1,,7,,1,68,middle right,breakthrough,,,middle,right,,,,,,,FALSE,-1,1,6,ISL,85,50:33,51:07,26 - 32,-6
-56,CPV - ISL,51:07,3067,2,"KRISTJANSSON V Goal breakthrough middle right, 68 km/h",7,ISL,Empty goal,1,,7,,1,68,middle right,breakthrough,,,middle,right,,,,,,,FALSE,-1,1,6,ISL,85,50:33,51:07,26 - 32,-6
-56,CPV - ISL,51:09,3069,2,MORENO P Shot empty goal missed,13,CPV,1,Empty goal,,,13,0,,missed,empty goal,,,"","",,,,,,,TRUE,0,0,6,CPV,86,51:07,51:09,26 - 32,-6
-56,CPV - ISL,51:09,3069,2,GUSTAVSSON Bfor 3 SMARASON J Goalkeeper back,1,ISL,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,CPV,86,51:07,51:09,26 - 32,-6
-56,CPV - ISL,51:24,3084,2,SMARASON Jfor 1 GUSTAVSSON B Empty goal,3,ISL,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,CPV,86,51:07,51:09,26 - 32,-6
 56,CPV - ISL,51:09,3069,2,MORENO P Shot empty goal missed,13,CPV,1,Empty goal,,,13,0,,missed,empty goal,,,"","",,,,,,,TRUE,0,0,6,CPV,86,51:07,51:09,26 - 32,-6
 56,CPV - ISL,51:09,3069,2,GUSTAVSSON Bfor 3 SMARASON J Goalkeeper back,1,ISL,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,CPV,86,51:07,51:09,26 - 32,-6
 56,CPV - ISL,51:24,3084,2,SMARASON Jfor 1 GUSTAVSSON B Empty goal,3,ISL,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,CPV,86,51:07,51:09,26 - 32,-6
@@ -10733,19 +10332,8 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 56,CPV - ISL,52:31,3151,2,KRISTJANSSON G 7m received,10,ISL,1,1,,,,0,,"","",,,"","",,10,,,,,FALSE,0,0,6,ISL,87,51:09,52:35,26 - 32,-6
 56,CPV - ISL,52:35,3155,2,"KRISTJANSSON V Goal Penalty shot bottom left (10 KRISTJANSSON G), 80 km/h",7,ISL,1,1,10,7,,1,80,bottom left,Penalty,,,bottom,left,,,,,,,FALSE,0,0,6,ISL,87,51:09,52:35,26 - 33,-7
 56,CPV - ISL,52:51,3171,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,87,51:09,52:35,26 - 33,-7
-56,CPV - ISL,51:54,3114,2,PINA D Block,3,CPV,1,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,87,51:09,52:35,26 - 32,-6
-56,CPV - ISL,51:54,3114,2,KRISTJANSSON G Shot centre 9m blocked,10,ISL,Empty goal,1,,,10,0,,blocked,centre 9m,,,"","",,,,,,,FALSE,-1,1,6,ISL,87,51:09,52:35,26 - 32,-6
-56,CPV - ISL,51:57,3117,2,GUSTAVSSON Bfor 23 KRISTJANSSON K Goalkeeper back,1,ISL,1,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ISL,87,51:09,52:35,26 - 32,-6
-56,CPV - ISL,52:31,3151,2,ANDRADE R 7m caused,17,CPV,1,1,,,,0,,"","",,,"","",17,,,,,,TRUE,0,0,6,ISL,87,51:09,52:35,26 - 32,-6
-56,CPV - ISL,52:31,3151,2,KRISTJANSSON G 7m received,10,ISL,1,1,,,,0,,"","",,,"","",,10,,,,,FALSE,0,0,6,ISL,87,51:09,52:35,26 - 32,-6
-56,CPV - ISL,52:35,3155,2,"KRISTJANSSON V Goal Penalty shot bottom left (10 KRISTJANSSON G), 80 km/h",7,ISL,1,1,10,7,,1,80,bottom left,Penalty,,,bottom,left,,,,,,,FALSE,0,0,6,ISL,87,51:09,52:35,26 - 33,-7
-56,CPV - ISL,52:51,3171,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,87,51:09,52:35,26 - 33,-7
 56,CPV - ISL,53:07,3187,2,"ANDRADE R Goal right 9m bottom left, 39 km/h",17,CPV,Empty goal,1,,17,,1,39,bottom left,right 9m,,,bottom,left,,,,,,,TRUE,0,1,7,CPV,88,52:35,53:07,27 - 33,-6
 56,CPV - ISL,53:10,3190,2,ALMEIDA Lfor 3 PINA D Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,88,52:35,53:07,27 - 34,-7
-56,CPV - ISL,53:07,3187,2,"ANDRADE R Goal right 9m bottom left, 39 km/h",17,CPV,Empty goal,1,,17,,1,39,bottom left,right 9m,,,bottom,left,,,,,,,TRUE,0,1,7,CPV,88,52:35,53:07,27 - 33,-6
-56,CPV - ISL,53:10,3190,2,ALMEIDA Lfor 3 PINA D Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,88,52:35,53:07,27 - 34,-7
-56,CPV - ISL,53:10,3190,2,VIDARSSON E Goal empty goal bottom centre,18,ISL,1,Empty goal,,18,,1,,bottom centre,empty goal,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,89,53:07,53:10,27 - 34,-7
-56,CPV - ISL,53:28,3208,2,PINA Dfor 1 ALMEIDA L Empty goal,3,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,89,53:07,53:10,27 - 34,-7
 56,CPV - ISL,53:10,3190,2,VIDARSSON E Goal empty goal bottom centre,18,ISL,1,Empty goal,,18,,1,,bottom centre,empty goal,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,89,53:07,53:10,27 - 34,-7
 56,CPV - ISL,53:28,3208,2,PINA Dfor 1 ALMEIDA L Empty goal,3,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,89,53:07,53:10,27 - 34,-7
 56,CPV - ISL,53:51,3231,2,FORTES F Shot right wing saved bottom left,7,CPV,Empty goal,1,,,7,0,,bottom left,right wing,,1,bottom,left,,,,,,,TRUE,0,1,7,CPV,90,53:10,54:10,27 - 34,-7
@@ -10753,66 +10341,33 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 56,CPV - ISL,53:54,3234,2,PINA Nfor 1 ALMEIDA L Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,CPV,90,53:10,54:10,27 - 34,-7
 56,CPV - ISL,54:10,3250,2,ANDRADE R Technical Fault,17,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,17,,,TRUE,0,1,7,CPV,90,53:10,54:10,27 - 34,-7
 56,CPV - ISL,54:14,3254,2,ALMEIDA Lfor 3 PINA D Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,90,53:10,54:10,27 - 35,-8
-56,CPV - ISL,53:51,3231,2,FORTES F Shot right wing saved bottom left,7,CPV,Empty goal,1,,,7,0,,bottom left,right wing,,1,bottom,left,,,,,,,TRUE,0,1,7,CPV,90,53:10,54:10,27 - 34,-7
-56,CPV - ISL,53:52,3232,2,ALMEIDA Lfor 88 PINA N Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,90,53:10,54:10,27 - 34,-7
-56,CPV - ISL,53:54,3234,2,PINA Nfor 1 ALMEIDA L Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,CPV,90,53:10,54:10,27 - 34,-7
-56,CPV - ISL,54:10,3250,2,ANDRADE R Technical Fault,17,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,17,,,TRUE,0,1,7,CPV,90,53:10,54:10,27 - 34,-7
-56,CPV - ISL,54:14,3254,2,ALMEIDA Lfor 3 PINA D Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,90,53:10,54:10,27 - 35,-8
-56,CPV - ISL,54:14,3254,2,"GUSTAVSSON B Goal empty goal bottom centre, 53 km/h",1,ISL,1,Empty goal,,1,,1,53,bottom centre,empty goal,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,91,54:10,54:14,27 - 35,-8
-56,CPV - ISL,54:28,3268,2,PINA Dfor 1 ALMEIDA L Empty goal,3,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,91,54:10,54:14,27 - 35,-8
 56,CPV - ISL,54:14,3254,2,"GUSTAVSSON B Goal empty goal bottom centre, 53 km/h",1,ISL,1,Empty goal,,1,,1,53,bottom centre,empty goal,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,91,54:10,54:14,27 - 35,-8
 56,CPV - ISL,54:28,3268,2,PINA Dfor 1 ALMEIDA L Empty goal,3,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,91,54:10,54:14,27 - 35,-8
 56,CPV - ISL,54:41,3281,2,ARAUJO E Shot centre 6m saved bottom right,5,CPV,Empty goal,1,,,5,0,,bottom right,centre 6m,,1,bottom,right,,,,,,,TRUE,0,1,7,CPV,92,54:14,54:41,27 - 35,-8
 56,CPV - ISL,54:43,3283,2,ALMEIDA Lfor 88 PINA N Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,92,54:14,54:41,27 - 35,-8
-56,CPV - ISL,54:41,3281,2,ARAUJO E Shot centre 6m saved bottom right,5,CPV,Empty goal,1,,,5,0,,bottom right,centre 6m,,1,bottom,right,,,,,,,TRUE,0,1,7,CPV,92,54:14,54:41,27 - 35,-8
-56,CPV - ISL,54:43,3283,2,ALMEIDA Lfor 88 PINA N Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,92,54:14,54:41,27 - 35,-8
-56,CPV - ISL,54:50,3290,2,"KRISTJANSSON K Goal right 9m bottom centre, 89 km/h",23,ISL,1,1,,23,,1,89,bottom centre,right 9m,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,93,54:41,54:50,27 - 36,-9
-56,CPV - ISL,55:01,3301,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,93,54:41,54:50,27 - 36,-9
 56,CPV - ISL,54:50,3290,2,"KRISTJANSSON K Goal right 9m bottom centre, 89 km/h",23,ISL,1,1,,23,,1,89,bottom centre,right 9m,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,93,54:41,54:50,27 - 36,-9
 56,CPV - ISL,55:01,3301,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,93,54:41,54:50,27 - 36,-9
 56,CPV - ISL,55:20,3320,2,"ANDRADE R Goal right 6m middle left (5 ARAUJO E), 102 km/h",17,CPV,Empty goal,1,5,17,,1,102,middle left,right 6m,,,middle,left,,,,,,,TRUE,0,1,7,CPV,94,54:50,55:20,28 - 36,-8
 56,CPV - ISL,55:22,3322,2,ALMEIDA Lfor 88 PINA N Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,94,54:50,55:20,28 - 36,-8
-56,CPV - ISL,55:20,3320,2,"ANDRADE R Goal right 6m middle left (5 ARAUJO E), 102 km/h",17,CPV,Empty goal,1,5,17,,1,102,middle left,right 6m,,,middle,left,,,,,,,TRUE,0,1,7,CPV,94,54:50,55:20,28 - 36,-8
-56,CPV - ISL,55:22,3322,2,ALMEIDA Lfor 88 PINA N Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,94,54:50,55:20,28 - 36,-8
-56,CPV - ISL,56:00,3360,2,SMARASON J Shot centre 6m saved bottom centre,3,ISL,1,1,,,3,0,,bottom centre,centre 6m,,1,bottom,centre,,,,,,,FALSE,0,0,6,ISL,95,55:20,56:00,28 - 36,-8
 56,CPV - ISL,56:00,3360,2,SMARASON J Shot centre 6m saved bottom centre,3,ISL,1,1,,,3,0,,bottom centre,centre 6m,,1,bottom,centre,,,,,,,FALSE,0,0,6,ISL,95,55:20,56:00,28 - 36,-8
 56,CPV - ISL,56:09,3369,2,"ANDRADE R Goal centre 6m bottom right (5 ARAUJO E), 103 km/h",17,CPV,1,1,5,17,,1,103,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,0,6,CPV,96,56:00,56:09,29 - 36,-7
-56,CPV - ISL,56:09,3369,2,"ANDRADE R Goal centre 6m bottom right (5 ARAUJO E), 103 km/h",17,CPV,1,1,5,17,,1,103,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,0,6,CPV,96,56:00,56:09,29 - 36,-7
 56,CPV - ISL,56:34,3394,2,KRISTJANSSON K Shot centre 9m post,23,ISL,1,1,,,23,0,,post,centre 9m,1,,"","",,,,,,,FALSE,0,0,6,ISL,97,56:09,56:34,29 - 36,-7
-56,CPV - ISL,56:34,3394,2,KRISTJANSSON K Shot centre 9m post,23,ISL,1,1,,,23,0,,post,centre 9m,1,,"","",,,,,,,FALSE,0,0,6,ISL,97,56:09,56:34,29 - 36,-7
-56,CPV - ISL,56:42,3402,2,PINA D Shot right 9m saved bottom right,3,CPV,1,1,,,3,0,,bottom right,right 9m,,1,bottom,right,,,,,,,TRUE,0,0,6,CPV,98,56:34,56:51,29 - 36,-7
-56,CPV - ISL,56:51,3411,2,"PINA D Goal right 6m bottom left, 84 km/h",3,CPV,1,1,,3,,1,84,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,0,6,CPV,98,56:34,56:51,30 - 36,-6
 56,CPV - ISL,56:42,3402,2,PINA D Shot right 9m saved bottom right,3,CPV,1,1,,,3,0,,bottom right,right 9m,,1,bottom,right,,,,,,,TRUE,0,0,6,CPV,98,56:34,56:51,29 - 36,-7
 56,CPV - ISL,56:51,3411,2,"PINA D Goal right 6m bottom left, 84 km/h",3,CPV,1,1,,3,,1,84,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,0,6,CPV,98,56:34,56:51,30 - 36,-6
 56,CPV - ISL,57:17,3437,2,"ASGEIRSSON E Goal centre 9m bottom centre (3 SMARASON J), 103 km/h",6,ISL,1,1,3,6,,1,103,bottom centre,centre 9m,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,99,56:51,57:17,30 - 37,-7
 56,CPV - ISL,57:24,3444,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,99,56:51,57:17,30 - 37,-7
-56,CPV - ISL,57:17,3437,2,"ASGEIRSSON E Goal centre 9m bottom centre (3 SMARASON J), 103 km/h",6,ISL,1,1,3,6,,1,103,bottom centre,centre 9m,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,99,56:51,57:17,30 - 37,-7
-56,CPV - ISL,57:24,3444,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,99,56:51,57:17,30 - 37,-7
-56,CPV - ISL,57:52,3472,2,PINA D Technical Fault,3,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,3,,,TRUE,0,1,7,CPV,100,57:17,57:52,30 - 37,-7
-56,CPV - ISL,57:54,3474,2,ALMEIDA Lfor 88 PINA N Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,100,57:17,57:52,30 - 38,-8
 56,CPV - ISL,57:52,3472,2,PINA D Technical Fault,3,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,3,,,TRUE,0,1,7,CPV,100,57:17,57:52,30 - 37,-7
 56,CPV - ISL,57:54,3474,2,ALMEIDA Lfor 88 PINA N Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,100,57:17,57:52,30 - 38,-8
 56,CPV - ISL,57:54,3474,2,"GUDJONSSON S Goal empty goal bottom right, 64 km/h",22,ISL,1,Empty goal,,22,,1,64,bottom right,empty goal,,,bottom,right,,,,,,,FALSE,0,0,6,ISL,101,57:52,57:54,30 - 38,-8
 56,CPV - ISL,58:05,3485,2,PINA Nfor 1 ALMEIDA L Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,101,57:52,57:54,30 - 38,-8
-56,CPV - ISL,57:54,3474,2,"GUDJONSSON S Goal empty goal bottom right, 64 km/h",22,ISL,1,Empty goal,,22,,1,64,bottom right,empty goal,,,bottom,right,,,,,,,FALSE,0,0,6,ISL,101,57:52,57:54,30 - 38,-8
-56,CPV - ISL,58:05,3485,2,PINA Nfor 1 ALMEIDA L Empty goal,88,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,101,57:52,57:54,30 - 38,-8
-56,CPV - ISL,58:37,3517,2,PINA D Shot left 6m missed,3,CPV,Empty goal,1,,,3,0,,missed,left 6m,,,"","",,,,,,,TRUE,0,1,7,CPV,102,57:54,58:37,30 - 38,-8
-56,CPV - ISL,58:42,3522,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,102,57:54,58:37,30 - 38,-8
 56,CPV - ISL,58:37,3517,2,PINA D Shot left 6m missed,3,CPV,Empty goal,1,,,3,0,,missed,left 6m,,,"","",,,,,,,TRUE,0,1,7,CPV,102,57:54,58:37,30 - 38,-8
 56,CPV - ISL,58:42,3522,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,102,57:54,58:37,30 - 38,-8
 56,CPV - ISL,59:06,3546,2,"GUDJONSSON S Goal right 6m bottom centre (3 SMARASON J), 53 km/h",22,ISL,1,1,3,22,,1,53,bottom centre,right 6m,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,103,58:37,59:06,30 - 39,-9
 56,CPV - ISL,59:13,3553,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,103,58:37,59:06,30 - 39,-9
-56,CPV - ISL,59:06,3546,2,"GUDJONSSON S Goal right 6m bottom centre (3 SMARASON J), 53 km/h",22,ISL,1,1,3,22,,1,53,bottom centre,right 6m,,,bottom,centre,,,,,,,FALSE,0,0,6,ISL,103,58:37,59:06,30 - 39,-9
-56,CPV - ISL,59:13,3553,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,103,58:37,59:06,30 - 39,-9
-56,CPV - ISL,59:32,3572,2,ARAUJO E Technical Fault,5,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,5,,,TRUE,0,1,7,CPV,104,59:06,59:32,30 - 39,-9
-56,CPV - ISL,59:36,3576,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,104,59:06,59:32,30 - 39,-9
 56,CPV - ISL,59:32,3572,2,ARAUJO E Technical Fault,5,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,5,,,TRUE,0,1,7,CPV,104,59:06,59:32,30 - 39,-9
 56,CPV - ISL,59:36,3576,2,ALMEIDA Lfor 29 LANDIM F Goalkeeper back,1,CPV,1,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,CPV,104,59:06,59:32,30 - 39,-9
 56,CPV - ISL,59:40,3580,2,"STYRMISSON H Goal fast break middle centre (6 ASGEIRSSON E), 37 km/h",19,ISL,1,1,6,19,,1,37,middle centre,fast break,,,middle,centre,,,,,,,FALSE,0,0,6,ISL,105,59:32,59:40,30 - 40,-10
 56,CPV - ISL,59:48,3588,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,105,59:32,59:40,30 - 40,-10
-56,CPV - ISL,59:40,3580,2,"STYRMISSON H Goal fast break middle centre (6 ASGEIRSSON E), 37 km/h",19,ISL,1,1,6,19,,1,37,middle centre,fast break,,,middle,centre,,,,,,,FALSE,0,0,6,ISL,105,59:32,59:40,30 - 40,-10
-56,CPV - ISL,59:48,3588,2,LANDIM Ffor 1 ALMEIDA L Empty goal,29,CPV,Empty goal,1,,,,0,,"","",,,"","",,,,,,,TRUE,0,1,7,ISL,105,59:32,59:40,30 - 40,-10
-56,CPV - ISL,59:58,3598,2,ANDRADE R Shot right 6m saved bottom centre,17,CPV,Empty goal,1,,,17,0,,bottom centre,right 6m,,1,bottom,centre,,,,,,,TRUE,0,1,7,CPV,106,59:40,60:00,30 - 40,-10
 56,CPV - ISL,59:58,3598,2,ANDRADE R Shot right 6m saved bottom centre,17,CPV,Empty goal,1,,,17,0,,bottom centre,right 6m,,1,bottom,centre,,,,,,,TRUE,0,1,7,CPV,106,59:40,60:00,30 - 40,-10
 57,GER - ARG,0:00,0,1,WOLFF A Goalkeeper,33,GER,33,40,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,GER,1,"","",0 - 0,0
 57,GER - ARG,0:00,0,1,MACIEL L Goalkeeper,40,ARG,40,33,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,GER,1,"","",0 - 0,0
