@@ -19969,3 +19969,378 @@ match_id,teams,time,numeric_time,half,action,number,team,goalkeeper,opponent_goa
 108,FRA - SWE,58:37,3517,2,REMILI N Turnover,5,FRA,12,12,,,,0,,"","",,,"","",,,5,,,,TRUE,0,0,6,FRA,98,58:16,58:37,30 - 26,4
 108,FRA - SWE,58:46,3526,2,JOHANSSON E Shot centre 9m post,42,SWE,12,12,,,42,0,,post,centre 9m,1,,"","",,,,,,,FALSE,0,0,6,SWE,99,58:37,58:46,30 - 26,4
 108,FRA - SWE,59:25,3565,2,"LENNE Y Goal right wing top left (14 MAHE K), 104 km/h",2,FRA,12,12,14,2,,1,104,top left,right wing,,,top,left,,,,,,,TRUE,0,0,6,FRA,100,58:46,60:00,31 - 26,5
+71,ISL - SWE,0:00,0,1,GUSTAVSSON B Goalkeeper,1,ISL,1,30,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,ISL,1,"","",0 - 0,0
+71,ISL - SWE,0:00,0,1,THULIN T Goalkeeper,30,SWE,30,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,ISL,1,"","",0 - 0,0
+71,ISL - SWE,0:37,37,1,SMARASON J Shot centre 6m blocked,3,ISL,1,30,,,3,0,,blocked,centre 6m,,,"","",,,,,,,TRUE,0,0,6,ISL,1,0:00,0:37,0 - 0,0
+71,ISL - SWE,0:37,37,1,CARLSBOGARD J Block,2,SWE,30,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ISL,1,0:00,0:37,0 - 0,0
+71,ISL - SWE,1:22,82,1,"DARJ M Goal centre 6m bottom right (24 GOTTFRIDSSON J), 85 km/h",5,SWE,30,1,24,5,,1,85,bottom right,centre 6m,,,bottom,right,,,,,,,FALSE,0,0,6,SWE,2,0:37,1:22,0 - 1,-1
+71,ISL - SWE,1:39,99,1,SMARASON J Shot breakthrough saved middle right,3,ISL,1,30,,,3,0,,middle right,breakthrough,,1,middle,right,,,,,,,TRUE,0,0,6,ISL,3,1:22,1:39,0 - 1,-1
+71,ISL - SWE,2:20,140,1,VIDARSSON E 7m caused,18,ISL,1,30,,,,0,,"","",,,"","",18,,,,,,TRUE,0,0,6,SWE,4,1:39,2:34,0 - 1,-1
+71,ISL - SWE,2:20,140,1,SANDELL L 7m received,33,SWE,30,1,,,,0,,"","",,,"","",,33,,,,,FALSE,0,0,6,SWE,4,1:39,2:34,0 - 1,-1
+71,ISL - SWE,2:34,154,1,"PELLAS L Goal Penalty shot top right (33 SANDELL L), 79 km/h",22,SWE,30,1,33,22,,1,79,top right,Penalty,,,top,right,,,,,,,FALSE,0,0,6,SWE,4,1:39,2:34,0 - 2,-2
+71,ISL - SWE,3:20,200,1,DARJ M Warning (yellow card),5,SWE,30,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,SWE,4,1:39,2:34,0 - 2,-2
+71,ISL - SWE,3:36,216,1,VIDARSSON E Shot right 6m saved middle right,18,ISL,1,30,,,18,0,,middle right,right 6m,,1,middle,right,,,,,,,TRUE,0,0,6,ISL,5,2:34,3:36,0 - 2,-2
+71,ISL - SWE,3:43,223,1,"PELLAS L Goal fast break middle right (23 LAGERGREN A), 60 km/h",22,SWE,30,1,23,22,,1,60,middle right,fast break,,,middle,right,,,,,,,FALSE,0,0,6,SWE,6,3:36,3:43,0 - 3,-3
+71,ISL - SWE,4:19,259,1,"ELISSON B Goal centre 6m top right (10 KRISTJANSSON G), 90 km/h",8,ISL,1,30,10,8,,1,90,top right,centre 6m,,,top,right,,,,,,,TRUE,0,0,6,ISL,7,3:43,4:19,1 - 3,-2
+71,ISL - SWE,4:29,269,1,CARLSBOGARD J Goal left 6m top right (24 GOTTFRIDSSON J),2,SWE,30,1,24,2,,1,,top right,left 6m,,,top,right,,,,,,,FALSE,0,0,6,SWE,8,4:19,4:29,1 - 4,-3
+71,ISL - SWE,5:06,306,1,"KRISTJANSSON G Goal centre 6m top left (3 SMARASON J), 92 km/h",10,ISL,1,30,3,10,,1,92,top left,centre 6m,,,top,left,,,,,,,TRUE,0,0,6,ISL,9,4:29,5:06,2 - 4,-2
+71,ISL - SWE,5:15,315,1,GOTTFRIDSSON J Technical Fault,24,SWE,30,1,,,,0,,"","",,,"","",,,,24,,,FALSE,0,0,6,SWE,10,5:06,5:15,2 - 4,-2
+71,ISL - SWE,5:15,315,1,DARJ M 2-minutes suspension,5,SWE,30,1,,,,0,,"","",,,"","",,,,,,5,FALSE,0,0,6,SWE,10,5:06,5:15,2 - 4,-2
+71,ISL - SWE,5:39,339,1,MAGNUSSON O Technical Fault,14,ISL,1,30,,,,0,,"","",,,"","",,,,14,,,TRUE,0,0,6,ISL,11,5:15,5:39,2 - 4,-2
+71,ISL - SWE,5:49,349,1,BERGENDAHL Ofor 30 THULIN T Empty goal,32,SWE,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ISL,11,5:15,5:39,2 - 4,-2
+71,ISL - SWE,6:20,380,1,"GOTTFRIDSSON J Goal centre 6m top centre, 67 km/h",24,SWE,Empty goal,1,,24,,1,67,top centre,centre 6m,,,top,centre,,,,,,,FALSE,-1,1,6,SWE,12,5:39,6:20,2 - 5,-3
+71,ISL - SWE,6:22,382,1,THULIN Tfor 23 LAGERGREN A Goalkeeper back,30,SWE,30,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,SWE,12,5:39,6:20,2 - 5,-3
+71,ISL - SWE,6:58,418,1,"MAGNUSSON O Goal flying throw bottom left (8 ELISSON B), 78 km/h",14,ISL,1,30,8,14,,1,78,bottom left,"",,,bottom,left,,,,,,,TRUE,0,0,6,ISL,13,6:20,6:58,3 - 5,-2
+71,ISL - SWE,7:08,428,1,LAGERGREN Afor 30 THULIN T Empty goal,23,SWE,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ISL,13,6:20,6:58,3 - 5,-2
+71,ISL - SWE,7:28,448,1,THULIN Tfor 5 DARJ M Goalkeeper back,30,SWE,30,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ISL,13,6:20,6:58,3 - 5,-2
+71,ISL - SWE,7:31,451,1,"BERGENDAHL O Goal right 6m bottom centre (24 GOTTFRIDSSON J), 71 km/h",32,SWE,30,1,24,32,,1,71,bottom centre,right 6m,,,bottom,centre,,,,,,,FALSE,0,0,6,SWE,14,6:58,7:31,3 - 6,-3
+71,ISL - SWE,8:23,503,1,MAGNUSSON O 7m received,14,ISL,1,30,,,,0,,"","",,,"","",,14,,,,,TRUE,0,0,6,ISL,15,7:31,8:36,3 - 6,-3
+71,ISL - SWE,8:23,503,1,GOTTFRIDSSON J 7m caused,24,SWE,30,1,,,,0,,"","",,,"","",24,,,,,,FALSE,0,0,6,ISL,15,7:31,8:36,3 - 6,-3
+71,ISL - SWE,8:36,516,1,"MAGNUSSON O Goal Penalty shot middle left, 91 km/h",14,ISL,1,30,,14,,1,91,middle left,Penalty,,,middle,left,,,,,,,TRUE,0,0,6,ISL,15,7:31,8:36,4 - 6,-2
+71,ISL - SWE,9:17,557,1,GISLASON Y Warning (yellow card),11,ISL,1,30,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,15,7:31,8:36,4 - 6,-2
+71,ISL - SWE,9:32,572,1,LAGERGREN A Shot right 9m post,23,SWE,30,1,,,23,0,,post,right 9m,1,,"","",,,,,,,FALSE,0,0,6,SWE,16,8:36,9:47,4 - 6,-2
+71,ISL - SWE,9:47,587,1,"EKBERG N Goal centre 6m middle right (24 GOTTFRIDSSON J), 70 km/h",10,SWE,30,1,24,10,,1,70,middle right,centre 6m,,,middle,right,,,,,,,FALSE,0,0,6,SWE,16,8:36,9:47,4 - 7,-3
+71,ISL - SWE,9:47,587,1,BERGENDAHL Ofor 30 THULIN T Empty goal,32,SWE,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,0,1,7,SWE,16,8:36,9:47,4 - 7,-3
+71,ISL - SWE,9:47,587,1,VIDARSSON E Goal left 6m top left (10 KRISTJANSSON G),18,ISL,1,Empty goal,10,18,,1,,top left,left 6m,,,top,left,,,,,,,TRUE,0,0,6,ISL,17,9:47,9:47,5 - 7,-2
+71,ISL - SWE,9:53,593,1,DARJ M 2-minutes suspension,5,SWE,Empty goal,1,,,,0,,"","",,,"","",,,,,,5,FALSE,0,1,7,ISL,17,9:47,9:47,5 - 7,-2
+71,ISL - SWE,10:13,613,1,"LAGERGREN A Goal breakthrough bottom left, 51 km/h",23,SWE,Empty goal,1,,23,,1,51,bottom left,breakthrough,,,bottom,left,,,,,,,FALSE,-1,1,6,SWE,18,9:47,10:13,5 - 8,-3
+71,ISL - SWE,10:14,614,1,THULIN Tfor 24 GOTTFRIDSSON J Goalkeeper back,30,SWE,30,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,SWE,18,9:47,10:13,5 - 8,-3
+71,ISL - SWE,10:47,647,1,SMARASON J Shot right 6m saved middle right,3,ISL,1,30,,,3,0,,middle right,right 6m,,1,middle,right,,,,,,,TRUE,0,0,6,ISL,19,10:13,10:47,5 - 8,-3
+71,ISL - SWE,11:00,660,1,GOTTFRIDSSON Jfor 30 THULIN T Empty goal,24,SWE,Empty goal,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ISL,19,10:13,10:47,5 - 8,-3
+71,ISL - SWE,11:29,689,1,THULIN Tfor 24 GOTTFRIDSSON J Goalkeeper back,30,SWE,30,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,ISL,19,10:13,10:47,5 - 8,-3
+71,ISL - SWE,11:43,703,1,Turnover bench/team,"",SWE,30,1,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,SWE,20,10:47,11:43,5 - 8,-3
+71,ISL - SWE,13:10,790,1,"ELISSON B Goal left 6m top right (10 KRISTJANSSON G), 94 km/h",8,ISL,1,30,10,8,,1,94,top right,left 6m,,,top,right,,,,,,,TRUE,0,0,6,ISL,21,11:43,13:10,6 - 8,-2
+71,ISL - SWE,14:24,864,1,LAGERGREN A Shot breakthrough post,23,SWE,30,1,,,23,0,,post,breakthrough,1,,"","",,,,,,,FALSE,0,0,6,SWE,22,13:10,14:41,6 - 8,-2
+71,ISL - SWE,14:31,871,1,LAGERGREN A Turnover,23,SWE,30,1,,,,0,,"","",,,"","",,,23,,,,FALSE,0,0,6,SWE,22,13:10,14:41,6 - 8,-2
+71,ISL - SWE,14:41,881,1,"LAGERGREN A Goal centre 6m bottom left (24 GOTTFRIDSSON J), 84 km/h",23,SWE,30,1,24,23,,1,84,bottom left,centre 6m,,,bottom,left,,,,,,,FALSE,0,0,6,SWE,22,13:10,14:41,6 - 9,-3
+71,ISL - SWE,14:59,899,1,HALLGRIMSSON Vfor 1 GUSTAVSSON B Goalkeeper Substitution,16,ISL,1,30,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,SWE,22,13:10,14:41,6 - 9,-3
+71,ISL - SWE,15:24,924,1,KRISTJANSSON G Goal left 6m bottom right (3 SMARASON J),10,ISL,1,30,3,10,,1,,bottom right,left 6m,,,bottom,right,,,,,,,TRUE,0,0,6,ISL,23,14:41,15:24,7 - 9,-2
+71,ISL - SWE,15:57,957,1,"JOHANSSON E Goal left 6m bottom right (24 GOTTFRIDSSON J), 69 km/h",42,SWE,30,1,24,42,,1,69,bottom right,left 6m,,,bottom,right,,,,,,,FALSE,0,0,6,SWE,24,15:24,15:57,7 - 10,-3
+71,ISL - SWE,16:08,968,1,"KRISTJANSSON G Goal breakthrough top left, 68 km/h",10,ISL,1,30,,10,,1,68,top left,breakthrough,,,top,left,,,,,,,TRUE,0,0,6,ISL,25,15:57,16:08,8 - 10,-2
+71,ISL - SWE,16:22,982,1,VIDARSSON E 2-minutes suspension,18,ISL,1,30,,,,0,,"","",,,"","",,,,,,18,TRUE,0,0,6,ISL,25,15:57,16:08,8 - 10,-2
+71,ISL - SWE,16:37,997,1,SANDELL L Technical Fault,33,SWE,30,1,,,,0,,"","",,,"","",,,,33,,,FALSE,0,0,6,SWE,26,16:08,16:37,8 - 10,-2
+71,ISL - SWE,16:57,1017,1,ARNARSSON Afor 16 HALLGRIMSSON V Empty goal,21,ISL,Empty goal,30,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,SWE,26,16:08,16:37,8 - 10,-2
+71,ISL - SWE,17:18,1038,1,KRISTJANSSON G 7m received,10,ISL,Empty goal,30,,,,0,,"","",,,"","",,10,,,,,TRUE,-1,1,6,ISL,27,16:37,17:18,8 - 10,-2
+71,ISL - SWE,17:18,1038,1,SANDELL L 7m caused,33,SWE,30,Empty goal,,,,0,,"","",,,"","",33,,,,,,FALSE,0,0,6,ISL,27,16:37,17:18,8 - 10,-2
+71,ISL - SWE,17:18,1038,1,"ELISSON B Goal Penalty shot bottom left (10 KRISTJANSSON G), 91 km/h",8,ISL,Empty goal,30,10,8,,1,91,bottom left,Penalty,,,bottom,left,,,,,,,TRUE,-1,1,6,ISL,27,16:37,17:18,9 - 10,-1
+71,ISL - SWE,17:31,1051,1,HALLGRIMSSON Vfor 21 ARNARSSON A Goalkeeper back,16,ISL,16,30,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ISL,27,16:37,17:18,9 - 10,-1
+71,ISL - SWE,17:46,1066,1,JOHANSSON E Goal left 9m bottom right,42,SWE,30,16,,42,,1,,bottom right,left 9m,,,bottom,right,,,,,,,FALSE,0,0,6,SWE,28,17:18,17:46,9 - 11,-2
+71,ISL - SWE,18:14,1094,1,KRISTJANSSON Gfor 16 HALLGRIMSSON V Empty goal,10,ISL,Empty goal,30,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,SWE,28,17:18,17:46,9 - 11,-2
+71,ISL - SWE,18:26,1106,1,ARNARSSON A Goal centre 6m bottom right (10 KRISTJANSSON G),21,ISL,Empty goal,30,10,21,,1,,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,1,7,ISL,29,17:46,18:26,10 - 11,-1
+71,ISL - SWE,19:00,1140,1,HALLGRIMSSON Vfor 21 ARNARSSON A Goalkeeper back,16,ISL,16,30,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,29,17:46,18:26,10 - 11,-1
+71,ISL - SWE,19:00,1140,1,SANDELL L Shot right 6m saved middle centre,33,SWE,30,16,,,33,0,,middle centre,right 6m,,1,middle,centre,,,,,,,FALSE,0,0,6,SWE,30,18:26,19:00,10 - 11,-1
+71,ISL - SWE,19:14,1154,1,KRISTJANSSON V Turnover,7,ISL,16,30,,,,0,,"","",,,"","",,,7,,,,TRUE,0,0,6,ISL,31,19:00,19:14,10 - 11,-1
+71,ISL - SWE,19:44,1184,1,GOTTFRIDSSON J Technical Fault,24,SWE,30,16,,,,0,,"","",,,"","",,,,24,,,FALSE,0,0,6,SWE,32,19:14,19:44,10 - 11,-1
+71,ISL - SWE,19:50,1190,1,"RIKHARDSSON O Goal fast break bottom left (7 KRISTJANSSON V), 78 km/h",2,ISL,16,30,7,2,,1,78,bottom left,fast break,,,bottom,left,,,,,,,TRUE,0,0,6,ISL,33,19:44,19:50,11 - 11,0
+71,ISL - SWE,20:23,1223,1,CLAAR F Technical Fault,19,SWE,30,16,,,,0,,"","",,,"","",,,,19,,,FALSE,0,0,6,SWE,34,19:50,20:23,11 - 11,0
+71,ISL - SWE,20:28,1228,1,"VIDARSSON E Goal fast break top centre, 98 km/h",18,ISL,16,30,,18,,1,98,top centre,fast break,,,top,centre,,,,,,,TRUE,0,0,6,ISL,35,20:23,20:28,12 - 11,1
+71,ISL - SWE,21:09,1269,1,CLAAR F Shot centre 6m saved middle centre,19,SWE,30,16,,,19,0,,middle centre,centre 6m,,1,middle,centre,,,,,,,FALSE,0,0,6,SWE,36,20:28,21:09,12 - 11,1
+71,ISL - SWE,21:53,1313,1,"ELISSON B Goal left 6m bottom centre (10 KRISTJANSSON G), 88 km/h",8,ISL,16,30,10,8,,1,88,bottom centre,left 6m,,,bottom,centre,,,,,,,TRUE,0,0,6,ISL,37,21:09,21:53,13 - 11,2
+71,ISL - SWE,22:06,1326,1,Team timeout,"",SWE,30,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,SWE,38,21:53,22:37,13 - 11,2
+71,ISL - SWE,22:26,1346,1,KRISTJANSSON V 7m caused,7,ISL,16,30,,,,0,,"","",,,"","",7,,,,,,TRUE,0,0,6,SWE,38,21:53,22:37,13 - 11,2
+71,ISL - SWE,22:26,1346,1,PALICKA Afor 30 THULIN T Goalkeeper Substitution,12,SWE,30,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,SWE,38,21:53,22:37,13 - 11,2
+71,ISL - SWE,22:26,1346,1,JOHANSSON E 7m received,42,SWE,30,16,,,,0,,"","",,,"","",,42,,,,,FALSE,0,0,6,SWE,38,21:53,22:37,13 - 11,2
+71,ISL - SWE,22:37,1357,1,"PELLAS L Goal Penalty shot bottom left (42 JOHANSSON E), 88 km/h",22,SWE,30,16,42,22,,1,88,bottom left,Penalty,,,bottom,left,,,,,,,FALSE,0,0,6,SWE,38,21:53,22:37,13 - 12,1
+71,ISL - SWE,23:24,1404,1,"SMARASON J Goal right 6m bottom left (7 KRISTJANSSON V), 83 km/h",3,ISL,16,30,7,3,,1,83,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,0,6,ISL,39,22:37,23:24,14 - 12,2
+71,ISL - SWE,24:13,1453,1,VIDARSSON E 7m caused,18,ISL,16,30,,,,0,,"","",,,"","",18,,,,,,TRUE,0,0,6,SWE,40,23:24,24:28,14 - 12,2
+71,ISL - SWE,24:13,1453,1,BERGENDAHL O 7m received,32,SWE,30,16,,,,0,,"","",,,"","",,32,,,,,FALSE,0,0,6,SWE,40,23:24,24:28,14 - 12,2
+71,ISL - SWE,24:28,1468,1,PELLAS L Penalty shot saved middle right,22,SWE,30,16,,,22,0,,middle right,Penalty,,1,middle,right,,,,,,,FALSE,0,0,6,SWE,40,23:24,24:28,14 - 12,2
+71,ISL - SWE,25:02,1502,1,"ARNARSSON A Goal centre 6m middle left (10 KRISTJANSSON G), 91 km/h",21,ISL,16,30,10,21,,1,91,middle left,centre 6m,,,middle,left,,,,,,,TRUE,0,0,6,ISL,41,24:28,25:02,15 - 12,3
+71,ISL - SWE,25:37,1537,1,"CLAAR F Goal right 6m top right (23 LAGERGREN A), 66 km/h",19,SWE,30,16,23,19,,1,66,top right,right 6m,,,top,right,,,,,,,FALSE,0,0,6,SWE,42,25:02,25:37,15 - 13,2
+71,ISL - SWE,25:54,1554,1,ELISSON B Shot left 6m saved middle right,8,ISL,16,30,,,8,0,,middle right,left 6m,,1,middle,right,,,,,,,TRUE,0,0,6,ISL,43,25:37,25:54,15 - 13,2
+71,ISL - SWE,26:02,1562,1,"CLAAR F Goal centre 6m middle left, 94 km/h",19,SWE,30,16,,19,,1,94,middle left,centre 6m,,,middle,left,,,,,,,FALSE,0,0,6,SWE,44,25:54,26:02,15 - 14,1
+71,ISL - SWE,26:35,1595,1,Team timeout,"",ISL,16,30,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,45,26:02,26:57,15 - 14,1
+71,ISL - SWE,26:57,1617,1,SMARASON J Technical Fault,3,ISL,16,30,,,,0,,"","",,,"","",,,,3,,,TRUE,0,0,6,ISL,45,26:02,26:57,15 - 14,1
+71,ISL - SWE,27:03,1623,1,"PELLAS L Goal fast break middle right (19 CLAAR F), 41 km/h",22,SWE,30,16,19,22,,1,41,middle right,fast break,,,middle,right,,,,,,,FALSE,0,0,6,SWE,46,26:57,27:03,15 - 15,0
+71,ISL - SWE,28:08,1688,1,KRISTJANSSON G Turnover,10,ISL,16,30,,,,0,,"","",,,"","",,,10,,,,TRUE,0,0,6,ISL,47,27:03,28:08,15 - 15,0
+71,ISL - SWE,28:51,1731,1,CLAAR F Goal centre 6m bottom right,19,SWE,30,16,,19,,1,,bottom right,centre 6m,,,bottom,right,,,,,,,FALSE,0,0,6,SWE,48,28:08,28:51,15 - 16,-1
+71,ISL - SWE,29:28,1768,1,KRISTJANSSON G Goal breakthrough bottom right,10,ISL,16,30,,10,,1,,bottom right,breakthrough,,,bottom,right,,,,,,,TRUE,0,0,6,ISL,49,28:51,29:28,16 - 16,0
+71,ISL - SWE,29:37,1777,1,"LAGERGREN A Goal centre 6m top left (19 CLAAR F), 87 km/h",23,SWE,30,16,19,23,,1,87,top left,centre 6m,,,top,left,,,,,,,FALSE,0,0,6,SWE,50,29:28,29:37,16 - 17,-1
+71,ISL - SWE,29:59,1799,1,KRISTJANSSON G Shot right 6m post,10,ISL,16,30,,,10,0,,post,right 6m,1,,"","",,,,,,,TRUE,0,0,6,ISL,51,29:37,30:00,16 - 17,-1
+71,ISL - SWE,30:00,1800,2,HALLGRIMSSON V Goalkeeper,16,ISL,16,12,,,,0,,"","",,,"","",,,,,,,TRUE,0,,,SWE,52,"","",16 - 17,-1
+71,ISL - SWE,30:00,1800,2,PALICKA A Goalkeeper,12,SWE,12,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,,,SWE,52,"","",16 - 17,-1
+71,ISL - SWE,30:43,1843,2,"LAGERGREN A Goal right 6m bottom right, 88 km/h",23,SWE,12,16,,23,,1,88,bottom right,right 6m,,,bottom,right,,,,,,,FALSE,0,0,6,SWE,52,30:00,30:43,16 - 18,-2
+71,ISL - SWE,31:35,1895,2,VIDARSSON E Shot centre 6m saved middle left,18,ISL,16,12,,,18,0,,middle left,centre 6m,,1,middle,left,,,,,,,TRUE,0,0,6,ISL,53,30:43,31:35,16 - 18,-2
+71,ISL - SWE,31:36,1896,2,VIDARSSON E 2-minutes suspension,18,ISL,16,12,,,,0,,"","",,,"","",,,,,,18,TRUE,0,0,6,ISL,53,30:43,31:35,16 - 18,-2
+71,ISL - SWE,31:36,1896,2,PALICKA A 2-minutes suspension,12,SWE,12,16,,,,0,,"","",,,"","",,,,,,12,FALSE,0,0,6,ISL,53,30:43,31:35,16 - 18,-2
+71,ISL - SWE,31:36,1896,2,THULIN Tfor 2 CARLSBOGARD J Goalkeeper back,30,SWE,30,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,ISL,53,30:43,31:35,16 - 18,-2
+71,ISL - SWE,31:44,1904,2,JOHANSSON Efor 30 THULIN T Empty goal,42,SWE,Empty goal,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ISL,53,30:43,31:35,16 - 18,-2
+71,ISL - SWE,32:19,1939,2,JOHANSSON E Shot left 9m missed,42,SWE,Empty goal,16,,,42,0,,missed,left 9m,,,"","",,,,,,,FALSE,-1,1,6,SWE,54,31:35,32:19,16 - 18,-2
+71,ISL - SWE,32:22,1942,2,THULIN Tfor 24 GOTTFRIDSSON J Goalkeeper back,30,SWE,30,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,SWE,54,31:35,32:19,16 - 18,-2
+71,ISL - SWE,32:36,1956,2,ARNARSSON Afor 16 HALLGRIMSSON V Empty goal,21,ISL,Empty goal,30,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,SWE,54,31:35,32:19,16 - 18,-2
+71,ISL - SWE,32:55,1975,2,GUDJONSSON S Shot right 6m saved middle left,22,ISL,Empty goal,30,,,22,0,,middle left,right 6m,,1,middle,left,,,,,,,TRUE,-1,1,6,ISL,55,32:19,33:22,16 - 18,-2
+71,ISL - SWE,33:22,2002,2,GUDJONSSON S Shot right wing saved middle right,22,ISL,Empty goal,30,,,22,0,,middle right,right wing,,1,middle,right,,,,,,,TRUE,-1,1,6,ISL,55,32:19,33:22,16 - 18,-2
+71,ISL - SWE,33:25,2005,2,HALLGRIMSSON Vfor 21 ARNARSSON A Goalkeeper back,16,ISL,16,30,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ISL,55,32:19,33:22,16 - 18,-2
+71,ISL - SWE,33:31,2011,2,JOHANSSON Efor 30 THULIN T Empty goal,42,SWE,Empty goal,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ISL,55,32:19,33:22,16 - 18,-2
+71,ISL - SWE,33:47,2027,2,KRISTJANSSON V 7m caused,7,ISL,16,Empty goal,,,,0,,"","",,,"","",7,,,,,,TRUE,0,0,6,SWE,56,33:22,33:56,16 - 18,-2
+71,ISL - SWE,33:47,2027,2,JOHANSSON E 7m received,42,SWE,Empty goal,16,,,,0,,"","",,,"","",,42,,,,,FALSE,0,1,7,SWE,56,33:22,33:56,16 - 18,-2
+71,ISL - SWE,33:56,2036,2,EKBERG N Goal Penalty shot bottom centre (42 JOHANSSON E),10,SWE,Empty goal,16,42,10,,1,,bottom centre,Penalty,,,bottom,centre,,,,,,,FALSE,0,1,7,SWE,56,33:22,33:56,16 - 19,-3
+71,ISL - SWE,34:38,2078,2,KRISTJANSSON V Technical Fault,7,ISL,16,Empty goal,,,,0,,"","",,,"","",,,,7,,,TRUE,0,0,6,ISL,57,33:56,34:38,16 - 19,-3
+71,ISL - SWE,34:55,2095,2,GOTTFRIDSSON J Goal breakthrough top centre,24,SWE,Empty goal,16,,24,,1,,top centre,breakthrough,,,top,centre,,,,,,,FALSE,0,1,7,SWE,58,34:38,34:55,16 - 20,-4
+71,ISL - SWE,35:09,2109,2,Team timeout,"",ISL,16,Empty goal,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,59,34:55,35:22,16 - 20,-4
+71,ISL - SWE,35:22,2122,2,"KRISTJANSSON K Goal centre 9m bottom left (9 JONSSON E), 91 km/h",23,ISL,16,Empty goal,9,23,,1,91,bottom left,centre 9m,,,bottom,left,,,,,,,TRUE,0,0,6,ISL,59,34:55,35:22,17 - 20,-3
+71,ISL - SWE,35:37,2137,2,"EKBERG N Goal right 6m top left (23 LAGERGREN A), 86 km/h",10,SWE,Empty goal,16,23,10,,1,86,top left,right 6m,,,top,left,,,,,,,FALSE,0,1,7,SWE,60,35:22,35:37,17 - 21,-4
+71,ISL - SWE,36:29,2189,2,JONSSON E Shot left 6m saved middle left,9,ISL,16,Empty goal,,,9,0,,middle left,left 6m,,1,middle,left,,,,,,,TRUE,0,0,6,ISL,61,35:37,37:31,17 - 21,-4
+71,ISL - SWE,37:31,2251,2,KRISTJANSSON K Shot left 6m post,23,ISL,16,Empty goal,,,23,0,,post,left 6m,1,,"","",,,,,,,TRUE,0,0,6,ISL,61,35:37,37:31,17 - 21,-4
+71,ISL - SWE,37:40,2260,2,"GOTTFRIDSSON J Goal centre 6m middle centre, 103 km/h",24,SWE,Empty goal,16,,24,,1,103,middle centre,centre 6m,,,middle,centre,,,,,,,FALSE,0,1,7,SWE,62,37:31,37:40,17 - 22,-5
+71,ISL - SWE,37:55,2275,2,"ELISSON B Goal left wing bottom right (10 KRISTJANSSON G), 63 km/h",8,ISL,16,Empty goal,10,8,,1,63,bottom right,left wing,,,bottom,right,,,,,,,TRUE,0,0,6,ISL,63,37:40,37:55,18 - 22,-4
+71,ISL - SWE,38:45,2325,2,LAGERGREN A Shot right 6m post,23,SWE,Empty goal,16,,,23,0,,post,right 6m,1,,"","",,,,,,,FALSE,0,1,7,SWE,64,37:55,38:50,18 - 22,-4
+71,ISL - SWE,38:50,2330,2,EKBERG N Shot right wing saved bottom right,10,SWE,Empty goal,16,,,10,0,,bottom right,right wing,,1,bottom,right,,,,,,,FALSE,0,1,7,SWE,64,37:55,38:50,18 - 22,-4
+71,ISL - SWE,38:59,2339,2,"KRISTJANSSON G Goal breakthrough middle right, 62 km/h",10,ISL,16,Empty goal,,10,,1,62,middle right,breakthrough,,,middle,right,,,,,,,TRUE,0,0,6,ISL,65,38:50,38:59,19 - 22,-3
+71,ISL - SWE,39:08,2348,2,PELLAS L Goal fast break bottom left (24 GOTTFRIDSSON J),22,SWE,Empty goal,16,24,22,,1,,bottom left,fast break,,,bottom,left,,,,,,,FALSE,0,1,7,SWE,66,38:59,39:08,19 - 23,-4
+71,ISL - SWE,39:38,2378,2,KRISTJANSSON G Shot breakthrough saved middle left,10,ISL,16,Empty goal,,,10,0,,middle left,breakthrough,,1,middle,left,,,,,,,TRUE,0,0,6,ISL,67,39:08,39:38,19 - 23,-4
+71,ISL - SWE,39:48,2388,2,"PELLAS L Goal left wing bottom right (2 CARLSBOGARD J), 84 km/h",22,SWE,Empty goal,16,2,22,,1,84,bottom right,left wing,,,bottom,right,,,,,,,FALSE,0,1,7,SWE,68,39:38,39:48,19 - 24,-5
+71,ISL - SWE,40:19,2419,2,KRISTJANSSON K 7m received,23,ISL,16,Empty goal,,,,0,,"","",,,"","",,23,,,,,TRUE,0,0,6,ISL,69,39:48,40:31,19 - 24,-5
+71,ISL - SWE,40:19,2419,2,PELLAS L 7m caused,22,SWE,Empty goal,16,,,,0,,"","",,,"","",22,,,,,,FALSE,0,1,7,ISL,69,39:48,40:31,19 - 24,-5
+71,ISL - SWE,40:31,2431,2,"ELISSON B Goal Penalty shot middle left (23 KRISTJANSSON K), 72 km/h",8,ISL,16,Empty goal,23,8,,1,72,middle left,Penalty,,,middle,left,,,,,,,TRUE,0,0,6,ISL,69,39:48,40:31,20 - 24,-4
+71,ISL - SWE,41:12,2472,2,GOTTFRIDSSON J Technical Fault,24,SWE,Empty goal,16,,,,0,,"","",,,"","",,,,24,,,FALSE,0,1,7,SWE,70,40:31,41:12,20 - 24,-4
+71,ISL - SWE,41:21,2481,2,"KRISTJANSSON K Goal centre 9m bottom left (9 JONSSON E), 41 km/h",23,ISL,16,Empty goal,9,23,,1,41,bottom left,centre 9m,,,bottom,left,,,,,,,TRUE,0,0,6,ISL,71,41:12,41:21,21 - 24,-3
+71,ISL - SWE,41:32,2492,2,JONSSON E 7m caused,9,ISL,16,Empty goal,,,,0,,"","",,,"","",9,,,,,,TRUE,0,0,6,SWE,72,41:21,41:46,21 - 24,-3
+71,ISL - SWE,41:32,2492,2,LAGERGREN A 7m received,23,SWE,Empty goal,16,,,,0,,"","",,,"","",,23,,,,,FALSE,0,1,7,SWE,72,41:21,41:46,21 - 24,-3
+71,ISL - SWE,41:46,2506,2,"EKBERG N Goal Penalty shot bottom right (23 LAGERGREN A), 78 km/h",10,SWE,Empty goal,16,23,10,,1,78,bottom right,Penalty,,,bottom,right,,,,,,,FALSE,0,1,7,SWE,72,41:21,41:46,21 - 25,-4
+71,ISL - SWE,42:34,2554,2,"ELISSON B Goal left wing bottom right (10 KRISTJANSSON G), 65 km/h",8,ISL,16,Empty goal,10,8,,1,65,bottom right,left wing,,,bottom,right,,,,,,,TRUE,0,0,6,ISL,73,41:46,42:34,22 - 25,-3
+71,ISL - SWE,42:59,2579,2,EKBERG N Shot right 6m saved bottom centre,10,SWE,Empty goal,16,,,10,0,,bottom centre,right 6m,,1,bottom,centre,,,,,,,FALSE,0,1,7,SWE,74,42:34,42:59,22 - 25,-3
+71,ISL - SWE,43:36,2616,2,GUDJONSSON S Shot right wing saved middle left,22,ISL,16,Empty goal,,,22,0,,middle left,right wing,,1,middle,left,,,,,,,TRUE,0,0,6,ISL,75,42:59,44:42,22 - 25,-3
+71,ISL - SWE,44:10,2650,2,GOTTFRIDSSON J 2-minutes suspension,24,SWE,Empty goal,16,,,,0,,"","",,,"","",,,,,,24,FALSE,0,1,7,ISL,75,42:59,44:42,22 - 25,-3
+71,ISL - SWE,44:42,2682,2,VIDARSSON E Shot centre 6m saved middle right,18,ISL,16,Empty goal,,,18,0,,middle right,centre 6m,,1,middle,right,,,,,,,TRUE,0,0,6,ISL,75,42:59,44:42,22 - 25,-3
+71,ISL - SWE,45:01,2701,2,BERGENDAHL Ofor 12 PALICKA A Empty goal,32,SWE,Empty goal,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ISL,75,42:59,44:42,22 - 25,-3
+71,ISL - SWE,45:09,2709,2,RIKHARDSSON O 2-minutes suspension,2,ISL,16,Empty goal,,,,0,,"","",,,"","",,,,,,2,TRUE,0,0,6,ISL,75,42:59,44:42,22 - 25,-3
+71,ISL - SWE,45:09,2709,2,PELLAS L 2-minutes suspension,22,SWE,Empty goal,16,,,,0,,"","",,,"","",,,,,,22,FALSE,-1,1,6,ISL,75,42:59,44:42,22 - 25,-3
+71,ISL - SWE,45:34,2734,2,CARLSBOGARD J Shot centre 6m saved bottom right,2,SWE,Empty goal,16,,,2,0,,bottom right,centre 6m,,1,bottom,right,,,,,,,FALSE,-2,1,5,SWE,76,44:42,45:34,22 - 25,-3
+71,ISL - SWE,45:35,2735,2,PALICKA Afor 19 CLAAR F Goalkeeper back,12,SWE,12,16,,,,0,,"","",,,"","",,,,,,,FALSE,-2,0,4,SWE,76,44:42,45:34,22 - 25,-3
+71,ISL - SWE,46:04,2764,2,"GUDJONSSON S Goal right 6m top right (9 JONSSON E), 79 km/h",22,ISL,16,12,9,22,,1,79,top right,right 6m,,,top,right,,,,,,,TRUE,-1,0,5,ISL,77,45:34,46:04,23 - 25,-2
+71,ISL - SWE,46:29,2789,2,BERGENDAHL Ofor 12 PALICKA A Empty goal,32,SWE,Empty goal,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ISL,77,45:34,46:04,23 - 25,-2
+71,ISL - SWE,46:32,2792,2,"CLAAR F Goal breakthrough bottom left, 67 km/h",19,SWE,Empty goal,16,,19,,1,67,bottom left,breakthrough,,,bottom,left,,,,,,,FALSE,-1,1,6,SWE,78,46:04,46:32,23 - 26,-3
+71,ISL - SWE,46:34,2794,2,VIDARSSON E Shot centre 9m post,18,ISL,16,12,,,18,0,,post,centre 9m,1,,"","",,,,,,,TRUE,-1,0,5,ISL,79,46:32,46:34,23 - 26,-3
+71,ISL - SWE,46:34,2794,2,PALICKA Afor 15 WANNE H Goalkeeper back,12,SWE,12,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,ISL,79,46:32,46:34,23 - 26,-3
+71,ISL - SWE,46:52,2812,2,WANNE Hfor 12 PALICKA A Empty goal,15,SWE,Empty goal,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,1,6,ISL,79,46:32,46:34,23 - 26,-3
+71,ISL - SWE,47:09,2829,2,PALICKA Afor 22 PELLAS L Goalkeeper back,12,SWE,12,16,,,,0,,"","",,,"","",,,,,,,FALSE,-1,0,5,ISL,79,46:32,46:34,23 - 26,-3
+71,ISL - SWE,47:48,2868,2,CLAAR F Turnover,19,SWE,12,16,,,,0,,"","",,,"","",,,19,,,,FALSE,0,0,6,SWE,80,46:34,47:48,23 - 26,-3
+71,ISL - SWE,47:52,2872,2,VIDARSSON E Shot fast break saved bottom left,18,ISL,16,12,,,18,0,,bottom left,fast break,,1,bottom,left,,,,,,,TRUE,0,0,6,ISL,81,47:48,47:52,23 - 26,-3
+71,ISL - SWE,48:26,2906,2,"SANDELL L Goal centre 6m bottom left (2 CARLSBOGARD J), 92 km/h",33,SWE,12,16,2,33,,1,92,bottom left,centre 6m,,,bottom,left,,,,,,,FALSE,0,0,6,SWE,82,47:52,48:26,23 - 27,-4
+71,ISL - SWE,49:21,2961,2,SMARASON J Turnover,3,ISL,16,12,,,,0,,"","",,,"","",,,3,,,,TRUE,0,0,6,ISL,83,48:26,49:21,23 - 27,-4
+71,ISL - SWE,49:27,2967,2,CLAAR F Technical Fault,19,SWE,12,16,,,,0,,"","",,,"","",,,,19,,,FALSE,0,0,6,SWE,84,49:21,49:27,23 - 27,-4
+71,ISL - SWE,49:36,2976,2,"SMARASON J Goal fast break middle left (22 GUDJONSSON S), 54 km/h",3,ISL,16,12,22,3,,1,54,middle left,fast break,,,middle,left,,,,,,,TRUE,0,0,6,ISL,85,49:27,49:36,24 - 27,-3
+71,ISL - SWE,50:35,3035,2,Team timeout,"",SWE,12,16,,,,0,,"","",,,"","",,,,,,,FALSE,0,0,6,SWE,86,49:36,51:09,24 - 27,-3
+71,ISL - SWE,50:52,3052,2,ARNARSSON A 2-minutes suspension,21,ISL,16,12,,,,0,,"","",,,"","",,,,,,21,TRUE,0,0,6,SWE,86,49:36,51:09,24 - 27,-3
+71,ISL - SWE,50:52,3052,2,JOHANSSON E Shot right 6m saved middle left,42,SWE,12,16,,,42,0,,middle left,right 6m,,1,middle,left,,,,,,,FALSE,0,0,6,SWE,86,49:36,51:09,24 - 27,-3
+71,ISL - SWE,51:09,3069,2,SMARASON J 7m caused,3,ISL,16,12,,,,0,,"","",,,"","",3,,,,,,TRUE,-1,0,5,SWE,86,49:36,51:09,24 - 27,-3
+71,ISL - SWE,51:09,3069,2,GUSTAVSSON Bfor 16 HALLGRIMSSON V Goalkeeper Substitution,1,ISL,16,12,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,SWE,86,49:36,51:09,24 - 27,-3
+71,ISL - SWE,51:09,3069,2,GOTTFRIDSSON J 7m received,24,SWE,12,16,,,,0,,"","",,,"","",,24,,,,,FALSE,0,0,6,SWE,86,49:36,51:09,24 - 27,-3
+71,ISL - SWE,51:09,3069,2,"EKBERG N Goal Penalty shot bottom left (24 GOTTFRIDSSON J), 95 km/h",10,SWE,12,16,24,10,,1,95,bottom left,Penalty,,,bottom,left,,,,,,,FALSE,0,0,6,SWE,86,49:36,51:09,24 - 28,-4
+71,ISL - SWE,51:25,3085,2,KRISTJANSSON Vfor 1 GUSTAVSSON B Empty goal,7,ISL,Empty goal,12,,,,0,,"","",,,"","",,,,,,,TRUE,-1,1,6,SWE,86,49:36,51:09,24 - 28,-4
+71,ISL - SWE,51:47,3107,2,KRISTJANSSON V Shot right 6m saved middle centre,7,ISL,Empty goal,12,,,7,0,,middle centre,right 6m,,1,middle,centre,,,,,,,TRUE,-1,1,6,ISL,87,51:09,51:47,24 - 28,-4
+71,ISL - SWE,51:53,3113,2,CARLSBOGARD J Goal empty goal middle right,2,SWE,12,Empty goal,,2,,1,,middle right,empty goal,,,middle,right,,,,,,,FALSE,0,0,6,SWE,88,51:47,51:53,24 - 29,-5
+71,ISL - SWE,52:23,3143,2,KRISTJANSSON V Shot right 6m saved middle right,7,ISL,Empty goal,12,,,7,0,,middle right,right 6m,,1,middle,right,,,,,,,TRUE,-1,1,6,ISL,89,51:53,52:23,24 - 29,-5
+71,ISL - SWE,52:28,3148,2,HALLGRIMSSON Vfor 10 KRISTJANSSON G Goalkeeper back,16,ISL,16,12,,,,0,,"","",,,"","",,,,,,,TRUE,-1,0,5,ISL,89,51:53,52:23,24 - 29,-5
+71,ISL - SWE,52:47,3167,2,GOTTFRIDSSON J Technical Fault,24,SWE,12,16,,,,0,,"","",,,"","",,,,24,,,FALSE,0,0,6,SWE,90,52:23,52:47,24 - 29,-5
+71,ISL - SWE,52:56,3176,2,KRISTJANSSON V Turnover,7,ISL,16,12,,,,0,,"","",,,"","",,,7,,,,TRUE,0,0,6,ISL,91,52:47,52:56,24 - 29,-5
+71,ISL - SWE,52:56,3176,2,GOTTFRIDSSON J Steal,24,SWE,12,16,,,,0,,"","",,,"","",,,,,24,,FALSE,0,0,6,ISL,91,52:47,52:56,24 - 29,-5
+71,ISL - SWE,53:05,3185,2,"PELLAS L Goal fast break bottom right (24 GOTTFRIDSSON J), 84 km/h",22,SWE,12,16,24,22,,1,84,bottom right,fast break,,,bottom,right,,,,,,,FALSE,0,0,6,SWE,92,52:56,53:05,24 - 30,-6
+71,ISL - SWE,53:06,3186,2,Team timeout,"",ISL,16,12,,,,0,,"","",,,"","",,,,,,,TRUE,0,0,6,ISL,93,53:05,53:39,24 - 30,-6
+71,ISL - SWE,53:39,3219,2,KRISTJANSSON K Goal right 9m bottom right (10 KRISTJANSSON G),23,ISL,16,12,10,23,,1,,bottom right,right 9m,,,bottom,right,,,,,,,TRUE,0,0,6,ISL,93,53:05,53:39,25 - 30,-5
+71,ISL - SWE,54:22,3262,2,GOTTFRIDSSON J Technical Fault,24,SWE,12,16,,,,0,,"","",,,"","",,,,24,,,FALSE,0,0,6,SWE,94,53:39,54:22,25 - 30,-5
+71,ISL - SWE,54:33,3273,2,KRISTJANSSON G Shot breakthrough saved middle left,10,ISL,16,12,,,10,0,,middle left,breakthrough,,1,middle,left,,,,,,,TRUE,0,0,6,ISL,95,54:22,54:33,25 - 30,-5
+71,ISL - SWE,55:38,3338,2,"BERGENDAHL O Goal centre 6m bottom right (19 CLAAR F), 70 km/h",32,SWE,12,16,19,32,,1,70,bottom right,centre 6m,,,bottom,right,,,,,,,FALSE,0,0,6,SWE,96,54:33,55:38,25 - 31,-6
+71,ISL - SWE,55:50,3350,2,"ELISSON B Goal left wing top right (3 SMARASON J), 80 km/h",8,ISL,16,12,3,8,,1,80,top right,left wing,,,top,right,,,,,,,TRUE,0,0,6,ISL,97,55:38,55:50,26 - 31,-5
+71,ISL - SWE,56:47,3407,2,"GOTTFRIDSSON J Goal centre 6m top right, 95 km/h",24,SWE,12,16,,24,,1,95,top right,centre 6m,,,top,right,,,,,,,FALSE,0,0,6,SWE,98,55:50,56:47,26 - 32,-6
+71,ISL - SWE,57:29,3449,2,ELISSON B Shot centre 6m saved middle left,8,ISL,16,12,,,8,0,,middle left,centre 6m,,1,middle,left,,,,,,,TRUE,0,0,6,ISL,99,56:47,57:29,26 - 32,-6
+71,ISL - SWE,57:36,3456,2,"PELLAS L Goal fast break top left (23 LAGERGREN A), 70 km/h",22,SWE,12,16,23,22,,1,70,top left,fast break,,,top,left,,,,,,,FALSE,0,0,6,SWE,100,57:29,57:36,26 - 33,-7
+71,ISL - SWE,58:05,3485,2,"VIDARSSON E Goal centre 6m bottom centre (23 KRISTJANSSON K), 80 km/h",18,ISL,16,12,23,18,,1,80,bottom centre,centre 6m,,,bottom,centre,,,,,,,TRUE,0,0,6,ISL,101,57:36,58:05,27 - 33,-6
+71,ISL - SWE,58:27,3507,2,GOTTFRIDSSON J Goal breakthrough middle left,24,SWE,12,16,,24,,1,,middle left,breakthrough,,,middle,left,,,,,,,FALSE,0,0,6,SWE,102,58:05,58:27,27 - 34,-7
+71,ISL - SWE,58:34,3514,2,"GUDJONSSON S Goal fast break top left (8 ELISSON B), 80 km/h",22,ISL,16,12,8,22,,1,80,top left,fast break,,,top,left,,,,,,,TRUE,0,0,6,ISL,103,58:27,58:34,28 - 34,-6
+71,ISL - SWE,58:57,3537,2,LAGERGREN A Technical Fault,23,SWE,12,16,,,,0,,"","",,,"","",,,,23,,,FALSE,0,0,6,SWE,104,58:34,58:57,28 - 34,-6
+71,ISL - SWE,59:06,3546,2,"KRISTJANSSON K Goal centre 6m middle left (10 KRISTJANSSON G), 65 km/h",23,ISL,16,12,10,23,,1,65,middle left,centre 6m,,,middle,left,,,,,,,TRUE,0,0,6,ISL,105,58:57,59:06,29 - 34,-5
+71,ISL - SWE,59:35,3575,2,"EKBERG N Goal right wing top left (19 CLAAR F), 91 km/h",10,SWE,12,16,19,10,,1,91,top left,right wing,,,top,left,,,,,,,FALSE,0,0,6,SWE,106,59:06,59:35,29 - 35,-6
+71,ISL - SWE,60:00,3600,2,KRISTJANSSON K Goal centre 6m middle right (3 SMARASON J),23,ISL,16,12,3,23,,1,,middle right,centre 6m,,,middle,right,,,,,,,TRUE,0,0,6,ISL,107,59:35,60:00,30 - 35,-5
+65,MNE - POL,0:00,0,1,SIMIC N Goalkeeper,16,MNE,16,1,,,,0,,,,,,,,,,,,,,TRUE,0,,,MNE,1,,,0 - 0,0
+65,MNE - POL,0:00,0,1,KORNECKI M Goalkeeper,1,POL,1,16,,,,0,,,,,,,,,,,,,,FALSE,0,,,MNE,1,,,0 - 0,0
+65,MNE - POL,0:45,45,1,LAZOVIC V Turnover,8,MNE,16,1,,,,0,,,,,,,,,,8,,,,TRUE,0,0,6,MNE,1,0:00,0:45,0 - 0,0
+65,MNE - POL,0:45,45,1,MORYTO A Steal,23,POL,1,16,,,,0,,,,,,,,,,,,23,,FALSE,0,0,6,MNE,1,0:00,0:45,0 - 0,0
+65,MNE - POL,0:53,53,1,DZIALAKIEWICZ S Shot centre 6m saved middle centre,31,POL,1,16,,,31,0,,middle centre,centre 6m,,1,middle,centre,,,,,,,FALSE,0,0,6,POL,2,0:45,0:53,0 - 0,0
+65,MNE - POL,1:09,69,1,VUJOVIC M Shot fast break saved middle right,6,MNE,16,1,,,6,0,,middle right,fast break,,1,middle,right,,,,,,,TRUE,0,0,6,MNE,3,0:53,1:09,0 - 0,0
+65,MNE - POL,1:34,94,1,SICKO S Shot centre 9m saved middle right,9,POL,1,16,,,9,0,,middle right,centre 9m,,1,middle,right,,,,,,,FALSE,0,0,6,POL,4,1:09,1:34,0 - 0,0
+65,MNE - POL,2:40,160,1,ANDJELIC B Turnover,32,MNE,16,1,,,,0,,,,,,,,,,32,,,,TRUE,0,0,6,MNE,5,1:34,2:40,0 - 0,0
+65,MNE - POL,2:40,160,1,MORYTO A Steal,23,POL,1,16,,,,0,,,,,,,,,,,,23,,FALSE,0,0,6,MNE,5,1:34,2:40,0 - 0,0
+65,MNE - POL,2:46,166,1,MORYTO A Shot fast break post,23,POL,1,16,,,23,0,,post,fast break,1,,,,,,,,,,FALSE,0,0,6,POL,6,2:40,2:46,0 - 0,0
+65,MNE - POL,3:32,212,1,VUJOVIC M Technical Fault,6,MNE,16,1,,,,0,,,,,,,,,,,6,,,TRUE,0,0,6,MNE,7,2:46,3:32,0 - 0,0
+65,MNE - POL,4:20,260,1,"DZIALAKIEWICZ S Goal breakthrough middle right, 87 km/h",31,POL,1,16,,31,,1,87,middle right,breakthrough,,,middle,right,,,,,,,FALSE,0,0,6,POL,8,3:32,4:20,0 - 1,-1
+65,MNE - POL,4:44,284,1,VUJOVIC B Shot centre 9m saved bottom right,11,MNE,16,1,,,11,0,,bottom right,centre 9m,,1,bottom,right,,,,,,,TRUE,0,0,6,MNE,9,4:20,4:44,0 - 1,-1
+65,MNE - POL,5:23,323,1,"JEDRASZCZYK P Goal centre 9m top left, 102 km/h",4,POL,1,16,,4,,1,102,top left,centre 9m,,,top,left,,,,,,,FALSE,0,0,6,POL,10,4:44,5:23,0 - 2,-2
+65,MNE - POL,5:35,335,1,CEPIC R Turnover,9,MNE,16,1,,,,0,,,,,,,,,,9,,,,TRUE,0,0,6,MNE,11,5:23,5:35,0 - 2,-2
+65,MNE - POL,5:35,335,1,GEBALA T Steal,48,POL,1,16,,,,0,,,,,,,,,,,,48,,FALSE,0,0,6,MNE,11,5:23,5:35,0 - 2,-2
+65,MNE - POL,5:43,343,1,"MORYTO A Goal fast break bottom left (48 GEBALA T), 85 km/h",23,POL,1,16,48,23,,1,85,bottom left,fast break,,,bottom,left,,,,,,,FALSE,0,0,6,POL,12,5:35,5:43,0 - 3,-3
+65,MNE - POL,6:10,370,1,LAZOVIC V Goal left 6m bottom left (11 VUJOVIC B),8,MNE,16,1,11,8,,1,,bottom left,left 6m,,,bottom,left,,,,,,,TRUE,0,0,6,MNE,13,5:43,6:10,1 - 3,-2
+65,MNE - POL,6:54,414,1,GEBALA M Technical Fault,28,POL,1,16,,,,0,,,,,,,,,,,28,,,FALSE,0,0,6,POL,14,6:10,6:54,1 - 3,-2
+65,MNE - POL,7:25,445,1,VUJOVIC B Shot centre 6m saved bottom centre,11,MNE,16,1,,,11,0,,bottom centre,centre 6m,,1,bottom,centre,,,,,,,TRUE,0,0,6,MNE,15,6:54,7:25,1 - 3,-2
+65,MNE - POL,8:10,490,1,DZIALAKIEWICZ S Shot centre 9m saved middle left,31,POL,1,16,,,31,0,,middle left,centre 9m,,1,middle,left,,,,,,,FALSE,0,0,6,POL,16,7:25,8:10,1 - 3,-2
+65,MNE - POL,8:55,535,1,CEPIC R Shot left 6m saved middle centre,9,MNE,16,1,,,9,0,,middle centre,left 6m,,1,middle,centre,,,,,,,TRUE,0,0,6,MNE,17,8:10,9:26,1 - 3,-2
+65,MNE - POL,9:26,566,1,VUJOVIC M Technical Fault,6,MNE,16,1,,,,0,,,,,,,,,,,6,,,TRUE,0,0,6,MNE,17,8:10,9:26,1 - 3,-2
+65,MNE - POL,10:00,600,1,"SICKO S Goal left 6m bottom left, 103 km/h",9,POL,1,16,,9,,1,103,bottom left,left 6m,,,bottom,left,,,,,,,FALSE,0,0,6,POL,18,9:26,10:00,1 - 4,-3
+65,MNE - POL,10:49,649,1,CEPIC R Shot breakthrough saved bottom centre,9,MNE,16,1,,,9,0,,bottom centre,breakthrough,,1,bottom,centre,,,,,,,TRUE,0,0,6,MNE,19,10:00,10:49,1 - 4,-3
+65,MNE - POL,11:13,673,1,SICKO S Shot centre 6m saved middle left,9,POL,1,16,,,9,0,,middle left,centre 6m,,1,middle,left,,,,,,,FALSE,0,0,6,POL,20,10:49,11:13,1 - 4,-3
+65,MNE - POL,11:22,682,1,"CORSOVIC M Goal fast break top left, 77 km/h",10,MNE,16,1,,10,,1,77,top left,fast break,,,top,left,,,,,,,TRUE,0,0,6,MNE,21,11:13,11:22,2 - 4,-2
+65,MNE - POL,11:50,710,1,JEDRASZCZYK P Goal left 6m bottom right,4,POL,1,16,,4,,1,,bottom right,left 6m,,,bottom,right,,,,,,,FALSE,0,0,6,POL,22,11:22,11:50,2 - 5,-3
+65,MNE - POL,12:32,752,1,KALUDJEROVIC V Shot centre 9m blocked,17,MNE,16,1,,,17,0,,blocked,centre 9m,,,,,,,,,,,TRUE,0,0,6,MNE,23,11:50,12:32,2 - 5,-3
+65,MNE - POL,12:32,752,1,GEBALA M Block,28,POL,1,16,,,,0,,,,,,,,,,,,,,FALSE,0,0,6,MNE,23,11:50,12:32,2 - 5,-3
+65,MNE - POL,12:43,763,1,VUJOVIC M Steal,6,MNE,16,1,,,,0,,,,,,,,,,,,6,,TRUE,0,0,6,POL,24,12:32,12:43,2 - 5,-3
+65,MNE - POL,12:43,763,1,JEDRASZCZYK P Turnover,4,POL,1,16,,,,0,,,,,,,,,,4,,,,FALSE,0,0,6,POL,24,12:32,12:43,2 - 5,-3
+65,MNE - POL,13:20,800,1,Team timeout,"",MNE,16,1,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,MNE,25,12:43,13:23,2 - 5,-3
+65,MNE - POL,13:23,803,1,VUJOVIC B Shot centre 9m missed,11,MNE,16,1,,,11,0,,missed,centre 9m,,,,,,,,,,,TRUE,0,0,6,MNE,25,12:43,13:23,2 - 5,-3
+65,MNE - POL,13:56,836,1,"JEDRASZCZYK P Goal breakthrough top left, 89 km/h",4,POL,1,16,,4,,1,89,top left,breakthrough,,,top,left,,,,,,,FALSE,0,0,6,POL,26,13:23,13:56,2 - 6,-4
+65,MNE - POL,14:07,847,1,VUJOVIC Bfor 16 SIMIC N Empty goal,11,MNE,Empty goal,1,,,,0,,,,,,,,,,,,,,TRUE,0,1,7,POL,26,13:23,13:56,2 - 6,-4
+65,MNE - POL,14:22,862,1,SIMIC Nfor 10 CORSOVIC M Goalkeeper back,16,MNE,16,1,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,POL,26,13:23,13:56,2 - 6,-4
+65,MNE - POL,14:22,862,1,GEBALA T 2-minutes suspension,48,POL,1,Empty goal,,,,0,,,,,,,,,,,,,48,FALSE,0,0,6,POL,26,13:23,13:56,2 - 6,-4
+65,MNE - POL,14:37,877,1,LAZOVIC V Goal centre 6m bottom right (11 VUJOVIC B),8,MNE,16,1,11,8,,1,,bottom right,centre 6m,,,bottom,right,,,,,,,TRUE,0,0,6,MNE,27,13:56,14:37,3 - 6,-3
+65,MNE - POL,14:53,893,1,JEDRASZCZYK Pfor 1 KORNECKI M Empty goal,4,POL,Empty goal,16,,,,0,,,,,,,,,,,,,,FALSE,-1,1,6,MNE,27,13:56,14:37,3 - 6,-3
+65,MNE - POL,15:21,921,1,VUJACIC R Steal,26,MNE,16,Empty goal,,,,0,,,,,,,,,,,,26,,TRUE,0,0,6,POL,28,14:37,15:21,3 - 6,-3
+65,MNE - POL,15:21,921,1,SICKO S Turnover,9,POL,Empty goal,16,,,,0,,,,,,,,,,9,,,,FALSE,-1,1,6,POL,28,14:37,15:21,3 - 6,-3
+65,MNE - POL,15:22,922,1,KORNECKI Mfor 19 CZUWARA J Goalkeeper back,1,POL,1,16,,,,0,,,,,,,,,,,,,,FALSE,-1,0,5,POL,28,14:37,15:21,3 - 6,-3
+65,MNE - POL,15:28,928,1,VUJOVIC M Goal empty goal bottom left,6,MNE,16,1,,6,,1,,bottom left,empty goal,,,bottom,left,,,,,,,TRUE,0,0,6,MNE,29,15:21,15:28,4 - 6,-2
+65,MNE - POL,15:37,937,1,CZUWARA Jfor 1 KORNECKI M Empty goal,19,POL,Empty goal,16,,,,0,,,,,,,,,,,,,,FALSE,-1,1,6,MNE,29,15:21,15:28,4 - 6,-2
+65,MNE - POL,16:21,981,1,GEBALA M Shot centre 6m saved middle right,28,POL,Empty goal,16,,,28,0,,middle right,centre 6m,,1,middle,right,,,,,,,FALSE,-1,1,6,POL,30,15:28,16:21,4 - 6,-2
+65,MNE - POL,16:27,987,1,"VUJOVIC M Goal empty goal middle centre, 83 km/h",6,MNE,16,Empty goal,,6,,1,83,middle centre,empty goal,,,middle,centre,,,,,,,TRUE,0,0,6,MNE,31,16:21,16:27,5 - 6,-1
+65,MNE - POL,16:36,996,1,KORNECKI Mfor 48 GEBALA T Goalkeeper back,1,POL,1,16,,,,0,,,,,,,,,,,,,,FALSE,0,0,6,MNE,31,16:21,16:27,5 - 6,-1
+65,MNE - POL,17:12,1032,1,"SICKO S Goal centre 9m bottom left, 106 km/h",9,POL,1,16,,9,,1,106,bottom left,centre 9m,,,bottom,left,,,,,,,FALSE,0,0,6,POL,32,16:27,17:12,5 - 7,-2
+65,MNE - POL,17:29,1049,1,LAZOVIC V Shot right 6m saved middle left,8,MNE,16,1,,,8,0,,middle left,right 6m,,1,middle,left,,,,,,,TRUE,0,0,6,MNE,33,17:12,17:29,5 - 7,-2
+65,MNE - POL,18:37,1117,1,JEDRASZCZYK P Shot centre 9m missed,4,POL,1,16,,,4,0,,missed,centre 9m,,,,,,,,,,,FALSE,0,0,6,POL,34,17:29,18:37,5 - 7,-2
+65,MNE - POL,18:48,1128,1,"VUJACIC R Goal left 6m middle right, 100 km/h",26,MNE,16,1,,26,,1,100,middle right,left 6m,,,middle,right,,,,,,,TRUE,0,0,6,MNE,35,18:37,18:48,6 - 7,-1
+65,MNE - POL,18:58,1138,1,MORYTO A Shot fast break missed,23,POL,1,16,,,23,0,,missed,fast break,,,,,,,,,,,FALSE,0,0,6,POL,36,18:48,18:58,6 - 7,-1
+65,MNE - POL,19:07,1147,1,WALCZAK P 2-minutes suspension,7,POL,1,16,,,,0,,,,,,,,,,,,,7,FALSE,0,0,6,POL,36,18:48,18:58,6 - 7,-1
+65,MNE - POL,19:19,1159,1,VUJOVIC M 7m received,6,MNE,16,1,,,,0,,,,,,,,,6,,,,,TRUE,0,0,6,MNE,37,18:58,19:19,6 - 7,-1
+65,MNE - POL,19:19,1159,1,SEVALJEVIC V Penalty shot missed,21,MNE,16,1,,,21,0,,missed,Penalty,,,,,,,,,,,TRUE,0,0,6,MNE,37,18:58,19:19,6 - 7,-1
+65,MNE - POL,19:19,1159,1,MORYTO A 7m caused,23,POL,1,16,,,,0,,,,,,,,23,,,,,,FALSE,-1,0,5,MNE,37,18:58,19:19,6 - 7,-1
+65,MNE - POL,19:19,1159,1,MORYTO A Disqualification (red card-direct),23,POL,1,16,,,,0,,,,,,,,,,,,,,FALSE,-1,0,5,MNE,37,18:58,19:19,6 - 7,-1
+65,MNE - POL,19:42,1182,1,DASZEK Mfor 1 KORNECKI M Empty goal,3,POL,Empty goal,16,,,,0,,,,,,,,,,,,,,FALSE,-1,1,6,MNE,37,18:58,19:19,6 - 7,-1
+65,MNE - POL,20:01,1201,1,KORNECKI Mfor 9 SICKO S Goalkeeper back,1,POL,1,16,,,,0,,,,,,,,,,,,,,FALSE,-1,0,5,MNE,37,18:58,19:19,6 - 7,-1
+65,MNE - POL,20:13,1213,1,CZUWARA J Turnover,19,POL,1,16,,,,0,,,,,,,,,,19,,,,FALSE,-1,0,5,POL,38,19:19,20:13,6 - 7,-1
+65,MNE - POL,20:27,1227,1,RADOVIC M Technical Fault,13,MNE,16,1,,,,0,,,,,,,,,,,13,,,TRUE,0,0,6,MNE,39,20:13,20:27,6 - 7,-1
+65,MNE - POL,20:37,1237,1,SICKO Sfor 1 KORNECKI M Empty goal,9,POL,Empty goal,16,,,,0,,,,,,,,,,,,,,FALSE,-1,1,6,MNE,39,20:13,20:27,6 - 7,-1
+65,MNE - POL,20:55,1255,1,Team timeout,"",POL,Empty goal,16,,,,0,,,,,,,,,,,,,,FALSE,-1,1,6,POL,40,20:27,21:26,6 - 7,-1
+65,MNE - POL,21:17,1277,1,SICKO S Shot right 9m saved middle left,9,POL,Empty goal,16,,,9,0,,middle left,right 9m,,1,middle,left,,,,,,,FALSE,0,1,7,POL,40,20:27,21:26,6 - 7,-1
+65,MNE - POL,21:18,1278,1,KORNECKI Mfor 20 PILITOWSKI M Goalkeeper back,1,POL,1,16,,,,0,,,,,,,,,,,,,,FALSE,0,0,6,POL,40,20:27,21:26,6 - 7,-1
+65,MNE - POL,21:26,1286,1,BIS B Technical Fault,8,POL,1,16,,,,0,,,,,,,,,,,8,,,FALSE,0,0,6,POL,40,20:27,21:26,6 - 7,-1
+65,MNE - POL,21:33,1293,1,RADOVIC M Shot fast break saved middle left,13,MNE,16,1,,,13,0,,middle left,fast break,,1,middle,left,,,,,,,TRUE,0,0,6,MNE,41,21:26,22:00,6 - 7,-1
+65,MNE - POL,22:00,1320,1,CORSOVIC M Shot centre 6m saved middle left,10,MNE,16,1,,,10,0,,middle left,centre 6m,,1,middle,left,,,,,,,TRUE,0,0,6,MNE,41,21:26,22:00,6 - 7,-1
+65,MNE - POL,22:14,1334,1,VUJACIC R 7m caused,26,MNE,16,1,,,,0,,,,,,,,26,,,,,,TRUE,0,0,6,POL,42,22:00,22:14,6 - 7,-1
+65,MNE - POL,22:14,1334,1,VUJACIC R 2-minutes suspension,26,MNE,16,1,,,,0,,,,,,,,,,,,,26,TRUE,0,0,6,POL,42,22:00,22:14,6 - 7,-1
+65,MNE - POL,22:14,1334,1,SICKO S 7m received,9,POL,1,16,,,,0,,,,,,,,,9,,,,,FALSE,0,0,6,POL,42,22:00,22:14,6 - 7,-1
+65,MNE - POL,22:14,1334,1,CZUWARA J Penalty shot saved top centre,19,POL,1,16,,,19,0,,top centre,Penalty,,1,top,centre,,,,,,,FALSE,0,0,6,POL,42,22:00,22:14,6 - 7,-1
+65,MNE - POL,22:33,1353,1,VUJOVIC Bfor 16 SIMIC N Empty goal,11,MNE,Empty goal,1,,,,0,,,,,,,,,,,,,,TRUE,-1,1,6,POL,42,22:00,22:14,6 - 7,-1
+65,MNE - POL,23:08,1388,1,SEVALJEVIC V Turnover,21,MNE,Empty goal,1,,,,0,,,,,,,,,,21,,,,TRUE,-1,1,6,MNE,43,22:14,23:08,6 - 7,-1
+65,MNE - POL,23:08,1388,1,WALCZAK P Steal,7,POL,1,Empty goal,,,,0,,,,,,,,,,,,7,,FALSE,0,0,6,MNE,43,22:14,23:08,6 - 7,-1
+65,MNE - POL,23:12,1392,1,SIMIC Nfor 13 RADOVIC M Goalkeeper back,16,MNE,16,1,,,,0,,,,,,,,,,,,,,TRUE,-1,0,5,MNE,43,22:14,23:08,6 - 7,-1
+65,MNE - POL,23:48,1428,1,"DZIALAKIEWICZ S Goal right 6m middle left, 98 km/h",31,POL,1,16,,31,,1,98,middle left,right 6m,,,middle,left,,,,,,,FALSE,0,0,6,POL,44,23:08,23:48,6 - 8,-2
+65,MNE - POL,23:57,1437,1,RADOVIC Mfor 16 SIMIC N Empty goal,13,MNE,Empty goal,1,,,,0,,,,,,,,,,,,,,TRUE,-1,1,6,POL,44,23:08,23:48,6 - 8,-2
+65,MNE - POL,24:20,1460,1,KALUDJEROVIC V 7m received,17,MNE,Empty goal,1,,,,0,,,,,,,,,17,,,,,TRUE,0,1,7,MNE,45,23:48,24:32,6 - 8,-2
+65,MNE - POL,24:20,1460,1,DZIALAKIEWICZ S 7m caused,31,POL,1,Empty goal,,,,0,,,,,,,,31,,,,,,FALSE,0,0,6,MNE,45,23:48,24:32,6 - 8,-2
+65,MNE - POL,24:24,1464,1,SIMIC Nfor 26 VUJACIC R Goalkeeper back,16,MNE,16,1,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,MNE,45,23:48,24:32,6 - 8,-2
+65,MNE - POL,24:32,1472,1,VUJOVIC M Goal Penalty shot middle left (17 KALUDJEROVIC V),6,MNE,16,1,17,6,,1,,middle left,Penalty,,,middle,left,,,,,,,TRUE,0,0,6,MNE,45,23:48,24:32,7 - 8,-1
+65,MNE - POL,25:22,1522,1,DZIALAKIEWICZ S Shot right 9m saved bottom right,31,POL,1,16,,,31,0,,bottom right,right 9m,,1,bottom,right,,,,,,,FALSE,0,0,6,POL,46,24:32,25:22,7 - 8,-1
+65,MNE - POL,25:49,1549,1,VUJOVIC B Shot right 6m saved bottom left,11,MNE,16,1,,,11,0,,bottom left,right 6m,,1,bottom,left,,,,,,,TRUE,0,0,6,MNE,47,25:22,25:49,7 - 8,-1
+65,MNE - POL,26:22,1582,1,DASZEK M Turnover,3,POL,1,16,,,,0,,,,,,,,,,3,,,,FALSE,0,0,6,POL,48,25:49,26:22,7 - 8,-1
+65,MNE - POL,26:27,1587,1,"VUJOVIC B Goal fast break bottom right (17 KALUDJEROVIC V), 67 km/h",11,MNE,16,1,17,11,,1,67,bottom right,fast break,,,bottom,right,,,,,,,TRUE,0,0,6,MNE,49,26:22,26:27,8 - 8,0
+65,MNE - POL,26:56,1616,1,"SICKO S Goal breakthrough top right, 68 km/h",9,POL,1,16,,9,,1,68,top right,breakthrough,,,top,right,,,,,,,FALSE,0,0,6,POL,50,26:27,26:56,8 - 9,-1
+65,MNE - POL,27:06,1626,1,KALUDJEROVIC V 7m received,17,MNE,16,1,,,,0,,,,,,,,,17,,,,,TRUE,0,0,6,MNE,51,26:56,27:11,8 - 9,-1
+65,MNE - POL,27:06,1626,1,KOMARZEWSKI K 7m caused,6,POL,1,16,,,,0,,,,,,,,6,,,,,,FALSE,0,0,6,MNE,51,26:56,27:11,8 - 9,-1
+65,MNE - POL,27:11,1631,1,VUJOVIC M Penalty shot saved bottom left,6,MNE,16,1,,,6,0,,bottom left,Penalty,,1,bottom,left,,,,,,,TRUE,0,0,6,MNE,51,26:56,27:11,8 - 9,-1
+65,MNE - POL,28:28,1708,1,"DASZEK M Goal right 6m bottom left (4 JEDRASZCZYK P), 73 km/h",3,POL,1,16,4,3,,1,73,bottom left,right 6m,,,bottom,left,,,,,,,FALSE,0,0,6,POL,52,27:11,28:28,8 - 10,-2
+65,MNE - POL,28:37,1717,1,WALCZAK P 2-minutes suspension,7,POL,1,16,,,,0,,,,,,,,,,,,,7,FALSE,0,0,6,POL,52,27:11,28:28,8 - 10,-2
+65,MNE - POL,28:52,1732,1,SEVALJEVIC V Technical Fault,21,MNE,16,1,,,,0,,,,,,,,,,,21,,,TRUE,0,0,6,MNE,53,28:28,28:52,8 - 10,-2
+65,MNE - POL,29:08,1748,1,BIS Bfor 1 KORNECKI M Empty goal,8,POL,Empty goal,16,,,,0,,,,,,,,,,,,,,FALSE,-1,1,6,MNE,53,28:28,28:52,8 - 10,-2
+65,MNE - POL,29:34,1774,1,SICKO S Goal breakthrough top centre,9,POL,Empty goal,16,,9,,1,,top centre,breakthrough,,,top,centre,,,,,,,FALSE,-1,1,6,POL,54,28:52,29:34,8 - 11,-3
+65,MNE - POL,29:35,1775,1,KORNECKI Mfor 4 JEDRASZCZYK P Goalkeeper back,1,POL,1,16,,,,0,,,,,,,,,,,,,,FALSE,-1,0,5,POL,54,28:52,29:34,8 - 11,-3
+65,MNE - POL,29:46,1786,1,CORSOVIC M Technical Fault,10,MNE,16,1,,,,0,,,,,,,,,,,10,,,TRUE,0,0,6,MNE,55,29:34,29:46,8 - 11,-3
+65,MNE - POL,29:54,1794,1,JEDRASZCZYK Pfor 1 KORNECKI M Empty goal,4,POL,Empty goal,16,,,,0,,,,,,,,,,,,,,FALSE,-1,1,6,MNE,55,29:34,29:46,8 - 11,-3
+65,MNE - POL,30:00,1800,1,SEVALJEVIC V 2-minutes suspension,21,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,21,TRUE,0,0,6,MNE,55,29:34,29:46,8 - 11,-3
+65,MNE - POL,30:00,1800,1,LAZOVIC V Block,8,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,POL,56,29:46,30:00,8 - 11,-3
+65,MNE - POL,30:00,1800,1,SICKO S Shot right 9m blocked,9,POL,Empty goal,16,,,9,0,,blocked,right 9m,,,,,,,,,,,FALSE,-1,1,6,POL,56,29:46,30:00,8 - 11,-3
+65,MNE - POL,30:00,1800,2,SIMIC N Goalkeeper,16,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,,,POL,57,,,8 - 11,-3
+65,MNE - POL,30:36,1836,2,KORNECKI M,1,POL,Empty goal,16,,,,0,,,,,,,,,,,,,,FALSE,-1,1,6,POL,57,30:00,30:42,8 - 11,-3
+65,MNE - POL,30:42,1842,2,"PIETRASIK A Goal left 6m middle right, 93 km/h",12,POL,Empty goal,16,,12,,1,93,middle right,left 6m,,,middle,right,,,,,,,FALSE,0,1,7,POL,57,30:00,30:42,8 - 12,-4
+65,MNE - POL,30:57,1857,2,CEPIC Rfor 16 SIMIC N Empty goal,9,MNE,Empty goal,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,-1,1,6,POL,57,30:00,30:42,8 - 12,-4
+65,MNE - POL,31:18,1878,2,CEPIC R Shot right 6m saved middle left,9,MNE,Empty goal,Empty goal,,,9,0,,middle left,right 6m,,1,middle,left,,,,,,,TRUE,-1,1,6,MNE,58,30:42,31:25,8 - 12,-4
+65,MNE - POL,31:20,1880,2,SIMIC Nfor 32 ANDJELIC B Goalkeeper back,16,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,-1,0,5,MNE,58,30:42,31:25,8 - 12,-4
+65,MNE - POL,31:25,1885,2,CEPIC R Goal right 6m bottom right,9,MNE,16,Empty goal,,9,,1,,bottom right,right 6m,,,bottom,right,,,,,,,TRUE,-1,0,5,MNE,58,30:42,31:25,9 - 12,-3
+65,MNE - POL,31:54,1914,2,PIETRASIK A Shot left 6m saved top left,12,POL,Empty goal,16,,,12,0,,top left,left 6m,,1,top,left,,,,,,,FALSE,0,1,7,POL,59,31:25,32:50,9 - 12,-3
+65,MNE - POL,32:36,1956,2,LAZOVIC V Block,8,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,POL,59,31:25,32:50,9 - 12,-3
+65,MNE - POL,32:36,1956,2,DASZEK M Shot left 6m blocked,3,POL,Empty goal,16,,,3,0,,blocked,left 6m,,,,,,,,,,,FALSE,0,1,7,POL,59,31:25,32:50,9 - 12,-3
+65,MNE - POL,32:50,1970,2,"DASZEK M Goal right 6m middle left (4 JEDRASZCZYK P), 63 km/h",3,POL,Empty goal,16,4,3,,1,63,middle left,right 6m,,,middle,left,,,,,,,FALSE,0,1,7,POL,59,31:25,32:50,9 - 13,-4
+65,MNE - POL,33:36,2016,2,"LAZOVIC V Goal right 6m bottom left (32 ANDJELIC B), 61 km/h",8,MNE,16,Empty goal,32,8,,1,61,bottom left,right 6m,,,bottom,left,,,,,,,TRUE,0,0,6,MNE,60,32:50,33:36,10 - 13,-3
+65,MNE - POL,34:11,2051,2,"JEDRASZCZYK P Goal left 9m top right, 87 km/h",4,POL,Empty goal,16,,4,,1,87,top right,left 9m,,,top,right,,,,,,,FALSE,0,1,7,POL,61,33:36,34:11,10 - 14,-4
+65,MNE - POL,35:17,2117,2,ANDJELIC B Shot centre 9m post,32,MNE,16,Empty goal,,,32,0,,post,centre 9m,1,,,,,,,,,,TRUE,0,0,6,MNE,62,34:11,35:17,10 - 14,-4
+65,MNE - POL,35:54,2154,2,"DASZEK M Goal left 9m top right, 110 km/h",3,POL,Empty goal,16,,3,,1,110,top right,left 9m,,,top,right,,,,,,,FALSE,0,1,7,POL,63,35:17,35:54,10 - 15,-5
+65,MNE - POL,36:30,2190,2,CEPIC R Turnover,9,MNE,16,Empty goal,,,,0,,,,,,,,,,9,,,,TRUE,0,0,6,MNE,64,35:54,36:30,10 - 15,-5
+65,MNE - POL,36:40,2200,2,"PIETRASIK A Goal fast break bottom right, 77 km/h",12,POL,Empty goal,16,,12,,1,77,bottom right,fast break,,,bottom,right,,,,,,,FALSE,0,1,7,POL,65,36:30,36:40,10 - 16,-6
+65,MNE - POL,36:48,2208,2,VUJOVIC B Technical Fault,11,MNE,16,Empty goal,,,,0,,,,,,,,,,,11,,,TRUE,0,0,6,MNE,66,36:40,36:48,10 - 16,-6
+65,MNE - POL,37:33,2253,2,DASZEK M Shot centre 9m missed,3,POL,Empty goal,16,,,3,0,,missed,centre 9m,,,,,,,,,,,FALSE,0,1,7,POL,67,36:48,37:33,10 - 16,-6
+65,MNE - POL,37:42,2262,2,"VUJOVIC M Goal fast break middle centre, 75 km/h",6,MNE,16,Empty goal,,6,,1,75,middle centre,fast break,,,middle,centre,,,,,,,TRUE,0,0,6,MNE,68,37:33,37:42,11 - 16,-5
+65,MNE - POL,38:13,2293,2,JEDRASZCZYK P Goal centre 6m top left,4,POL,Empty goal,16,,4,,1,,top left,centre 6m,,,top,left,,,,,,,FALSE,0,1,7,POL,69,37:42,38:13,11 - 17,-6
+65,MNE - POL,38:25,2305,2,"RADOVIC M Goal right wing bottom right, 84 km/h",13,MNE,16,Empty goal,,13,,1,84,bottom right,right wing,,,bottom,right,,,,,,,TRUE,0,0,6,MNE,70,38:13,38:25,12 - 17,-5
+65,MNE - POL,39:01,2341,2,PIETRASIK A Goal left 9m top left,12,POL,Empty goal,16,,12,,1,,top left,left 9m,,,top,left,,,,,,,FALSE,0,1,7,POL,71,38:25,39:01,12 - 18,-6
+65,MNE - POL,39:14,2354,2,KALUDJEROVIC V 7m received,17,MNE,16,Empty goal,,,,0,,,,,,,,,17,,,,,TRUE,0,0,6,MNE,72,39:01,39:24,12 - 18,-6
+65,MNE - POL,39:14,2354,2,JEDRASZCZYK P 7m caused,4,POL,Empty goal,16,,,,0,,,,,,,,4,,,,,,FALSE,0,1,7,MNE,72,39:01,39:24,12 - 18,-6
+65,MNE - POL,39:24,2364,2,"VUJOVIC M Goal Penalty shot top left (17 KALUDJEROVIC V), 94 km/h",6,MNE,16,Empty goal,17,6,,1,94,top left,Penalty,,,top,left,,,,,,,TRUE,0,0,6,MNE,72,39:01,39:24,13 - 18,-5
+65,MNE - POL,40:18,2418,2,"PIETRASIK A Goal left 9m top right, 66 km/h",12,POL,Empty goal,16,,12,,1,66,top right,left 9m,,,top,right,,,,,,,FALSE,0,1,7,POL,73,39:24,40:18,13 - 19,-6
+65,MNE - POL,40:27,2427,2,KALUDJEROVIC V Turnover,17,MNE,16,Empty goal,,,,0,,,,,,,,,,17,,,,TRUE,0,0,6,MNE,74,40:18,40:27,13 - 19,-6
+65,MNE - POL,40:27,2427,2,GEBALA M Steal,28,POL,Empty goal,16,,,,0,,,,,,,,,,,,28,,FALSE,0,1,7,MNE,74,40:18,40:27,13 - 19,-6
+65,MNE - POL,41:55,2515,2,PIETRASIK A Shot left 9m saved bottom left,12,POL,Empty goal,16,,,12,0,,bottom left,left 9m,,1,bottom,left,,,,,,,FALSE,0,1,7,POL,75,40:27,41:55,13 - 19,-6
+65,MNE - POL,42:09,2529,2,VUJOVIC M Shot fast break saved bottom right,6,MNE,16,Empty goal,,,6,0,,bottom right,fast break,,1,bottom,right,,,,,,,TRUE,0,0,6,MNE,76,41:55,42:09,13 - 19,-6
+65,MNE - POL,42:23,2543,2,"KOMARZEWSKI K Goal right wing bottom left, 91 km/h",6,POL,Empty goal,16,,6,,1,91,bottom left,right wing,,,bottom,left,,,,,,,FALSE,0,1,7,POL,77,42:09,42:23,13 - 20,-7
+65,MNE - POL,42:24,2544,2,Team timeout,"",MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,MNE,78,42:23,42:50,13 - 20,-7
+65,MNE - POL,42:24,2544,2,LAZOVIC Vfor 16 SIMIC N Empty goal,8,MNE,Empty goal,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,1,7,MNE,78,42:23,42:50,13 - 20,-7
+65,MNE - POL,42:45,2565,2,SIMIC Nfor 8 LAZOVIC V Goalkeeper back,16,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,MNE,78,42:23,42:50,13 - 20,-7
+65,MNE - POL,42:50,2570,2,"VUJOVIC B Goal centre 9m middle left, 95 km/h",11,MNE,16,Empty goal,,11,,1,95,middle left,centre 9m,,,middle,left,,,,,,,TRUE,0,0,6,MNE,78,42:23,42:50,14 - 20,-6
+65,MNE - POL,43:24,2604,2,KOMARZEWSKI K Technical Fault,6,POL,Empty goal,16,,,,0,,,,,,,,,,,6,,,FALSE,0,1,7,POL,79,42:50,43:24,14 - 20,-6
+65,MNE - POL,43:34,2614,2,"VUJOVIC B Goal centre 6m top right, 89 km/h",11,MNE,16,Empty goal,,11,,1,89,top right,centre 6m,,,top,right,,,,,,,TRUE,0,0,6,MNE,80,43:24,43:34,15 - 20,-5
+65,MNE - POL,44:15,2655,2,DASZEK M Shot breakthrough saved middle centre,3,POL,Empty goal,16,,,3,0,,middle centre,breakthrough,,1,middle,centre,,,,,,,FALSE,0,1,7,POL,81,43:34,44:24,15 - 20,-5
+65,MNE - POL,44:24,2664,2,KOMARZEWSKI K Shot right wing saved middle centre,6,POL,Empty goal,16,,,6,0,,middle centre,right wing,,1,middle,centre,,,,,,,FALSE,0,1,7,POL,81,43:34,44:24,15 - 20,-5
+65,MNE - POL,44:33,2673,2,VUJOVIC B Shot right 6m saved middle left,11,MNE,16,Empty goal,,,11,0,,middle left,right 6m,,1,middle,left,,,,,,,TRUE,0,0,6,MNE,82,44:24,44:33,15 - 20,-5
+65,MNE - POL,45:04,2704,2,CORSOVIC M 2-minutes suspension,10,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,10,TRUE,0,0,6,MNE,82,44:24,44:33,15 - 20,-5
+65,MNE - POL,45:30,2730,2,VUJOVIC M Steal,6,MNE,16,Empty goal,,,,0,,,,,,,,,,,,6,,TRUE,-1,0,5,POL,83,44:33,45:30,15 - 20,-5
+65,MNE - POL,45:30,2730,2,SICKO S Turnover,9,POL,Empty goal,16,,,,0,,,,,,,,,,9,,,,FALSE,0,1,7,POL,83,44:33,45:30,15 - 20,-5
+65,MNE - POL,45:43,2743,2,LAZOVIC Vfor 16 SIMIC N Empty goal,8,MNE,Empty goal,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,-1,1,6,POL,83,44:33,45:30,15 - 20,-5
+65,MNE - POL,45:59,2759,2,"CEPIC R Goal breakthrough middle left, 95 km/h",9,MNE,Empty goal,Empty goal,,9,,1,95,middle left,breakthrough,,,middle,left,,,,,,,TRUE,-1,1,6,MNE,84,45:30,45:59,16 - 20,-4
+65,MNE - POL,46:01,2761,2,SIMIC Nfor 23 SIMIC B Goalkeeper back,16,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,-1,0,5,MNE,84,45:30,45:59,16 - 20,-4
+65,MNE - POL,46:31,2791,2,LAZOVIC V 7m caused,8,MNE,16,Empty goal,,,,0,,,,,,,,8,,,,,,TRUE,-1,0,5,POL,85,45:59,46:40,16 - 20,-4
+65,MNE - POL,46:31,2791,2,CZUWARA J 7m received,19,POL,Empty goal,16,,,,0,,,,,,,,,19,,,,,FALSE,0,1,7,POL,85,45:59,46:40,16 - 20,-4
+65,MNE - POL,46:40,2800,2,JEDRASZCZYK P Penalty shot saved middle left,4,POL,Empty goal,16,,,4,0,,middle left,Penalty,,1,middle,left,,,,,,,FALSE,0,1,7,POL,85,45:59,46:40,16 - 20,-4
+65,MNE - POL,47:01,2821,2,SIMIC Bfor 16 SIMIC N Empty goal,23,MNE,Empty goal,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,-1,1,6,POL,85,45:59,46:40,16 - 20,-4
+65,MNE - POL,47:24,2844,2,RADOVIC M Shot right wing saved bottom centre,13,MNE,Empty goal,Empty goal,,,13,0,,bottom centre,right wing,,1,bottom,centre,,,,,,,TRUE,0,1,7,MNE,86,46:40,47:24,16 - 20,-4
+65,MNE - POL,47:25,2845,2,SIMIC Nfor 10 CORSOVIC M Goalkeeper back,16,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,MNE,86,46:40,47:24,16 - 20,-4
+65,MNE - POL,48:36,2916,2,"KOMARZEWSKI K Goal right wing bottom left, 77 km/h",6,POL,Empty goal,16,,6,,1,77,bottom left,right wing,,,bottom,left,,,,,,,FALSE,0,1,7,POL,87,47:24,48:36,16 - 21,-5
+65,MNE - POL,48:54,2934,2,CORSOVIC Mfor 16 SIMIC N Empty goal,10,MNE,Empty goal,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,1,7,POL,87,47:24,48:36,16 - 21,-5
+65,MNE - POL,49:12,2952,2,SIMIC Nfor 23 SIMIC B Goalkeeper back,16,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,POL,87,47:24,48:36,16 - 21,-5
+65,MNE - POL,49:13,2953,2,CEPIC R Goal left 6m top left,9,MNE,16,Empty goal,,9,,1,,top left,left 6m,,,top,left,,,,,,,TRUE,0,0,6,MNE,88,48:36,49:13,17 - 21,-4
+65,MNE - POL,49:44,2984,2,VUJOVIC M Steal,6,MNE,16,Empty goal,,,,0,,,,,,,,,,,,6,,TRUE,0,0,6,POL,89,49:13,49:44,17 - 21,-4
+65,MNE - POL,49:44,2984,2,DASZEK M Turnover,3,POL,Empty goal,16,,,,0,,,,,,,,,,3,,,,FALSE,0,1,7,POL,89,49:13,49:44,17 - 21,-4
+65,MNE - POL,49:50,2990,2,"VUJOVIC M Goal fast break bottom right, 71 km/h",6,MNE,16,Empty goal,,6,,1,71,bottom right,fast break,,,bottom,right,,,,,,,TRUE,0,0,6,MNE,90,49:44,49:50,18 - 21,-3
+65,MNE - POL,50:03,3003,2,"JEDRASZCZYK P Goal right 6m top left, 63 km/h",4,POL,Empty goal,16,,4,,1,63,top left,right 6m,,,top,left,,,,,,,FALSE,0,1,7,POL,91,49:50,50:03,18 - 22,-4
+65,MNE - POL,50:21,3021,2,CORSOVIC Mfor 16 SIMIC N Empty goal,10,MNE,Empty goal,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,1,7,POL,91,49:50,50:03,18 - 22,-4
+65,MNE - POL,50:39,3039,2,SIMIC Nfor 9 CEPIC R Goalkeeper back,16,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,POL,91,49:50,50:03,18 - 22,-4
+65,MNE - POL,50:39,3039,2,SIMIC B Shot centre 9m saved middle centre,23,MNE,16,Empty goal,,,23,0,,middle centre,centre 9m,,1,middle,centre,,,,,,,TRUE,0,0,6,MNE,92,50:03,50:45,18 - 22,-4
+65,MNE - POL,50:45,3045,2,CEPIC Rfor 16 SIMIC N Empty goal,9,MNE,Empty goal,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,1,7,MNE,92,50:03,50:45,18 - 22,-4
+65,MNE - POL,50:45,3045,2,Team timeout,"",MNE,Empty goal,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,1,7,MNE,92,50:03,50:45,18 - 23,-5
+65,MNE - POL,50:45,3045,2,"KORNECKI M Goal empty goal middle centre, 61 km/h",1,POL,Empty goal,Empty goal,,1,,1,61,middle centre,empty goal,,,middle,centre,,,,,,,FALSE,0,1,7,POL,93,50:45,50:45,18 - 23,-5
+65,MNE - POL,51:06,3066,2,SIMIC Nfor 23 SIMIC B Goalkeeper back,16,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,POL,93,50:45,50:45,18 - 23,-5
+65,MNE - POL,51:06,3066,2,CEPIC R Goal left 6m middle left,9,MNE,16,Empty goal,,9,,1,,middle left,left 6m,,,middle,left,,,,,,,TRUE,0,0,6,MNE,94,50:45,51:06,19 - 23,-4
+65,MNE - POL,51:39,3099,2,"DASZEK M Goal flying throw top left (4 JEDRASZCZYK P), 70 km/h",3,POL,Empty goal,16,4,3,,1,70,top left,,,,top,left,,,,,,,FALSE,0,1,7,POL,95,51:06,51:39,19 - 24,-5
+65,MNE - POL,51:47,3107,2,LASICA M Turnover,25,MNE,16,Empty goal,,,,0,,,,,,,,,,25,,,,TRUE,0,0,6,MNE,96,51:39,51:47,19 - 24,-5
+65,MNE - POL,51:47,3107,2,DASZEK M Steal,3,POL,Empty goal,16,,,,0,,,,,,,,,,,,3,,FALSE,0,1,7,MNE,96,51:39,51:47,19 - 24,-5
+65,MNE - POL,51:57,3117,2,SICKO S Shot fast break saved top left,9,POL,Empty goal,16,,,9,0,,top left,fast break,,1,top,left,,,,,,,FALSE,0,1,7,POL,97,51:47,52:04,19 - 24,-5
+65,MNE - POL,52:04,3124,2,KRAJEWSKI P Shot fast break post,26,POL,Empty goal,16,,,26,0,,post,fast break,1,,,,,,,,,,FALSE,0,1,7,POL,97,51:47,52:04,19 - 24,-5
+65,MNE - POL,52:09,3129,2,SIMIC Bfor 16 SIMIC N Empty goal,23,MNE,Empty goal,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,1,7,POL,97,51:47,52:04,19 - 24,-5
+65,MNE - POL,52:22,3142,2,SIMIC B Shot breakthrough saved middle right,23,MNE,Empty goal,Empty goal,,,23,0,,middle right,breakthrough,,1,middle,right,,,,,,,TRUE,0,1,7,MNE,98,52:04,52:22,19 - 24,-5
+65,MNE - POL,52:25,3145,2,SIMIC Nfor 4 BAKIC A Goalkeeper back,16,MNE,16,Empty goal,,,,0,,,,,,,,,,,,,,TRUE,0,0,6,MNE,98,52:04,52:22,19 - 24,-5
+65,MNE - POL,53:08,3188,2,Team timeout,"",POL,Empty goal,16,,,,0,,,,,,,,,,,,,,FALSE,0,1,7,POL,99,52:22,53:27,19 - 24,-5
+65,MNE - POL,53:27,3207,2,"KOMARZEWSKI K Goal right wing top centre (3 DASZEK M), 81 km/h",6,POL,Empty goal,16,3,6,,1,81,top centre,right wing,,,top,centre,,,,,,,FALSE,0,1,7,POL,99,52:22,53:27,19 - 25,-6
+65,MNE - POL,54:26,3266,2,CORSOVIC M Goal centre 6m middle right (26 VUJACIC R),10,MNE,16,Empty goal,26,10,,1,,middle right,centre 6m,,,middle,right,,,,,,,TRUE,0,0,6,MNE,100,53:27,54:26,20 - 25,-5
+65,MNE - POL,54:59,3299,2,"SICKO S Goal centre 9m bottom left, 101 km/h",9,POL,Empty goal,16,,9,,1,101,bottom left,centre 9m,,,bottom,left,,,,,,,FALSE,0,1,7,POL,101,54:26,54:59,20 - 26,-6
+65,MNE - POL,55:53,3353,2,VUJACIC R Shot centre 9m saved middle right,26,MNE,16,Empty goal,,,26,0,,middle right,centre 9m,,1,middle,right,,,,,,,TRUE,0,0,6,MNE,102,54:59,55:53,20 - 26,-6
+65,MNE - POL,56:49,3409,2,SICKO S Shot left 6m saved middle left,9,POL,Empty goal,16,,,9,0,,middle left,left 6m,,1,middle,left,,,,,,,FALSE,0,1,7,POL,103,55:53,56:49,20 - 26,-6
+65,MNE - POL,57:29,3449,2,VUJACIC R Shot centre 9m missed,26,MNE,16,Empty goal,,,26,0,,missed,centre 9m,,,,,,,,,,,TRUE,0,0,6,MNE,104,56:49,57:29,20 - 26,-6
+65,MNE - POL,58:07,3487,2,GEBALA M Shot centre 6m post,28,POL,Empty goal,16,,,28,0,,post,centre 6m,1,,,,,,,,,,FALSE,0,1,7,POL,105,57:29,58:07,20 - 26,-6
+65,MNE - POL,59:10,3550,2,VUJACIC R Shot right 9m blocked,26,MNE,16,Empty goal,,,26,0,,blocked,right 9m,,,,,,,,,,,TRUE,0,0,6,MNE,106,58:07,59:10,20 - 26,-6
+65,MNE - POL,59:10,3550,2,PIETRASIK A Block,12,POL,Empty goal,16,,,,0,,,,,,,,,,,,,,FALSE,0,1,7,MNE,106,58:07,59:10,20 - 26,-6
+65,MNE - POL,59:53,3593,2,"KOMARZEWSKI K Goal breakthrough middle right, 64 km/h",6,POL,Empty goal,16,,6,,1,64,middle right,breakthrough,,,middle,right,,,,,,,FALSE,0,1,7,POL,107,59:10,59:53,20 - 27,-7
+65,MNE - POL,60:00,3600,2,BAKIC A Shot left wing saved middle left,4,MNE,16,Empty goal,,,4,0,,middle left,left wing,,1,middle,left,,,,,,,TRUE,0,0,6,MNE,108,59:53,60:00,20 - 27,-7
